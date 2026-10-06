@@ -1,0 +1,1 @@
+{"name":"pixvault","version":"1.0.0","private":true,"type":"module","engines":{"node":">=22"},"scripts":{"dev":"vite","assets":"node scripts/build-assets.js","samples":"node scripts/create-samples.js","build":"vite build","preview":"vite preview","test":"node --test"},"dependencies":{"sharp":"^0.34.5"},"devDependencies":{"vite":"^7.3.1"}}

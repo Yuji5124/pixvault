@@ -1,0 +1,118 @@
+[
+  {
+    "id": "asset-bd554a990ece33acb7f6",
+    "name": "cute_white_cat",
+    "file": "assets/animals/cute_white_cat.png",
+    "thumbnail": "thumbnails/animals/cute_white_cat.png.webp",
+    "category": "animals",
+    "tags": [
+      "animals",
+      "cute",
+      "white",
+      "cat"
+    ],
+    "aiTags": [],
+    "width": 320,
+    "height": 320,
+    "transparent": true,
+    "format": "png",
+    "fileSize": 4793,
+    "hash": "3e6279455a9ea147e3a605aac90faec549251b2d8ff20d180ba24acf39450dd5",
+    "createdAt": "2026-10-06T11:31:03.561Z",
+    "description": "",
+    "license": "CC0-1.0",
+    "source": "PIXVAULT programmatically generated geometric sample"
+  },
+  {
+    "id": "asset-fded56bb8b46ffc3da6b",
+    "name": "red_fire",
+    "file": "assets/effects/red_fire.png",
+    "thumbnail": "thumbnails/effects/red_fire.png.webp",
+    "category": "effects",
+    "tags": [
+      "effects",
+      "red",
+      "fire"
+    ],
+    "aiTags": [],
+    "width": 320,
+    "height": 320,
+    "transparent": true,
+    "format": "png",
+    "fileSize": 6688,
+    "hash": "f4c2e78a35f4a4497e65901aff9fd9becbbbf93ca454fcde5cd27d92616bc41b",
+    "createdAt": "2026-10-06T11:31:03.573Z",
+    "description": "",
+    "license": "CC0-1.0",
+    "source": "PIXVAULT programmatically generated geometric sample"
+  },
+  {
+    "id": "asset-5e2685373f49b667afae",
+    "name": "green_tree",
+    "file": "assets/nature/green_tree.png",
+    "thumbnail": "thumbnails/nature/green_tree.png.webp",
+    "category": "nature",
+    "tags": [
+      "nature",
+      "green",
+      "tree"
+    ],
+    "aiTags": [],
+    "width": 320,
+    "height": 320,
+    "transparent": true,
+    "format": "png",
+    "fileSize": 5665,
+    "hash": "4cd8f90480e3b365d297a1db8a8129ef1eb543ec2561f826cd1fa87a50386b1f",
+    "createdAt": "2026-10-06T11:31:03.565Z",
+    "description": "",
+    "license": "CC0-1.0",
+    "source": "PIXVAULT programmatically generated geometric sample"
+  },
+  {
+    "id": "asset-f766945116337ee8351a",
+    "name": "blue_tile",
+    "file": "assets/objects/blue_tile.png",
+    "thumbnail": "thumbnails/objects/blue_tile.png.webp",
+    "category": "objects",
+    "tags": [
+      "objects",
+      "blue",
+      "tile"
+    ],
+    "aiTags": [],
+    "width": 320,
+    "height": 320,
+    "transparent": false,
+    "format": "png",
+    "fileSize": 4272,
+    "hash": "dbb04837db1386d6d051a8e96ebee7927f6ef9dd40cae7f23b570476ff1ef9d7",
+    "createdAt": "2026-10-06T11:31:03.573Z",
+    "description": "",
+    "license": "CC0-1.0",
+    "source": "PIXVAULT programmatically generated geometric sample"
+  },
+  {
+    "id": "asset-128a7461af6f3850a86f",
+    "name": "gold_key",
+    "file": "assets/objects/gold_key.png",
+    "thumbnail": "thumbnails/objects/gold_key.png.webp",
+    "category": "objects",
+    "tags": [
+      "objects",
+      "gold",
+      "key"
+    ],
+    "aiTags": [],
+    "width": 320,
+    "height": 320,
+    "transparent": true,
+    "format": "png",
+    "fileSize": 3888,
+    "hash": "71d0594a879d16d47306f50c3490a82e4a97fc7ec77fe02d65572838d15957de",
+    "createdAt": "2026-10-06T11:31:03.569Z",
+    "description": "",
+    "license": "CC0-1.0",
+    "source": "PIXVAULT programmatically generated geometric sample"
+  }
+]
