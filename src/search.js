@@ -1,9 +1,9 @@
 export function indexAssets(assets) {
- return assets.map(asset => ({ ...asset, searchText: [asset.name,asset.file,asset.category,...asset.tags,asset.description || ''].join(' ').normalize('NFKC').toLowerCase() }));
+ return assets.map(asset => ({ ...asset, searchText: [asset.name,asset.title || '',asset.file,asset.category,...asset.tags,asset.description || '',asset.collectionTitle || '',asset.style || ''].join(' ').normalize('NFKC').toLowerCase() }));
 }
-export function filterAssets(assets, { query = '', category = 'all', transparent = false, favoritesOnly = false, favorites = new Set() } = {}) {
+export function filterAssets(assets, { query = '', category = 'all', collection = 'all', transparent = false, favoritesOnly = false, favorites = new Set() } = {}) {
  const words = query.normalize('NFKC').toLowerCase().trim().split(/\s+/).filter(Boolean);
- return assets.filter(a => (category === 'all' || a.category === category) && (!transparent || a.transparent) && (!favoritesOnly || favorites.has(a.id)) && words.every(word => a.searchText.includes(word)));
+ return assets.filter(a => (category === 'all' || a.category === category) && (collection === 'all' || (a.collection || 'samples') === collection) && (!transparent || a.transparent) && (!favoritesOnly || favorites.has(a.id)) && words.every(word => a.searchText.includes(word)));
 }
 export function sortAssets(assets, order) {
  const result = [...assets];

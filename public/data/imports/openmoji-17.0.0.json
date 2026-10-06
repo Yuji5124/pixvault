@@ -1,0 +1,4025 @@
+{
+  "collection": "openmoji-color",
+  "title": "OpenMoji カラー",
+  "version": "17.0.0",
+  "commit": "f9fc506a3f913be9897ab0181d611d4c910a4104",
+  "archiveUrl": "https://github.com/hfg-gmuend/openmoji/releases/download/17.0.0/openmoji-618x618-color.zip",
+  "archiveSha256": "569628cc330a2c4ae2c38bbb2def190e08bb5fe4a76e657ea4bcc46bd2015d44",
+  "metadataSha256": "ab181dd523021dfbe2b98a13d96ab384b7b3014d17815261bc267fb39d9a211b",
+  "license": "CC-BY-SA-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "count": 1000,
+  "categories": {
+    "people": 122,
+    "animals": 143,
+    "effects": 67,
+    "nature": 86,
+    "food": 118,
+    "objects": 333,
+    "buildings": 59,
+    "vehicles": 72
+  },
+  "selectionPolicy": "Child-learning topics; excludes weapons, alcohol, smoking and listed topics. Not an automated safety classifier.",
+  "files": [
+    {
+      "file": "assets/people/openmoji-color/grinning-face-1f600.png",
+      "sourceHash": "4f598c9d7db8d7124c98a23829c3ef1c7423ced5b436c4ea90956fc97eea2190"
+    },
+    {
+      "file": "assets/animals/openmoji-color/grinning-cat-1f63a.png",
+      "sourceHash": "487ee86d8130c07f3c095820ad073fd51f255256e97ce6ab22a7f28d420c06d1"
+    },
+    {
+      "file": "assets/effects/openmoji-color/love-letter-1f48c.png",
+      "sourceHash": "91b391dba8f78abef6d7aa56d6135f189b7afdd42c5c303405280a9e9403c87c"
+    },
+    {
+      "file": "assets/nature/openmoji-color/bouquet-1f490.png",
+      "sourceHash": "12d957b3056d18edc9d9461a1e34a9c2bca99c7ed62e26afcfac7612a297cae3"
+    },
+    {
+      "file": "assets/food/openmoji-color/grapes-1f347.png",
+      "sourceHash": "f61e4d0d30eac0383481c5e2b50f27c8ae4a66238d4ef82da459635420bd70e4"
+    },
+    {
+      "file": "assets/objects/openmoji-color/chopsticks-1f962.png",
+      "sourceHash": "fbc0845e26f008ec5e96d50c0b06dec87c242cb16d8672bb7355a5859294137d"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/globe-showing-europe-africa-1f30d.png",
+      "sourceHash": "2bdb12b98b6c72a9e51ac1f57346e98f3e26826f68ad2714b720c6637862c9f1"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/locomotive-1f682.png",
+      "sourceHash": "898d6c69d5ea404a7ee62cff554109044d73bc3088b7d7f3ed8d1662c0606331"
+    },
+    {
+      "file": "assets/people/openmoji-color/grinning-face-with-big-eyes-1f603.png",
+      "sourceHash": "0f1f3e9a8096b9b6481c6f2bc6399c262a676c3919489edf89a9ef774778d60a"
+    },
+    {
+      "file": "assets/animals/openmoji-color/grinning-cat-with-smiling-eyes-1f638.png",
+      "sourceHash": "ac2a11c86ec51d3891f8eff710c235544d2124f990f804a3739403ae41e87a68"
+    },
+    {
+      "file": "assets/effects/openmoji-color/heart-with-arrow-1f498.png",
+      "sourceHash": "fb4b64ba6e7559f45d2b3f30273dc70cb0eb963f9110a140fce9870bfe6e76ac"
+    },
+    {
+      "file": "assets/nature/openmoji-color/cherry-blossom-1f338.png",
+      "sourceHash": "671b47b4deb166d72b6c072f9388faaa60396c771a530e1ea2f9271868d34c6e"
+    },
+    {
+      "file": "assets/food/openmoji-color/melon-1f348.png",
+      "sourceHash": "cff3451f1d195611f58e559b1f598605325fd56e6309aae5aa04c22b82271cd2"
+    },
+    {
+      "file": "assets/objects/openmoji-color/spoon-1f944.png",
+      "sourceHash": "3ac9afd1187ea55cb48afa6bf6d4e772856a8233267452793fa1ea6db7f36550"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/globe-showing-americas-1f30e.png",
+      "sourceHash": "746989f7f56d17e0559a2db3a6aa24966101cb6f707b746399e01dadbb10b0d7"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/railway-car-1f683.png",
+      "sourceHash": "5f8d58d9a00f0ee5ace83fec25089de2be963859f391c6f88c7063323ec1e237"
+    },
+    {
+      "file": "assets/people/openmoji-color/grinning-face-with-smiling-eyes-1f604.png",
+      "sourceHash": "ea4c82d0cd852c9de77486dd2ff8463dd83e6142ba01b092f1da1be594954057"
+    },
+    {
+      "file": "assets/animals/openmoji-color/cat-with-tears-of-joy-1f639.png",
+      "sourceHash": "a0a87e73f7eee6bb7fb07635c5c2306ff458ddf8f2be5ec7d1f662208c0a95e2"
+    },
+    {
+      "file": "assets/effects/openmoji-color/heart-with-ribbon-1f49d.png",
+      "sourceHash": "8c6d6cc5b6155a99a4a8176fe878ac08c694e6263c925032d6e03b1e9d5772b5"
+    },
+    {
+      "file": "assets/nature/openmoji-color/white-flower-1f4ae.png",
+      "sourceHash": "adcf96b9279bf9398827d75523519af1657f32a4fb045aad8a356efcac3c8fbb"
+    },
+    {
+      "file": "assets/food/openmoji-color/watermelon-1f349.png",
+      "sourceHash": "93f95535b3fd36979137a4097be89436579097e1df49e671504381cbc2161bcf"
+    },
+    {
+      "file": "assets/objects/openmoji-color/jar-1fad9.png",
+      "sourceHash": "587a04ef48ccd725a9bd49ce31d71d9162f8436c973872e2be885772fd1b3d69"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/globe-showing-asia-australia-1f30f.png",
+      "sourceHash": "8c3a830c4f0178cfbc6646aee2255a041941e00e95acaa1d95361fb24329afe0"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/high-speed-train-1f684.png",
+      "sourceHash": "2033f39d0b9785c0832a908f7bdd4b16ba9caac588da957518709f27809073ac"
+    },
+    {
+      "file": "assets/people/openmoji-color/beaming-face-with-smiling-eyes-1f601.png",
+      "sourceHash": "8b289fc9009df08bc6bf677f90a8170ed136255a639f5e019fcacdcefbf2445c"
+    },
+    {
+      "file": "assets/animals/openmoji-color/smiling-cat-with-heart-eyes-1f63b.png",
+      "sourceHash": "7d4ec2c69b8b9fb91d774257e3805d6852dfdbe1148635f04acaedb86b3fe43d"
+    },
+    {
+      "file": "assets/effects/openmoji-color/sparkling-heart-1f496.png",
+      "sourceHash": "4d2654d02663634a1ccde1e176a35bdd40a5485450d4a962920f722764cb74de"
+    },
+    {
+      "file": "assets/nature/openmoji-color/lotus-1fab7.png",
+      "sourceHash": "6a70db3dab608465a442b21e9c37098968ad342786cb8f59767919f674102b45"
+    },
+    {
+      "file": "assets/food/openmoji-color/tangerine-1f34a.png",
+      "sourceHash": "76da2e1e6538a571c1a1d80e4a41b3afb7fc67d9d0f68a5d0ca2c8dca9690391"
+    },
+    {
+      "file": "assets/objects/openmoji-color/amphora-1f3fa.png",
+      "sourceHash": "715ba996bc0e89ed96df0d97ae5443edb18b944ca185de7e9c6d6abe742718ea"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/globe-with-meridians-1f310.png",
+      "sourceHash": "3812b7249e0666cdb18c629fe27e89befaaaffc7ada4e6814e14f51c97d0c961"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/bullet-train-1f685.png",
+      "sourceHash": "0328a8ac8883855fa1426a9029133ae2b3aea64b25bd083a29dfd876c5c324b9"
+    },
+    {
+      "file": "assets/people/openmoji-color/grinning-squinting-face-1f606.png",
+      "sourceHash": "408b26cd26cd6890e4cb25ce7636ef755dcbe57efcca096054a3656ab4684b62"
+    },
+    {
+      "file": "assets/animals/openmoji-color/cat-with-wry-smile-1f63c.png",
+      "sourceHash": "d7039ed0a03af6c6becf3d0b7867d0cfc2c18d904c17365c217a4656511d9acb"
+    },
+    {
+      "file": "assets/effects/openmoji-color/growing-heart-1f497.png",
+      "sourceHash": "4ff229964c3161a2e458d90fda230e1ad59573cf437c7c2ffed7f67d5f49c8c3"
+    },
+    {
+      "file": "assets/nature/openmoji-color/rosette-1f3f5.png",
+      "sourceHash": "7dd15b066f107c6e190f91b91ae3fbfbd0650af60f2c87ab12fbf71536aeb649"
+    },
+    {
+      "file": "assets/food/openmoji-color/lemon-1f34b.png",
+      "sourceHash": "d2f2bc2bdf10ba4e10f73631cf3ff8a134ce6ebb42b6b5b9e1683ca958d7a1db"
+    },
+    {
+      "file": "assets/objects/openmoji-color/hourglass-done-231b.png",
+      "sourceHash": "cf15a67dc36e3f06a9dd513004c060c24a8d722e3349807d48417a904fcc7691"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/world-map-1f5fa.png",
+      "sourceHash": "1c7c21bde00a8393be0f2c1a9e2904d4e9778fbf05c4db1a03a852508e7b6870"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/train-1f686.png",
+      "sourceHash": "78e16d32e05d560e84abbe54353d13b7c4edb7bf488c1423f2e1bd1078a3a93e"
+    },
+    {
+      "file": "assets/people/openmoji-color/grinning-face-with-sweat-1f605.png",
+      "sourceHash": "d9b568ccf1ea72409b243ba91e7d467428415719347756411c04e45e1b345835"
+    },
+    {
+      "file": "assets/animals/openmoji-color/kissing-cat-1f63d.png",
+      "sourceHash": "563415defbececa2c9c248c741252f8293391bcd4935a95470b2d3f5e52f8cba"
+    },
+    {
+      "file": "assets/effects/openmoji-color/beating-heart-1f493.png",
+      "sourceHash": "3300dffbe87eae403cec4dfa1be7ed44b4f130597233e7601f913fb8898fcdbf"
+    },
+    {
+      "file": "assets/nature/openmoji-color/rose-1f339.png",
+      "sourceHash": "e7fdbaa961fef3d2d043077be74f8d9ecdf8f4180d6bf5280bbb57d0be68c169"
+    },
+    {
+      "file": "assets/food/openmoji-color/lime-1f34b-200d-1f7e9.png",
+      "sourceHash": "9aaf05142726f7e55a78503a1a57102166e9ca43ee7b7d386c93d7a4eb5b3b10"
+    },
+    {
+      "file": "assets/objects/openmoji-color/hourglass-not-done-23f3.png",
+      "sourceHash": "0dc732d063655521dcd5fbbaed64e4f94f9182f42afb1962ade8fb5fe65a754d"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/map-of-japan-1f5fe.png",
+      "sourceHash": "61896019f1355e75afb138d8bff4c935bb535b7ce7103961f281cf60cf26b4e4"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/metro-1f687.png",
+      "sourceHash": "77ef9f6dd935612b69d1fa0af5aac30aafa55ba9d5e58721ad1e98b9b5767c35"
+    },
+    {
+      "file": "assets/people/openmoji-color/rolling-on-the-floor-laughing-1f923.png",
+      "sourceHash": "e7d14561dbec3b7a31cc04b0d7cb63b0792d8f3816f83f143b1d81ad4cf752d5"
+    },
+    {
+      "file": "assets/animals/openmoji-color/weary-cat-1f640.png",
+      "sourceHash": "d1c14b99f5c2d7497559ceb8e73e3aaa364feb6aa0a242dc615216ac9f6d9653"
+    },
+    {
+      "file": "assets/effects/openmoji-color/revolving-hearts-1f49e.png",
+      "sourceHash": "757053e7f1ad4def6d77a4732cd2e85caff5926db66deb0af52721ca41f766aa"
+    },
+    {
+      "file": "assets/nature/openmoji-color/wilted-flower-1f940.png",
+      "sourceHash": "58f2c73930498c03c604ed97db49651167d3fe7cc8f75403bd6a347e80d2267d"
+    },
+    {
+      "file": "assets/food/openmoji-color/banana-1f34c.png",
+      "sourceHash": "27bd3c262ba8a9e2b7a96d7f43ef710c7309c3f2773a8c9001b5cafbdf47330b"
+    },
+    {
+      "file": "assets/objects/openmoji-color/watch-231a.png",
+      "sourceHash": "4417eda78ddea917400c01cc8724f9401fb26c72de462fe29b920daebed59ad8"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/compass-1f9ed.png",
+      "sourceHash": "61563ddc761cec53fadf3fb16bd45cc2756bfa3f416d1322abd55a77f38d49c4"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/light-rail-1f688.png",
+      "sourceHash": "6ab4316cde33aea4ab0f787e7071591d18777234026c04b1bc7f1fc802c9b966"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-with-tears-of-joy-1f602.png",
+      "sourceHash": "bd6ec82f57463f53926fc9ea3e85a9015362c98eaebaa67d2335e101f803be37"
+    },
+    {
+      "file": "assets/animals/openmoji-color/crying-cat-1f63f.png",
+      "sourceHash": "1bb212d2ba99c5bcca25db13b87b90104b559388e9f6d6c4276fde45ee5e1252"
+    },
+    {
+      "file": "assets/effects/openmoji-color/two-hearts-1f495.png",
+      "sourceHash": "cf7b168c728f077769c7a2d164d15131c651f0a4bb795924e89a761524e63978"
+    },
+    {
+      "file": "assets/nature/openmoji-color/hibiscus-1f33a.png",
+      "sourceHash": "309a97774ec0190d0f00dc79db24f0eecbfce7ff36b340fb2da7279d06bf9449"
+    },
+    {
+      "file": "assets/food/openmoji-color/pineapple-1f34d.png",
+      "sourceHash": "e5010a6dd9d95e6eb4ed90833f405a91556978580017b2998e8282528a90e8d9"
+    },
+    {
+      "file": "assets/objects/openmoji-color/alarm-clock-23f0.png",
+      "sourceHash": "3af02eb1899dd2fd944c803d129429ae52819c4603091f947c20cf057b04f726"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/stadium-1f3df.png",
+      "sourceHash": "98aeadabaef168f61250503a9e8387705b7a7deeb4389ba779efc1d740fcbaa4"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/station-1f689.png",
+      "sourceHash": "3aa95423cab79c64b85d772436a9138c4cf13c1eb7a451b0f353a9293c1da3b7"
+    },
+    {
+      "file": "assets/people/openmoji-color/slightly-smiling-face-1f642.png",
+      "sourceHash": "74a89720a346e25382c895e04999526fb03213baaa755fb58f272b778e3cee48"
+    },
+    {
+      "file": "assets/animals/openmoji-color/pouting-cat-1f63e.png",
+      "sourceHash": "08d937e60686255167854d77b03000f18d22f4ae2414ae6abfd9e9fcc811a095"
+    },
+    {
+      "file": "assets/effects/openmoji-color/heart-decoration-1f49f.png",
+      "sourceHash": "86c1ac2e36cc87979f1cc0eaf17a6741ee8a5d604c77752477a6747608ca1774"
+    },
+    {
+      "file": "assets/nature/openmoji-color/sunflower-1f33b.png",
+      "sourceHash": "4dc908f328b82c0b64722593555dfd493c383d8e4538b1cfc95376fe1e4a239b"
+    },
+    {
+      "file": "assets/food/openmoji-color/mango-1f96d.png",
+      "sourceHash": "88a07d5574a104113b172f27d9768346ed7ecfdfdc2a468afa28a96ce4381e33"
+    },
+    {
+      "file": "assets/objects/openmoji-color/stopwatch-23f1.png",
+      "sourceHash": "ab620637281e726e5e2b96a7d67163f4d0ea39253dca71021ccb45b8919521c2"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/classical-building-1f3db.png",
+      "sourceHash": "280d80b0cf55e9ea19f22f8df79222277a512b12dcba47a482196b1e131984d9"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/tram-1f68a.png",
+      "sourceHash": "7a0251967f159b8aab27934b127360202c4582e5021f1728ede6d70dba4faf74"
+    },
+    {
+      "file": "assets/people/openmoji-color/upside-down-face-1f643.png",
+      "sourceHash": "2fcff65e8bfd0c5a0817ac65834eece6d4d01a9b97478c76cd426b6a705f1c0e"
+    },
+    {
+      "file": "assets/animals/openmoji-color/see-no-evil-monkey-1f648.png",
+      "sourceHash": "3f5457538380d9d57bca1b3c0aa367d09afc01764e56ed9a6f43637a92f8ee4d"
+    },
+    {
+      "file": "assets/effects/openmoji-color/heart-exclamation-2763.png",
+      "sourceHash": "acb79223550fe7b11464db0be53e4e6f8a85a6f601f59f1c9520c0d33681644d"
+    },
+    {
+      "file": "assets/nature/openmoji-color/blossom-1f33c.png",
+      "sourceHash": "b261d7944575ed6c077c25c6107329d9eb7f938da6a83fec932aecaf0ba82333"
+    },
+    {
+      "file": "assets/food/openmoji-color/red-apple-1f34e.png",
+      "sourceHash": "8534c1bec8bde9d9641656508ab9476ad46acac394bd2de25bc0e6eeca4f5a72"
+    },
+    {
+      "file": "assets/objects/openmoji-color/timer-clock-23f2.png",
+      "sourceHash": "590bc33e684033d179a4201bd3d5092b162d460cb3d843eb001ade019a80f683"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/building-construction-1f3d7.png",
+      "sourceHash": "f4a63515e88edc4f79b3c2a73ef74c7ef3bf131350a7c49390ccfd635f39ebcc"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/monorail-1f69d.png",
+      "sourceHash": "b6ae1c51c311b2b00efb48aa065aaa049764bdc66c5a51d0d9722633f58bda62"
+    },
+    {
+      "file": "assets/people/openmoji-color/melting-face-1fae0.png",
+      "sourceHash": "715f25b5bc110e4c857821f7748795eb6af46f8c77151efaa85d138bad93e0e6"
+    },
+    {
+      "file": "assets/animals/openmoji-color/hear-no-evil-monkey-1f649.png",
+      "sourceHash": "818379997d8768b2a06adc958fa1564d8b9a5475d09cd98f366df2266033b740"
+    },
+    {
+      "file": "assets/effects/openmoji-color/broken-heart-1f494.png",
+      "sourceHash": "d3e382b93f9b74eb63a1c7111f1085bdeb4e64d7c884a2e6272d84fd8e56d808"
+    },
+    {
+      "file": "assets/nature/openmoji-color/tulip-1f337.png",
+      "sourceHash": "398778ae78e9e7209911ae03d22c73b81a6b26c337ab7d3ebef2b0a507764f1c"
+    },
+    {
+      "file": "assets/food/openmoji-color/green-apple-1f34f.png",
+      "sourceHash": "8ff2a6385c192c7a398f9eb6a7e482249cb2b36d2b1ce0f95299bfb8e38cd2e0"
+    },
+    {
+      "file": "assets/objects/openmoji-color/mantelpiece-clock-1f570.png",
+      "sourceHash": "15347ed985bef14310b59b010c502348649df0aa068c3c129b03ba69ac7dafb3"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/brick-1f9f1.png",
+      "sourceHash": "4fc73cb0a8186f73760204f35eb1a40f0a44de9ef32d977d4fd06f63bafc8ebe"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/mountain-railway-1f69e.png",
+      "sourceHash": "cda66f4b8dafd4216b8a82f7ab40e47221a500750ee04689a249df989692394c"
+    },
+    {
+      "file": "assets/people/openmoji-color/winking-face-1f609.png",
+      "sourceHash": "b3b973d8a3b187474f07ef1f21ce8610ed4dd50a5de9340384623dfc91ed7deb"
+    },
+    {
+      "file": "assets/animals/openmoji-color/speak-no-evil-monkey-1f64a.png",
+      "sourceHash": "963fa4dd116852963e9803e5188f9c20079a8984653f7aff7d708b81b922e872"
+    },
+    {
+      "file": "assets/effects/openmoji-color/heart-on-fire-2764-fe0f-200d-1f525.png",
+      "sourceHash": "276f07c223d405a35f415d3d9bc76522dafdf8bd344ba01ee1b14ca68f40ba2b"
+    },
+    {
+      "file": "assets/nature/openmoji-color/hyacinth-1fabb.png",
+      "sourceHash": "bc509014cd05c47471937f237a929adb2f29e0889e774cfeb9ea1d6e0e1926b8"
+    },
+    {
+      "file": "assets/food/openmoji-color/pear-1f350.png",
+      "sourceHash": "af7cb6bc9c4b811eefb39ec1eb066a90537eb8d04021c43cdc7a34e50e2a1f71"
+    },
+    {
+      "file": "assets/objects/openmoji-color/twelve-o-clock-1f55b.png",
+      "sourceHash": "5ddbf0d3d8528640ef0008e958e90a4a6d7d82187f14211b93ef3a2a519b0188"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/rock-1faa8.png",
+      "sourceHash": "e95e51a43e14f3b0963f3cab07ceac9daf91fe89417555543647cd60efcd87cc"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/tram-car-1f68b.png",
+      "sourceHash": "a01c05fe87f731355b055bfa3c91fd1c69a964e003abf09896d82af40e6f82fc"
+    },
+    {
+      "file": "assets/people/openmoji-color/smiling-face-with-smiling-eyes-1f60a.png",
+      "sourceHash": "bf935810edcff74f5b3cdbf6a92d167507c337024a21ca7fb6388fd8ad4bfe80"
+    },
+    {
+      "file": "assets/animals/openmoji-color/monkey-face-1f435.png",
+      "sourceHash": "659aee21bb794ba5cdab02437515bf8d536d17ff9de87e2453ec2b6c9d1395cc"
+    },
+    {
+      "file": "assets/effects/openmoji-color/mending-heart-2764-fe0f-200d-1fa79.png",
+      "sourceHash": "5cff697b28c70415d3214c91ae882ce8c37164b0a499ff0b1c62aa20b0048494"
+    },
+    {
+      "file": "assets/nature/openmoji-color/seedling-1f331.png",
+      "sourceHash": "d28e0e9d0b91ea824c25913c1db2489aa12d3284746b290505578acb3856a12c"
+    },
+    {
+      "file": "assets/food/openmoji-color/peach-1f351.png",
+      "sourceHash": "0d0f6f6176cb09daa697550d6f2536b5749a417450d21157e0fa25eea463b872"
+    },
+    {
+      "file": "assets/objects/openmoji-color/twelve-thirty-1f567.png",
+      "sourceHash": "bdad2611f209ff10631ff2907a0c5a280f4f595892b877d2673ee1d9971ed2c3"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/wood-1fab5.png",
+      "sourceHash": "136f2a58cdf2ddefd1e90849d95aad7cc1da9e7508ab90bb29054dbe17076d90"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/bus-1f68c.png",
+      "sourceHash": "bf8a77071473d2e07350afe1c11d5cda612b2c1f19417f6bd3f08364eb681003"
+    },
+    {
+      "file": "assets/people/openmoji-color/smiling-face-with-halo-1f607.png",
+      "sourceHash": "6a5844658f8324ad2e74cda69a8509102665da9918f29d88d0e6fecfa1ba811b"
+    },
+    {
+      "file": "assets/animals/openmoji-color/monkey-1f412.png",
+      "sourceHash": "3c1bb43754d415494778f57d4eb79c12100cc1cc1864d61efd9f2d57a0ad7e15"
+    },
+    {
+      "file": "assets/effects/openmoji-color/red-heart-2764.png",
+      "sourceHash": "f3d469792b081f3d7631f08a93f4de964159d84b2fd01c7b5ee466abd81584dc"
+    },
+    {
+      "file": "assets/nature/openmoji-color/potted-plant-1fab4.png",
+      "sourceHash": "e2bfa33630e24929425f6494eecf65e59f8593994d9cb66e0033ae992102862a"
+    },
+    {
+      "file": "assets/food/openmoji-color/cherries-1f352.png",
+      "sourceHash": "4883c87e1b94729d2de1a784237d7bc2fb9f686187032ac7ef6e33b985d68dc5"
+    },
+    {
+      "file": "assets/objects/openmoji-color/one-o-clock-1f550.png",
+      "sourceHash": "706f2044396ee25b35afa076c71a9153c3be94b909c50732b9c243cb71d2647d"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/hut-1f6d6.png",
+      "sourceHash": "d554b787fadc5d63772664afbb1b42cd29756d2730a1ade8f74b20e057f7cf9f"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/oncoming-bus-1f68d.png",
+      "sourceHash": "d911bddc82150ee05ff4d0449ee4e21c260a218d9d5c2469ae373b0b97e276e5"
+    },
+    {
+      "file": "assets/people/openmoji-color/smiling-face-with-hearts-1f970.png",
+      "sourceHash": "0fcfad42149c6700fc6a03d7d2706082bdb25be378dce0718f2ff5659822530d"
+    },
+    {
+      "file": "assets/animals/openmoji-color/gorilla-1f98d.png",
+      "sourceHash": "0a43c41f84f39619f0e939e6d71fe0546dda5f78525cde1935c6d2dc77480f35"
+    },
+    {
+      "file": "assets/effects/openmoji-color/pink-heart-1fa77.png",
+      "sourceHash": "2ec43d8d2961e9e55f82676e3ce6ae53f0a798278d741974c62fe1cc82efa9e0"
+    },
+    {
+      "file": "assets/nature/openmoji-color/evergreen-tree-1f332.png",
+      "sourceHash": "1e34874f11877568ebf21a50efe0c7063a586a33c6ee650cb6d9a08b97ff0f0c"
+    },
+    {
+      "file": "assets/food/openmoji-color/strawberry-1f353.png",
+      "sourceHash": "9e80cb897208f4657c56a1ac1b90f1c17efa730233cbfebda77465bb1de56e0c"
+    },
+    {
+      "file": "assets/objects/openmoji-color/one-thirty-1f55c.png",
+      "sourceHash": "8265e12e8cb2f1523931fd878ae9d7122bb0c040b974aa470618c1e70ba6924c"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/houses-1f3d8.png",
+      "sourceHash": "a55c667f7ac0bd660384834b6f6ab92c7120edb03243d9cb999f656ac6797f93"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/trolleybus-1f68e.png",
+      "sourceHash": "61268ef0513bb3d55e16486ed8dde3cbfe6531d1af96e36da500dac911811bdf"
+    },
+    {
+      "file": "assets/people/openmoji-color/smiling-face-with-heart-eyes-1f60d.png",
+      "sourceHash": "57e4901eeb8a4a94f8b7bc1f5a1c458f405c5d6a47caf443b985c060922e55bd"
+    },
+    {
+      "file": "assets/animals/openmoji-color/orangutan-1f9a7.png",
+      "sourceHash": "bb7985b87cf4e3fc88f76159e6775a1a870892225eb49d0ed1612616b5368d69"
+    },
+    {
+      "file": "assets/effects/openmoji-color/orange-heart-1f9e1.png",
+      "sourceHash": "50452647b3b8a8e8f8385d8d49fa9f0565b148c7ebe9723c4d99fb49f7497dde"
+    },
+    {
+      "file": "assets/nature/openmoji-color/deciduous-tree-1f333.png",
+      "sourceHash": "1056977c645099dba66a92950989acfcffe48f3f21aed17b013602625de61cc7"
+    },
+    {
+      "file": "assets/food/openmoji-color/blueberries-1fad0.png",
+      "sourceHash": "a781375ee573d58d9376fbf37793efab3c9c3f818d9175d63d8009783df97297"
+    },
+    {
+      "file": "assets/objects/openmoji-color/two-o-clock-1f551.png",
+      "sourceHash": "f4b8c4dc74d88accd648cdcbd668a28f9b382d766d29b1969aa91d9243830ee0"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/derelict-house-1f3da.png",
+      "sourceHash": "064ccd3e5cc5e282dca712f7f507447a93e8820de13b0f61ec081d1b5a1ca302"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/minibus-1f690.png",
+      "sourceHash": "663a94525578317e7b2af3c57c05920f31fa630c99326f1245db455ce7fc364f"
+    },
+    {
+      "file": "assets/people/openmoji-color/star-struck-1f929.png",
+      "sourceHash": "c0f89a2f61d5a15a692f0678e7b4572d4d24e20fd2e71faaaad50c913ac34dec"
+    },
+    {
+      "file": "assets/animals/openmoji-color/dog-face-1f436.png",
+      "sourceHash": "0a71dcce68116cad0f5b821add6a73b6fdaeda8a811568de80eb2f4d0e684c8c"
+    },
+    {
+      "file": "assets/effects/openmoji-color/yellow-heart-1f49b.png",
+      "sourceHash": "cfa78b31846ba0f55377b2bf24514ed294bb3a784149c126b956bb492b1e6ed0"
+    },
+    {
+      "file": "assets/nature/openmoji-color/palm-tree-1f334.png",
+      "sourceHash": "a4150dbb4dd6e5a447377fb90ac767f16ebdbcbb6c164dc8e47743c357929185"
+    },
+    {
+      "file": "assets/food/openmoji-color/kiwi-fruit-1f95d.png",
+      "sourceHash": "6e98bd0f674d1ae8e31f3ea6e3c03c8d4311e4bf1db5034f69b63ebcf2802475"
+    },
+    {
+      "file": "assets/objects/openmoji-color/two-thirty-1f55d.png",
+      "sourceHash": "f0fc830a39b5ca0e495c34e39dc67fb1e40c31d8eb7ded07e5f7d03f541fe2f6"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/house-1f3e0.png",
+      "sourceHash": "b60915871876016aae8a6c67c399bea7fd974f38456e84623d6fcd5a30633e09"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/ambulance-1f691.png",
+      "sourceHash": "46bb50927de1fe642aa44d389375712fed1af3b835309df8ca43b88dabe9c2ba"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-blowing-a-kiss-1f618.png",
+      "sourceHash": "966b927e8c68433155d591b87f83ef2f14da213ac2cfd09ae435bf7a8ddd5c1b"
+    },
+    {
+      "file": "assets/animals/openmoji-color/dog-1f415.png",
+      "sourceHash": "3d0549a4b10cd13b4d60588484e73c553dee94a436cd328935d31594d550e3aa"
+    },
+    {
+      "file": "assets/effects/openmoji-color/green-heart-1f49a.png",
+      "sourceHash": "4b9bf75d7102fda6268436b7d6c5a2e7f2f3883b6352ee34227ce77f316497fb"
+    },
+    {
+      "file": "assets/nature/openmoji-color/cactus-1f335.png",
+      "sourceHash": "22cdb23480fed93b08fcf4712ee491e195e87036bb473f936bfb0221235e3892"
+    },
+    {
+      "file": "assets/food/openmoji-color/tomato-1f345.png",
+      "sourceHash": "a38a4a6ec5a54955ea85df00f2b64025c680bf10412e59a9d8f25d6aee498e96"
+    },
+    {
+      "file": "assets/objects/openmoji-color/three-o-clock-1f552.png",
+      "sourceHash": "47c1e3e9e0121e76ae4120b0701065afd8fba299f812feb4805a4e60c0499a81"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/house-with-garden-1f3e1.png",
+      "sourceHash": "03f3534e8e45eb6a6dbbe9ad60c3c530fd28f70c351cfb5365b5747ea57f0953"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/fire-engine-1f692.png",
+      "sourceHash": "807dd61400c481324fd4fc352e89c1d95625d461906d47c1d718c8bfe48a44bb"
+    },
+    {
+      "file": "assets/people/openmoji-color/kissing-face-1f617.png",
+      "sourceHash": "d28791e92d2dbf0c2bd29c23183088ebebc6dd1e0fe72741e25e7e2363df3a8b"
+    },
+    {
+      "file": "assets/animals/openmoji-color/guide-dog-1f9ae.png",
+      "sourceHash": "460a916482780577a5a29f6b3bc9428e40b878a5ce3104541c3ceed0e0323dba"
+    },
+    {
+      "file": "assets/effects/openmoji-color/blue-heart-1f499.png",
+      "sourceHash": "9bc51051570694a78c28054ec6513127b875412750d82760850cbcd72c832bd2"
+    },
+    {
+      "file": "assets/nature/openmoji-color/sheaf-of-rice-1f33e.png",
+      "sourceHash": "e595a9efbcd0b55d9b4996ee8b14b60cdc29fb3bfa426fe8abc0e2bd68bc0dab"
+    },
+    {
+      "file": "assets/food/openmoji-color/olive-1fad2.png",
+      "sourceHash": "8d5d759b663a232d4ce32568b66a40496f983c9073504929caec99ce76c4614d"
+    },
+    {
+      "file": "assets/objects/openmoji-color/three-thirty-1f55e.png",
+      "sourceHash": "dd72e64b6bbd27db8afdbcc8d565b8fb7f215bb6f7bc318c90d4e371713fb039"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/office-building-1f3e2.png",
+      "sourceHash": "9c4d693acdff2611f0e41346d78785047dde08a5b2a4c63228ac83e13096de35"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/police-car-1f693.png",
+      "sourceHash": "9902a646ae8e422b3a6a2a09d65a0ae65547dcada4826d308aca8fe75ec6d9e4"
+    },
+    {
+      "file": "assets/people/openmoji-color/smiling-face-263a.png",
+      "sourceHash": "03e6f27d2a7fe020cdf527785cc77433c44cfaf566fd06df338e9d367b0104ce"
+    },
+    {
+      "file": "assets/animals/openmoji-color/service-dog-1f415-200d-1f9ba.png",
+      "sourceHash": "6045826fcaca7da5335f4d48d156bd611dd6e506bddeb2692cc6e9cda05cf95a"
+    },
+    {
+      "file": "assets/effects/openmoji-color/light-blue-heart-1fa75.png",
+      "sourceHash": "597034a7314cf72234909fefb5ecdf94f224183de75a6e4d239f200120a8386d"
+    },
+    {
+      "file": "assets/nature/openmoji-color/herb-1f33f.png",
+      "sourceHash": "1bcbd780b936394d1c4d98160c7b79e1d8380b0ac0df6a818f5f5d6c59340d33"
+    },
+    {
+      "file": "assets/food/openmoji-color/coconut-1f965.png",
+      "sourceHash": "17f8b5bf1f56b87a34f8e76e8619ff5d29fbcc6d36deb503964d5c289d294e73"
+    },
+    {
+      "file": "assets/objects/openmoji-color/four-o-clock-1f553.png",
+      "sourceHash": "7b554a8aaa0eeb19cdb1002e1aa7b90cc82c0906219baa62fbb86cdfafe85812"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/japanese-post-office-1f3e3.png",
+      "sourceHash": "873218e1fde77eb4d471c8e0e464ba9c5bd2b374f73e835c7580e07a0fab6291"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/oncoming-police-car-1f694.png",
+      "sourceHash": "33c9dcd365434d253684569844f1154d796e3cdfd77b9110d39d2eeea1496056"
+    },
+    {
+      "file": "assets/people/openmoji-color/kissing-face-with-closed-eyes-1f61a.png",
+      "sourceHash": "e544e61a28909bec0ba473458d8430b9a8e1a7da5c2100bfbf1baa943bad196d"
+    },
+    {
+      "file": "assets/animals/openmoji-color/poodle-1f429.png",
+      "sourceHash": "9fe257cb687c9a9636ef354b4651881dbfa3881cec4b915d1cc5b0f08e40be4d"
+    },
+    {
+      "file": "assets/effects/openmoji-color/purple-heart-1f49c.png",
+      "sourceHash": "0123db1a35197769915783d5c7c1a9dea142554585e46fff78d63fcc3c62de1d"
+    },
+    {
+      "file": "assets/nature/openmoji-color/shamrock-2618.png",
+      "sourceHash": "98b75687f21b21c00e94ab079abda0b34f81281f494af4fe994439d5a1dc04ab"
+    },
+    {
+      "file": "assets/food/openmoji-color/avocado-1f951.png",
+      "sourceHash": "77842f3abddd33a632b11c5d66e56fe928f07baf0d242a537e48921d4d7deb90"
+    },
+    {
+      "file": "assets/objects/openmoji-color/four-thirty-1f55f.png",
+      "sourceHash": "03150a781abbd21bb62df66bb36d4abcf8ddb0739495ff82af8282d0466512b0"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/post-office-1f3e4.png",
+      "sourceHash": "b2a3c5eebac62ab075489a959ce80fe2dbb05d912ce374bdbc862392b33dcefc"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/taxi-1f695.png",
+      "sourceHash": "72cdb681571faf8904def6f2c4d126698b102601d85e6f5ad648871996abc60e"
+    },
+    {
+      "file": "assets/people/openmoji-color/kissing-face-with-smiling-eyes-1f619.png",
+      "sourceHash": "f08ca12b22715053bd95b0f8b71f28a9e751ff34d8f88ceeed27c7061795c1da"
+    },
+    {
+      "file": "assets/animals/openmoji-color/wolf-1f43a.png",
+      "sourceHash": "41fa7168a10eb041c496d3d7d54c370836adff69eb994cbe1269a8aa7a83471f"
+    },
+    {
+      "file": "assets/effects/openmoji-color/brown-heart-1f90e.png",
+      "sourceHash": "af9c4810473f956560850d8e79c47a70f2a49f6767500f9ff98752334e53712c"
+    },
+    {
+      "file": "assets/nature/openmoji-color/four-leaf-clover-1f340.png",
+      "sourceHash": "072e18b3890bf96d22f416b1231606aa32ba3b4ec2e04c4bc8d4656068800782"
+    },
+    {
+      "file": "assets/food/openmoji-color/eggplant-1f346.png",
+      "sourceHash": "64387edaf8fbde3a55ee0429c6bf708b438607d8a67b18437be6cb9ae4fed8de"
+    },
+    {
+      "file": "assets/objects/openmoji-color/five-o-clock-1f554.png",
+      "sourceHash": "e392561720b9be658e9ce9f1c1545334004c0a86e5840bee1dff182889243bc9"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/hospital-1f3e5.png",
+      "sourceHash": "45c7bcaa5fe20a9d1ad22f23f1b27d7bd187c27d0bf1d4ee89d12cbba9ea5014"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/oncoming-taxi-1f696.png",
+      "sourceHash": "6eb9736e2766b6836e19177638f69e3a428fcfef3c77a9f6c4f4e618f2f766a7"
+    },
+    {
+      "file": "assets/people/openmoji-color/smiling-face-with-tear-1f972.png",
+      "sourceHash": "29c0444bfb4f7efa46d056b9d9033880ccad2698430a03741967aeff6c6dcb1c"
+    },
+    {
+      "file": "assets/animals/openmoji-color/fox-1f98a.png",
+      "sourceHash": "8fbcc7cac7b0c3c617cf4033d856757293753bfae6a02ff6fb22774015df803a"
+    },
+    {
+      "file": "assets/effects/openmoji-color/black-heart-1f5a4.png",
+      "sourceHash": "29e069332fe369bee953419bbd506d1d0fc006f4be2a19d55e96fa8551ae5928"
+    },
+    {
+      "file": "assets/nature/openmoji-color/maple-leaf-1f341.png",
+      "sourceHash": "8d1bfea37194f713f5a2dbd66c33cc7af1020823f04b9eb0f8897494e2afd51a"
+    },
+    {
+      "file": "assets/food/openmoji-color/potato-1f954.png",
+      "sourceHash": "77dbc9884c062300ea4b3756986d03d9458dce09cd06bad7ceb75960102ff676"
+    },
+    {
+      "file": "assets/objects/openmoji-color/five-thirty-1f560.png",
+      "sourceHash": "accb84d2766d932a1029952663a194e09dc1071e46a71c5490c7112c2e193c09"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/bank-1f3e6.png",
+      "sourceHash": "277390f96c78fed74acf4698f5c6c6880d6330416f8026a232eb4cded4e78ff7"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/automobile-1f697.png",
+      "sourceHash": "3ddc07e24158d60fce27eb2fc739e08edb19ae6f8a24a58ca8d327b37e4b6e76"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-savoring-food-1f60b.png",
+      "sourceHash": "0b5b3390f7f378be3e3515a785f24875c0889d8b9bb759fa5e4d914e139e2fe4"
+    },
+    {
+      "file": "assets/animals/openmoji-color/raccoon-1f99d.png",
+      "sourceHash": "b73efa463488936fec7f47e9840d89d4309672b6018053d0fc1423542239bdee"
+    },
+    {
+      "file": "assets/effects/openmoji-color/grey-heart-1fa76.png",
+      "sourceHash": "048abbe220751e2e8862794aa9da59b21d621bf23d113465a29e4fdc51889dd1"
+    },
+    {
+      "file": "assets/nature/openmoji-color/fallen-leaf-1f342.png",
+      "sourceHash": "265a65371b7bf7d95f792112c529aba376366fe2d2a6abeddfe46399cf91ae82"
+    },
+    {
+      "file": "assets/food/openmoji-color/carrot-1f955.png",
+      "sourceHash": "fe0116d2048b118010126186feb27caccfd8ac5c574163ef13d83de4e265bdf2"
+    },
+    {
+      "file": "assets/objects/openmoji-color/six-o-clock-1f555.png",
+      "sourceHash": "ea0b46e847c3c5941b28d72af9ca6eccb39b4cc806704867bfbb33afedb9dc70"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/hotel-1f3e8.png",
+      "sourceHash": "94f083d2d3deab402f581fac2ab712835859dd388289323428e8ff96870cbaf4"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/oncoming-automobile-1f698.png",
+      "sourceHash": "0292f91c45dafc5a51f2cec5288b8273b8304a17fa5c9ac1294b6375e3548359"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-with-tongue-1f61b.png",
+      "sourceHash": "39cdb768461f1c902e9d029cac01373b6b4fc1be6b1bf32a4cf5114537211ad5"
+    },
+    {
+      "file": "assets/animals/openmoji-color/cat-face-1f431.png",
+      "sourceHash": "ed043c8f1e420d9afca7598615a67d7f56a94963b9454d00f51996d8f1c9d84f"
+    },
+    {
+      "file": "assets/effects/openmoji-color/white-heart-1f90d.png",
+      "sourceHash": "c11366d57fd236e0fbcdd66daace37a295e540c674592292246f2ed54cff7e56"
+    },
+    {
+      "file": "assets/nature/openmoji-color/leaf-fluttering-in-wind-1f343.png",
+      "sourceHash": "d470470bc6c3af5f349c49cd0996a2e58f1aa55e712bf31f628e9338a3804de4"
+    },
+    {
+      "file": "assets/food/openmoji-color/ear-of-corn-1f33d.png",
+      "sourceHash": "b32420a62403b33237a918d4d01fc72495d0461941307642521119acffb3f887"
+    },
+    {
+      "file": "assets/objects/openmoji-color/six-thirty-1f561.png",
+      "sourceHash": "fd216ea16bf437b8d7c6f0a8b1d8e311f014f214b7437db1c1dc146e6bf8af40"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/love-hotel-1f3e9.png",
+      "sourceHash": "7177faed03f9a30095bf79131f8949d63f2483ed2e475637f3f73d4c6685384d"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/sport-utility-vehicle-1f699.png",
+      "sourceHash": "978ea7c0e5e963170821e47a9e85572f78c66b5575d198535e94c104882cbc63"
+    },
+    {
+      "file": "assets/people/openmoji-color/winking-face-with-tongue-1f61c.png",
+      "sourceHash": "4914064050f917f567ba79eff91459cdde765861d63bbf436d8e9449b0d9c8a8"
+    },
+    {
+      "file": "assets/animals/openmoji-color/cat-1f408.png",
+      "sourceHash": "07bda0a7581705970eb8939ba77dd1d3cbf7c10a2aeda61048226d5299512844"
+    },
+    {
+      "file": "assets/effects/openmoji-color/kiss-mark-1f48b.png",
+      "sourceHash": "445b052cf3688920413e486bf21b926c9ac84b8657656df9732c76b1d31132ea"
+    },
+    {
+      "file": "assets/nature/openmoji-color/empty-nest-1fab9.png",
+      "sourceHash": "8a3234ac3c28523622fb00aabccce35f2576f358cf2c687323534c8989a5514b"
+    },
+    {
+      "file": "assets/food/openmoji-color/hot-pepper-1f336.png",
+      "sourceHash": "628d29952ad2091479ab9470bb4508dda3d041cef0bbf1e6829b4e2ae759dcb1"
+    },
+    {
+      "file": "assets/objects/openmoji-color/seven-o-clock-1f556.png",
+      "sourceHash": "0aecfa9f85304381f492847b6ca1663bda0580e053ece64791206711dc171c47"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/convenience-store-1f3ea.png",
+      "sourceHash": "48f7cf615382ffa9cab532562debf98e686c3c84a96b79ea3ec6b718792c6937"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/pickup-truck-1f6fb.png",
+      "sourceHash": "982de55868b816ed6a852ec5426e74dffe0c58884b03ee989dfd1ab2bf71dc86"
+    },
+    {
+      "file": "assets/people/openmoji-color/zany-face-1f92a.png",
+      "sourceHash": "020a898b8e5e092c68f7d1d4edfc7b4348fcba06d06f05501adf30ac2683b3d7"
+    },
+    {
+      "file": "assets/animals/openmoji-color/black-cat-1f408-200d-2b1b.png",
+      "sourceHash": "85e361372417a089d9830f683f794df8fbd8fb3c24437f2531f3e1f3d6f50299"
+    },
+    {
+      "file": "assets/effects/openmoji-color/hundred-points-1f4af.png",
+      "sourceHash": "35210960e52deb1b50aa3ba2d9b571da4d5e48c2f626e69c5124b7a82e9bad8b"
+    },
+    {
+      "file": "assets/nature/openmoji-color/nest-with-eggs-1faba.png",
+      "sourceHash": "2e5fdd9ae852c37bc77bb01ceedcb0b0c8a1fa074364d03d1bab0cf22606c790"
+    },
+    {
+      "file": "assets/food/openmoji-color/bell-pepper-1fad1.png",
+      "sourceHash": "e0a3e530f610fa6fc9aa6f59d476a567ed1bf4439c3e4e105e92bbde97af664b"
+    },
+    {
+      "file": "assets/objects/openmoji-color/seven-thirty-1f562.png",
+      "sourceHash": "1633a9902af1161ae76ccb09d50dd6bc9e3e04be91599ec4de8416e6760ad49f"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/school-1f3eb.png",
+      "sourceHash": "956ef503234c74d34ad314c469c91dafb0084459852784126c1cff4dcf402312"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/delivery-truck-1f69a.png",
+      "sourceHash": "9f448368b26557aacbebc62565a1a0ef93d745b7987a258203a0e3cd06d6da9a"
+    },
+    {
+      "file": "assets/people/openmoji-color/squinting-face-with-tongue-1f61d.png",
+      "sourceHash": "02da27f0cdbbddb48ac68310c2de3f64c7ce4284d7692648d56600a8a9fd7b59"
+    },
+    {
+      "file": "assets/animals/openmoji-color/lion-1f981.png",
+      "sourceHash": "0c457dfac6be0a65fba599749098db67b41f70af8c45574841411458a025e5c3"
+    },
+    {
+      "file": "assets/effects/openmoji-color/anger-symbol-1f4a2.png",
+      "sourceHash": "69ca1ac600cdb8e3980fd634e57c19f63a7a9443cdb7fe4a094aca8cae739424"
+    },
+    {
+      "file": "assets/nature/openmoji-color/mushroom-1f344.png",
+      "sourceHash": "95098cbcf048e30a89b90e453f591d66d655fc09c91cd64f750bf7a31c479c1b"
+    },
+    {
+      "file": "assets/food/openmoji-color/cucumber-1f952.png",
+      "sourceHash": "60ef61232c530bb03f8a5a568e0819e0e1918e9635de96e73fd885d1638fecee"
+    },
+    {
+      "file": "assets/objects/openmoji-color/eight-o-clock-1f557.png",
+      "sourceHash": "1201cfdd6cc7f12e9f21661f4cec30e8b63319cbc90a64575a7b42d4def90e1a"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/department-store-1f3ec.png",
+      "sourceHash": "a4be18aaad142de30d191134a45630a1c77ae4e9c12b9cba005c7cf790bd0393"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/articulated-lorry-1f69b.png",
+      "sourceHash": "fd09de572f13f8f36c168420c829ea846b63f9967a651c4af88db782a90f7be2"
+    },
+    {
+      "file": "assets/people/openmoji-color/money-mouth-face-1f911.png",
+      "sourceHash": "81d8009bf8f5b3175de64736f07d83244046b8f1d1215367a8309c463aaf369d"
+    },
+    {
+      "file": "assets/animals/openmoji-color/tiger-face-1f42f.png",
+      "sourceHash": "6214872f37c62902128101b3b11d5d155a23f5e1d1cc2af218cdd4a58024fc7c"
+    },
+    {
+      "file": "assets/effects/openmoji-color/fight-cloud-1faef.png",
+      "sourceHash": "4a1d7ab5c25c3f4f4b18031eac5c17e6f13cb8102fae1d536942046ada4949e7"
+    },
+    {
+      "file": "assets/nature/openmoji-color/leafless-tree-1fabe.png",
+      "sourceHash": "4b92094866b9e986d0d26180670760e1e4ea4a0eaf64f3bd39b91590ae33455b"
+    },
+    {
+      "file": "assets/food/openmoji-color/leafy-green-1f96c.png",
+      "sourceHash": "6a5946cfe5a65781fe863e67151f9c7e424d4149f611bc131f2edc132a7bf62b"
+    },
+    {
+      "file": "assets/objects/openmoji-color/eight-thirty-1f563.png",
+      "sourceHash": "b666d19ce965d332f101258525c59615470e24d54d6fab8826a3b3e5a7799da5"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/factory-1f3ed.png",
+      "sourceHash": "9f12b8a9dcb9c93554cbf24503db28e6997b732889056260920e5950f3e61578"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/tractor-1f69c.png",
+      "sourceHash": "af9310d7ddb52041a4b0e4c86a22dff9aabd27bdbe7d143a53ae31c153b9d1e9"
+    },
+    {
+      "file": "assets/people/openmoji-color/smiling-face-with-open-hands-1f917.png",
+      "sourceHash": "41a90b9e802c3adb105f406366c0a980412f65647051572986a5a9ff9d448d65"
+    },
+    {
+      "file": "assets/animals/openmoji-color/tiger-1f405.png",
+      "sourceHash": "e70a6eca4b1761062f328df13d4a2e4d0f00dcb8fb9df41a93a44fad84d274c6"
+    },
+    {
+      "file": "assets/effects/openmoji-color/collision-1f4a5.png",
+      "sourceHash": "e43d48f7ed149fb5415ab75df5fb2566b32e080f8b94d2941f4ba33aa4537404"
+    },
+    {
+      "file": "assets/nature/openmoji-color/snow-capped-mountain-1f3d4.png",
+      "sourceHash": "c5a8ad4cf40dfda4efe284aa3014a3298828588e7483f3a2416f9fe6bc2e324e"
+    },
+    {
+      "file": "assets/food/openmoji-color/broccoli-1f966.png",
+      "sourceHash": "83b85a7c28016be867dd0111943cc8b32cf4e866d129c4a6aa4891aa47a0dcd4"
+    },
+    {
+      "file": "assets/objects/openmoji-color/nine-o-clock-1f558.png",
+      "sourceHash": "f3f3a254203551334a9fb98f2922776483fb61db7619233b52b2c90c413ec97c"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/japanese-castle-1f3ef.png",
+      "sourceHash": "69be40fd76d43bc577f71de0c4ac79f872df29c9885231599b581d170bba6682"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/racing-car-1f3ce.png",
+      "sourceHash": "69a5721cc36bee702cb65fb89690cce03e8f18e0419a7234049c4e0b4bb3955e"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-with-hand-over-mouth-1f92d.png",
+      "sourceHash": "778c5061b36c7a398a0d8687f3cd18893c5beb81f3f17c00a27801899b863d71"
+    },
+    {
+      "file": "assets/animals/openmoji-color/leopard-1f406.png",
+      "sourceHash": "eac1d94771687360bae1357ca028df322fa2a34ce4d6f4a21d534c8b2f843c95"
+    },
+    {
+      "file": "assets/effects/openmoji-color/dizzy-1f4ab.png",
+      "sourceHash": "bf1bfbac437f70187371d371dfafeee688740707ce5ccffaf692ada3e1f35b2b"
+    },
+    {
+      "file": "assets/nature/openmoji-color/mountain-26f0.png",
+      "sourceHash": "c113522771abb88a087e7343c3c2480dd0998d2143f26d203d5a9fa8bddb3cd7"
+    },
+    {
+      "file": "assets/food/openmoji-color/garlic-1f9c4.png",
+      "sourceHash": "6c582721f8d0d7132fdc1cb8ced7294d1778c347d30163bfb93a6a1169f22c9a"
+    },
+    {
+      "file": "assets/objects/openmoji-color/nine-thirty-1f564.png",
+      "sourceHash": "33daaed818b522ea14a03c1f9e3b919ba514d3df6cef9bf94dbc1da5e20330d1"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/castle-1f3f0.png",
+      "sourceHash": "0742443e36324292e32d60805ebef25eae87dc01ed8596a44608af0fae26c1d4"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/motorcycle-1f3cd.png",
+      "sourceHash": "2da3d484cfc929f1e734d74d4cea80b13251e0362abdbbf28f179fc7b2081465"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-with-open-eyes-and-hand-over-mouth-1fae2.png",
+      "sourceHash": "d4f911b03102526be5085884a094cddf1db0b38d2a721b852565295ecbe171b1"
+    },
+    {
+      "file": "assets/animals/openmoji-color/horse-face-1f434.png",
+      "sourceHash": "86dafa87d5c0d62ef2cc5e5208c922863637f9bfd70f468683c66a60371a2022"
+    },
+    {
+      "file": "assets/effects/openmoji-color/sweat-droplets-1f4a6.png",
+      "sourceHash": "ca4ab6b1780f94b7a2d0e407ec114d969fc6fd7a37d596226098bae7edc8115d"
+    },
+    {
+      "file": "assets/nature/openmoji-color/landslide-1f6d8.png",
+      "sourceHash": "ec1d9a3585350f7482d1f3db292d8e60ffaac35acea2e565a488ac4c788fb1ca"
+    },
+    {
+      "file": "assets/food/openmoji-color/onion-1f9c5.png",
+      "sourceHash": "b54b47bf5ecb055c9386c1816af6b6e243ed82eb722a2f3556583330b982f62a"
+    },
+    {
+      "file": "assets/objects/openmoji-color/ten-o-clock-1f559.png",
+      "sourceHash": "12da17feb13ee90782885369db880f231749af627418eb56a9ead4020e225e7a"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/wedding-1f492.png",
+      "sourceHash": "70f8d0c1dd542f444116d1656e2a8b8fea4f52dcd2cd2096d301b97cdcce03df"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/motor-scooter-1f6f5.png",
+      "sourceHash": "317106686ac796f6f55b8e15fcf9549ffdbecd356ba77caad76aa087f4884561"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-with-peeking-eye-1fae3.png",
+      "sourceHash": "e516c898d82eb06892a73c1a33823fdb0a2bc93641913c7c72c75e68049854d3"
+    },
+    {
+      "file": "assets/animals/openmoji-color/moose-1face.png",
+      "sourceHash": "af38dee2e0e9951ca1c25958ebfa24fcb33f5bd3a190dd9358ec92d576d872d6"
+    },
+    {
+      "file": "assets/effects/openmoji-color/dashing-away-1f4a8.png",
+      "sourceHash": "ac071e88bbb06c038f9374575668dd9da5f0a39bf672ab55a1ecfe91ba7ec07c"
+    },
+    {
+      "file": "assets/nature/openmoji-color/volcano-1f30b.png",
+      "sourceHash": "097d21de9cf420487c34ccd0831f4e8f8b9beacab735643e4db4510f4f63ac1d"
+    },
+    {
+      "file": "assets/food/openmoji-color/peanuts-1f95c.png",
+      "sourceHash": "fdc49781be98fca7eebae74d8d94082ea31eddd2a8590460099509b5b14c5b3b"
+    },
+    {
+      "file": "assets/objects/openmoji-color/ten-thirty-1f565.png",
+      "sourceHash": "69948d2f7682a02bf1217f4c9fa043daf3472fcf3d454613a5701c51c47e4e4c"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/tokyo-tower-1f5fc.png",
+      "sourceHash": "19ed2a73e75ce977be4b717fc0fe5be94bead79dc8dd2f1104ccfb13426073e1"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/manual-wheelchair-1f9bd.png",
+      "sourceHash": "12f9417b43fef0a2d97eb849bb162aa01ecb763b343199f050593c71e514cb0c"
+    },
+    {
+      "file": "assets/people/openmoji-color/shushing-face-1f92b.png",
+      "sourceHash": "5a5d673e3fd12eb3d95906c1b9b29b71e0c50c526ecd3fa4aae125e2eee82fda"
+    },
+    {
+      "file": "assets/animals/openmoji-color/donkey-1facf.png",
+      "sourceHash": "e59b7c1ba04e5ee8bde0e4cbb0e1093f730d0365823f759c9c4c9015788d4f14"
+    },
+    {
+      "file": "assets/effects/openmoji-color/hole-1f573.png",
+      "sourceHash": "a1988f09fb99abc88e1ced667e1d08cf1df6b7cf36a79777b24f712a70eb18bd"
+    },
+    {
+      "file": "assets/nature/openmoji-color/mount-fuji-1f5fb.png",
+      "sourceHash": "af171b48f307900c0883ae31d73567a1e2b5e6093567b540f03780fdc17f6bfd"
+    },
+    {
+      "file": "assets/food/openmoji-color/beans-1fad8.png",
+      "sourceHash": "b9c7f63e4053d4fe3f83fb2ccafdf833c2031b27e7e40d43d06154bf65b37fcd"
+    },
+    {
+      "file": "assets/objects/openmoji-color/eleven-o-clock-1f55a.png",
+      "sourceHash": "8dc3f36db04881e5b6dcfceec6463fdb1d95ab8ec84858fe11e17982ec4cce8d"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/statue-of-liberty-1f5fd.png",
+      "sourceHash": "2abffce512e53e5afd9b5a80811736e73ee2e083c9d9b1372e27f600ee760cd6"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/motorized-wheelchair-1f9bc.png",
+      "sourceHash": "5d7377c5c138509b325c6412b62dc6ec6f46c1464b5bc464d806e7e91e82bf80"
+    },
+    {
+      "file": "assets/people/openmoji-color/thinking-face-1f914.png",
+      "sourceHash": "b1c6dc001b1a7898d4f8d6b98e31393469ff6b20fbd974802c2512bdb8584491"
+    },
+    {
+      "file": "assets/animals/openmoji-color/horse-1f40e.png",
+      "sourceHash": "1f1c388f284dce75b0c5d114e884287e3e800a9db8d113c90c7dda31f1e02731"
+    },
+    {
+      "file": "assets/effects/openmoji-color/speech-balloon-1f4ac.png",
+      "sourceHash": "c525d0b573031a19380a82c1470edb03005f850558e7079d92f1c926a0a9e2b5"
+    },
+    {
+      "file": "assets/nature/openmoji-color/camping-1f3d5.png",
+      "sourceHash": "08e78ad6d1ce42f9b83401b96ce12650e929118734dc83bc9653623884369a2d"
+    },
+    {
+      "file": "assets/food/openmoji-color/chestnut-1f330.png",
+      "sourceHash": "088e42446eb1095b46511bebfd7f268a6fc989e2879203747e6fe450dfc2030d"
+    },
+    {
+      "file": "assets/objects/openmoji-color/eleven-thirty-1f566.png",
+      "sourceHash": "5b1e624ff034ccfc5ec4be0f678ed00873077406a15e32de26f5b0e587c7ddcf"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/church-26ea.png",
+      "sourceHash": "20e77cde73c8e58c1cd1f5d0998777cfe9b76aecc73bbc1275ed334c7971967c"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/auto-rickshaw-1f6fa.png",
+      "sourceHash": "1f039a1516469532a469b74faab4157f1311012b02bcd6c765a874f80c975445"
+    },
+    {
+      "file": "assets/people/openmoji-color/saluting-face-1fae1.png",
+      "sourceHash": "a0fdc2e3f800e7e9dff91ad66f7fdbec2f540aef8b7ce859361ca6001e01cd4f"
+    },
+    {
+      "file": "assets/animals/openmoji-color/unicorn-1f984.png",
+      "sourceHash": "03a80e30ea55a175f00b2be6d94f81a62048bd9bc87be485871a4fac31765d9a"
+    },
+    {
+      "file": "assets/effects/openmoji-color/eye-in-speech-bubble-1f441-fe0f-200d-1f5e8-fe0f.png",
+      "sourceHash": "f5c2820e0e6187c8209846ebe1d73c397cce7db65f900518296b0d323da2837d"
+    },
+    {
+      "file": "assets/nature/openmoji-color/beach-with-umbrella-1f3d6.png",
+      "sourceHash": "e6fb4cffcbfbb081396dcaaf8d4fe03f17229b15ec7ef0ecdb7ececfad0d14cb"
+    },
+    {
+      "file": "assets/food/openmoji-color/ginger-root-1fada.png",
+      "sourceHash": "8354c204b69203f292f752227a072f42c325fe0bd69ce74e75b84a8b5cd5621f"
+    },
+    {
+      "file": "assets/objects/openmoji-color/soccer-ball-26bd.png",
+      "sourceHash": "0bf8507b43d1ee579af04a3917e26dd6d6f04d2db84aeb93c160fd65cbe0290d"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/mosque-1f54c.png",
+      "sourceHash": "c7239f54d90692a49e0eaf3b8ea87540233a5cd60d97ebfc8df69fc54e9b591e"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/bicycle-1f6b2.png",
+      "sourceHash": "364fe4a27c4322f722d01e183fc4cfc7d6c88dcefdb8a4c98df0134b0fc22244"
+    },
+    {
+      "file": "assets/people/openmoji-color/zipper-mouth-face-1f910.png",
+      "sourceHash": "08fc77c3d0fb0c84482c96d4615e1d38c83e5108458ed3fd0d0edbdb37c4174c"
+    },
+    {
+      "file": "assets/animals/openmoji-color/zebra-1f993.png",
+      "sourceHash": "1afa0d7d56dd9fe3b09eaadd57889cf30f8d02e385fd77dff7afe9b00a5b2f1e"
+    },
+    {
+      "file": "assets/effects/openmoji-color/left-speech-bubble-1f5e8.png",
+      "sourceHash": "a3091a4d14579377b9bdbcece9a3f241a7760360348aba627df8ca815527638a"
+    },
+    {
+      "file": "assets/nature/openmoji-color/desert-1f3dc.png",
+      "sourceHash": "89c07fed5bf3edc1baff7b48a4a6840ce13e188ff91f8a40f7973c2e2088bcb0"
+    },
+    {
+      "file": "assets/food/openmoji-color/pea-pod-1fadb.png",
+      "sourceHash": "1461df61c122297256e3cb6f301a33c000598b84ecb5dcaa48fbc093672cf29d"
+    },
+    {
+      "file": "assets/objects/openmoji-color/baseball-26be.png",
+      "sourceHash": "49e5b6b1bd640c22dbfb242d1cdb83486a1644847583f6c94ddfc4121f61d455"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/hindu-temple-1f6d5.png",
+      "sourceHash": "3277bf47e3452f4e220b70d37f9215c90ebbd43e6e75be574173beedf4ad10b3"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/kick-scooter-1f6f4.png",
+      "sourceHash": "f194029f12cbef5549fcd40ab010ea0a35ebb62302d8767249c8c934327b73a3"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-with-raised-eyebrow-1f928.png",
+      "sourceHash": "b9efb2c18ac389c30f05f98a8639425b8fa9741a63be2bd2918343b3953cda9a"
+    },
+    {
+      "file": "assets/animals/openmoji-color/deer-1f98c.png",
+      "sourceHash": "1e8f0244202a77dea4ffd4754f746dda4938f81e70f80bf3d66429cbd45454e4"
+    },
+    {
+      "file": "assets/effects/openmoji-color/right-anger-bubble-1f5ef.png",
+      "sourceHash": "069345b396e6427b2ba7889157a747226949c6ec5c087acc3704a5c39346e223"
+    },
+    {
+      "file": "assets/nature/openmoji-color/desert-island-1f3dd.png",
+      "sourceHash": "1eeab281eb1b1ce52ef971b6f3bdac0feccfc50927048d37208987c043e8b4ec"
+    },
+    {
+      "file": "assets/food/openmoji-color/brown-mushroom-1f344-200d-1f7eb.png",
+      "sourceHash": "79406783eef34a1a7bd0649ca2555460a000e3286073895f23e238e5387634f6"
+    },
+    {
+      "file": "assets/objects/openmoji-color/softball-1f94e.png",
+      "sourceHash": "1fa1ceddaa616f814eb12962b4a427fc39e5395ba1018ffa703b70b873b834c8"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/synagogue-1f54d.png",
+      "sourceHash": "d91d3e87e312050b2f5994d2ad2af329db3500b722055ea35e745dbc962bb634"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/skateboard-1f6f9.png",
+      "sourceHash": "1c1038f20657584bbd55842015cdb7dab9a5a4521b03e67d59492b7f7f343e64"
+    },
+    {
+      "file": "assets/people/openmoji-color/neutral-face-1f610.png",
+      "sourceHash": "8eb2c0048914b0cc37d195aff0086d27a152748806f49ab847ad1dc1daa84683"
+    },
+    {
+      "file": "assets/animals/openmoji-color/bison-1f9ac.png",
+      "sourceHash": "c9e3fab37b1816627f7681dfc5f4dd7cd0a842470dac0875edbb4af6a99818c5"
+    },
+    {
+      "file": "assets/effects/openmoji-color/thought-balloon-1f4ad.png",
+      "sourceHash": "32d7a19e1f396f1f045baea6798298fe83131993605cea591a673547af1cdb63"
+    },
+    {
+      "file": "assets/nature/openmoji-color/national-park-1f3de.png",
+      "sourceHash": "8a6a00936278e773994b8aea28ae45b9dd2a7f26bea90dc21cdd9ff2c214335e"
+    },
+    {
+      "file": "assets/food/openmoji-color/root-vegetable-1fadc.png",
+      "sourceHash": "f534e9c9cc81be20a7210e96c6b03a98036505864de3348128322a18cad8c71a"
+    },
+    {
+      "file": "assets/objects/openmoji-color/basketball-1f3c0.png",
+      "sourceHash": "951fbae85880065880b08ffcd06c6417c27b609511e8caff94a791014dbbdc8d"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/shinto-shrine-26e9.png",
+      "sourceHash": "5becc6dc9a5d717a660de5d19b736294c007387e865afcecd60cfd45573aca15"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/roller-skate-1f6fc.png",
+      "sourceHash": "79421547138dacc9217bacabef5f164b823f3fe798239ab83ac774a0fe050c71"
+    },
+    {
+      "file": "assets/people/openmoji-color/expressionless-face-1f611.png",
+      "sourceHash": "65713ed856768d20ec37f397e1f102e58a710cba33ec7020dfc69eb50ccecf76"
+    },
+    {
+      "file": "assets/animals/openmoji-color/cow-face-1f42e.png",
+      "sourceHash": "b49db43ff74ac8e90282a650b92424d2cfbd8f5ce64abcda3bfae1f0063f8436"
+    },
+    {
+      "file": "assets/effects/openmoji-color/zzz-1f4a4.png",
+      "sourceHash": "4916434db31d792e3aac953c6039d3c494e5efc3a110077f04839572edc982bb"
+    },
+    {
+      "file": "assets/nature/openmoji-color/new-moon-1f311.png",
+      "sourceHash": "1c942ece6d324f84e5a34e814bc62adbee96ec06bd0f8d4992f5d7758dfa7ceb"
+    },
+    {
+      "file": "assets/food/openmoji-color/bread-1f35e.png",
+      "sourceHash": "6d6486d4d63a3feb01b75791dd8592712acd178ca5ee62248d42a4570402d2f5"
+    },
+    {
+      "file": "assets/objects/openmoji-color/volleyball-1f3d0.png",
+      "sourceHash": "c99816334af9b1d8ce8af9fd6b56ced4debe9ecbb4b86481493034647457d036"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/kaaba-1f54b.png",
+      "sourceHash": "e5a0675e144a30dd9b8f23081e90d298c7b8840ffdf23fd8e8997f990292fd55"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/bus-stop-1f68f.png",
+      "sourceHash": "bc7c938df0e4bb15cb731584fdb1dff121a15335ce0b8af5fc9830768125fb72"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-without-mouth-1f636.png",
+      "sourceHash": "4a01dc32b2cfb93602cf513751297ea2e792c6bc9e2a705ca8039b20323e3cf0"
+    },
+    {
+      "file": "assets/animals/openmoji-color/ox-1f402.png",
+      "sourceHash": "74913243d7cc82f450edc620e9225fd3ce5eb78df9f3d05456dba5dfdd5bd58a"
+    },
+    {
+      "file": "assets/effects/openmoji-color/jack-o-lantern-1f383.png",
+      "sourceHash": "154071c75a33f574b47c4c1a33302f24221ba5092bfcd972e6a3a804791fc342"
+    },
+    {
+      "file": "assets/nature/openmoji-color/waxing-crescent-moon-1f312.png",
+      "sourceHash": "1fcfa60bfe671c3d03de94e616302c9d284147e64333e79a3d1c01244b80623c"
+    },
+    {
+      "file": "assets/food/openmoji-color/croissant-1f950.png",
+      "sourceHash": "6e295645cdfea9681d607fe857d5fcf97d09c97d2a7209684eacc7e54a23ec9a"
+    },
+    {
+      "file": "assets/objects/openmoji-color/american-football-1f3c8.png",
+      "sourceHash": "a81a8b0ac043d4b7d27717122faf6fa14cb4d9f289e434e02f60631ed4bbdce3"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/fountain-26f2.png",
+      "sourceHash": "e12cbffb5edf671c636e33828d62095ef4164a80e261dba1d8ca2f59bc5eda94"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/motorway-1f6e3.png",
+      "sourceHash": "7a7e21384fa1d4e2fa8e72bcb8fad73a156154b9cd605271baa2a80ad8b9a792"
+    },
+    {
+      "file": "assets/people/openmoji-color/dotted-line-face-1fae5.png",
+      "sourceHash": "53ab8d37c1339c565a5755fc741f990c57b6d01a7abe33fcf98ba6397d229cf8"
+    },
+    {
+      "file": "assets/animals/openmoji-color/water-buffalo-1f403.png",
+      "sourceHash": "c73a298dccc9e58b6c3de768cb5569acf8401e1b9a583bea93ff21ac0a2d2f5d"
+    },
+    {
+      "file": "assets/effects/openmoji-color/christmas-tree-1f384.png",
+      "sourceHash": "1ab460aac9a23c17ad5a6fd5ce087986bebcb0f031ac69f8e328d4429edd130a"
+    },
+    {
+      "file": "assets/nature/openmoji-color/first-quarter-moon-1f313.png",
+      "sourceHash": "b22879624c10fd279e9ca9214ad71cf1cb5feba8eb4d8899ca52956b15cdc47a"
+    },
+    {
+      "file": "assets/food/openmoji-color/baguette-bread-1f956.png",
+      "sourceHash": "2b87d094f756a2fb9716146a3a138543c052d036c860f9f3c4a50e38ef117332"
+    },
+    {
+      "file": "assets/objects/openmoji-color/rugby-football-1f3c9.png",
+      "sourceHash": "50d8d73807996db17e7c020c2ff0ca973ed08271488911787f99d04610812ece"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/tent-26fa.png",
+      "sourceHash": "b4948ac6eb19b9ddc0e4f816cce4929b36e0a401d2309864a569f493a78e0162"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/railway-track-1f6e4.png",
+      "sourceHash": "7e183e03ff7f97b6fa468c5399953341e056bc89ad37b5832ab918b7b9357313"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-in-clouds-1f636-200d-1f32b-fe0f.png",
+      "sourceHash": "6392f696314aa9d4500bb14be4dc79d322a8ab8c9eff0c4b43b9ced40918b064"
+    },
+    {
+      "file": "assets/animals/openmoji-color/cow-1f404.png",
+      "sourceHash": "babacc0d13ba696fc93a5955bb861f99fe62360007093416a87fe27228ba2c67"
+    },
+    {
+      "file": "assets/effects/openmoji-color/fireworks-1f386.png",
+      "sourceHash": "ed8801bd327d30ff229c3138bd641b1e9bf0dca19198e9599b2173afcb09febc"
+    },
+    {
+      "file": "assets/nature/openmoji-color/waxing-gibbous-moon-1f314.png",
+      "sourceHash": "9a334d7a393dc5b06d84a7474067d0d94d4bd34c9167cf5f1c874d292959edf2"
+    },
+    {
+      "file": "assets/food/openmoji-color/flatbread-1fad3.png",
+      "sourceHash": "636afa6375a75055f27be12ea598a59b428fcd59842fe374263edcd2176eeeea"
+    },
+    {
+      "file": "assets/objects/openmoji-color/tennis-1f3be.png",
+      "sourceHash": "32f02d823cbb5aaa32012065e29485e6db9de6789b10b68e0398c5e3a54ed193"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/foggy-1f301.png",
+      "sourceHash": "bd8ce22ba36abde411411ecf7cf30be918b05b979507b0523bc49616f203c3d5"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/oil-drum-1f6e2.png",
+      "sourceHash": "238da438099230cb6a26fc21ef6936c8294da5896f6e666ec15832a7543c7203"
+    },
+    {
+      "file": "assets/people/openmoji-color/smirking-face-1f60f.png",
+      "sourceHash": "1770d30f311123c6636ce6bb437ed5c06c185e5ed8cac40231f741ea466245f6"
+    },
+    {
+      "file": "assets/animals/openmoji-color/pig-face-1f437.png",
+      "sourceHash": "f9d5eace899ea971129ac41b79c6030ab4aa9916cc4bb95e4d0804a21f7292ac"
+    },
+    {
+      "file": "assets/effects/openmoji-color/sparkler-1f387.png",
+      "sourceHash": "4cc852884318c5bb7846551e5cf9b5a6a6d1e959bbf60bdd4d00ca156c2476ab"
+    },
+    {
+      "file": "assets/nature/openmoji-color/full-moon-1f315.png",
+      "sourceHash": "68ef1b4bfe90c9a6c58228fef3ec65b8ea669b866a04a6529148d40362fcf12b"
+    },
+    {
+      "file": "assets/food/openmoji-color/pretzel-1f968.png",
+      "sourceHash": "db4a030ef0e188edb2a82f9edac332778d027061adef6be2c05a5d9b6f0e777b"
+    },
+    {
+      "file": "assets/objects/openmoji-color/flying-disc-1f94f.png",
+      "sourceHash": "ab7a393215216f5a7854dbf949230eda142419e4faf723c402b4f27d5b7a9b8d"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/night-with-stars-1f303.png",
+      "sourceHash": "969521a108b0942783630e49a068818793eb2900d63c78a241e24e26e06347cc"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/fuel-pump-26fd.png",
+      "sourceHash": "1413d33aaa826d3a233cd258d4d08bbb9b950be5c7e140535ffa59a319a042db"
+    },
+    {
+      "file": "assets/people/openmoji-color/unamused-face-1f612.png",
+      "sourceHash": "8603ff5dcda40b62344daa0c782f05b09d0d4239a9e4084f6e421946aa0e0da8"
+    },
+    {
+      "file": "assets/animals/openmoji-color/pig-1f416.png",
+      "sourceHash": "7b5beb827b9a59000a0609a874da6cff5d998a00743d189c7912a40fbbc39041"
+    },
+    {
+      "file": "assets/effects/openmoji-color/firecracker-1f9e8.png",
+      "sourceHash": "81e77d0fa923f8f4d003cf7ac210fe83854a8d0771727db449a9385b32bc109a"
+    },
+    {
+      "file": "assets/nature/openmoji-color/waning-gibbous-moon-1f316.png",
+      "sourceHash": "290daa904243c5401bb34d8159c7a59241f9ec2619eca97eb95511b12d0bef5f"
+    },
+    {
+      "file": "assets/food/openmoji-color/bagel-1f96f.png",
+      "sourceHash": "fb819d0248cd6af2b659b21e19d36607e0a5665020b5e4e57a87dbfc3b50c9b8"
+    },
+    {
+      "file": "assets/objects/openmoji-color/bowling-1f3b3.png",
+      "sourceHash": "710d3720bf9a014b6a73fea1ef81fb0d4ef976d9645101d81323de816a751a0c"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/cityscape-1f3d9.png",
+      "sourceHash": "ceeb68f508f27758acda82e9e66aedb404a33894d834aebaf405aeb0245f7790"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/wheel-1f6de.png",
+      "sourceHash": "48ddd964470701ff902b32a44382b94e8fb0e5d5247d0ea4edd45b1bd82da9ee"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-with-rolling-eyes-1f644.png",
+      "sourceHash": "41c05bf551bab664e320c1c0e4b4ef567bc3f28df2f8965ec5f8597d931b482b"
+    },
+    {
+      "file": "assets/animals/openmoji-color/boar-1f417.png",
+      "sourceHash": "d860e332b31f49af96847582c3004fd4ce100f6e779f45aa056b54e60bd5ad9e"
+    },
+    {
+      "file": "assets/effects/openmoji-color/sparkles-2728.png",
+      "sourceHash": "4e9faa1ced7c739598166ae6d6d8b790aa9f5a9c595e215e0c2dd549a2764d9d"
+    },
+    {
+      "file": "assets/nature/openmoji-color/last-quarter-moon-1f317.png",
+      "sourceHash": "cdb0c672ace382e1d4728725658633776242a55d93e6c645c9d36559668aadc6"
+    },
+    {
+      "file": "assets/food/openmoji-color/pancakes-1f95e.png",
+      "sourceHash": "8f650b23fd2360dc758d0766e7d852ce18ba462a6daa817af2a43342f225eb2f"
+    },
+    {
+      "file": "assets/objects/openmoji-color/cricket-game-1f3cf.png",
+      "sourceHash": "11d1a3123551401f2c87b0ebcaabf1a2c291b66f0d0ae22d7e1155d1cfbd8b3e"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/sunrise-over-mountains-1f304.png",
+      "sourceHash": "002de559a617093a96816f34d0c0a2a441f7e2937590d1020cc759fef8e24ea0"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/police-car-light-1f6a8.png",
+      "sourceHash": "948f7c746c52bfc158284d4840dd4e0583ef165091d002d4ed9f376a129e00e9"
+    },
+    {
+      "file": "assets/people/openmoji-color/grimacing-face-1f62c.png",
+      "sourceHash": "415a0b07f7829f1cff8154efe86228adad06647d8c7e9cbe969885ac5998cf27"
+    },
+    {
+      "file": "assets/animals/openmoji-color/pig-nose-1f43d.png",
+      "sourceHash": "0b56116d429abb219770d59967dfa1f0237589a020441dadcf36687730ca39fc"
+    },
+    {
+      "file": "assets/effects/openmoji-color/balloon-1f388.png",
+      "sourceHash": "4774f80e4d5c5b516c42dbb22aed945bb421bb856fdf088e3d782e2f7d622f92"
+    },
+    {
+      "file": "assets/nature/openmoji-color/waning-crescent-moon-1f318.png",
+      "sourceHash": "8830de7be0d63c89e7538ae76ddbc81f4d77b07efd71b8ad1a072784171a0492"
+    },
+    {
+      "file": "assets/food/openmoji-color/waffle-1f9c7.png",
+      "sourceHash": "cf184a3a3717f1bace5538fc10a3b53d2cbd2e1f3e94b0f69d0d548a9620948e"
+    },
+    {
+      "file": "assets/objects/openmoji-color/field-hockey-1f3d1.png",
+      "sourceHash": "d05ed738692bdc06f0d88e9251c1164041767f65be981d6b7dec5a2d74db2341"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/sunrise-1f305.png",
+      "sourceHash": "1b55e04368f0757f66b1ade074605ccf43c6ecb0da3c33bf813d8f5a48ebe2dd"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/horizontal-traffic-light-1f6a5.png",
+      "sourceHash": "1258401a37321c409cd631d8ca712fc6a55990bf6b8e38cca14c98b4e05bf877"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-exhaling-1f62e-200d-1f4a8.png",
+      "sourceHash": "a3df8d3c8fc77fda0b0367f5458a247151c749314b1247b0be3c9f466a62d6dd"
+    },
+    {
+      "file": "assets/animals/openmoji-color/ram-1f40f.png",
+      "sourceHash": "0436145cabdfbd47a8b8075d3c1d542a3877c61c3362da0d16bdfd2ed4c7a902"
+    },
+    {
+      "file": "assets/effects/openmoji-color/party-popper-1f389.png",
+      "sourceHash": "fb6acda8be547106ad5bd5ee68ee29866dc952703c387590915f8babf80dca6f"
+    },
+    {
+      "file": "assets/nature/openmoji-color/crescent-moon-1f319.png",
+      "sourceHash": "e1a019e189f06f57efc7eea39a4872f9497b396f291cc2035c577e94b76fadc0"
+    },
+    {
+      "file": "assets/food/openmoji-color/cheese-wedge-1f9c0.png",
+      "sourceHash": "aeb039f3a4f1f43e3e87001762f42d3253e16796431b4485107309bb21837115"
+    },
+    {
+      "file": "assets/objects/openmoji-color/ice-hockey-1f3d2.png",
+      "sourceHash": "9fc69f2f11646f24b5ba86158412b6548d0a004ebfd5ec86f7dd3edd117b8773"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/cityscape-at-dusk-1f306.png",
+      "sourceHash": "8bafc9ffb25a8e192b4fa6e5098b4cdc1757f7e3a7aa16a5e5a073998fe41f3f"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/vertical-traffic-light-1f6a6.png",
+      "sourceHash": "c227ce6517ca3e98f75030c35fc776c1f17a7770aa62efa683e17e96a2770975"
+    },
+    {
+      "file": "assets/people/openmoji-color/lying-face-1f925.png",
+      "sourceHash": "1ade0ced3f375de8074a4988ed6ddeecc020564ad45375d106faa0c61131a584"
+    },
+    {
+      "file": "assets/animals/openmoji-color/ewe-1f411.png",
+      "sourceHash": "30bc03b3c05a985d3c9c01d6dfe9371eaf626ce3449e57d5b08b7d0fe6b99286"
+    },
+    {
+      "file": "assets/effects/openmoji-color/confetti-ball-1f38a.png",
+      "sourceHash": "2de4283036901909c94ced126cfe7faba218a027ccee03db0b39a74d5ac2c16d"
+    },
+    {
+      "file": "assets/nature/openmoji-color/new-moon-face-1f31a.png",
+      "sourceHash": "22871f40fec31013c45ea3d6e63ad2a96d5d945d6f877496fbc9f0fb6c26ab4b"
+    },
+    {
+      "file": "assets/food/openmoji-color/meat-on-bone-1f356.png",
+      "sourceHash": "c04704626e295839917c9323178d699c39b78169179866b93dbcc23b09aa9fa6"
+    },
+    {
+      "file": "assets/objects/openmoji-color/lacrosse-1f94d.png",
+      "sourceHash": "2fd43e7fd31b7abefe5c781d1a2031ef54f30276cdf8901ad751659d29fc2923"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/sunset-1f307.png",
+      "sourceHash": "9ea0056aaf1bc0f5fe3dbff4cddfe779d8a304883148e1490d4ba4ffb923d46e"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/stop-sign-1f6d1.png",
+      "sourceHash": "da02dc10714eba45432ce62f2eaf12d48503221c45bc2b62d3113e632114a4c5"
+    },
+    {
+      "file": "assets/people/openmoji-color/shaking-face-1fae8.png",
+      "sourceHash": "2c6b7867dbe0d15404c16d585795d5050e09fd476e7712b1cfdb35cb3274bc84"
+    },
+    {
+      "file": "assets/animals/openmoji-color/goat-1f410.png",
+      "sourceHash": "02e79d134346e0433ad6cebd9c07fb9ad22cdc995a9c5681844b06a32c9de3d9"
+    },
+    {
+      "file": "assets/effects/openmoji-color/tanabata-tree-1f38b.png",
+      "sourceHash": "63a24820ed8b3fc088190158b26b17c09178976051fbb0e3be7b76385d1aa167"
+    },
+    {
+      "file": "assets/nature/openmoji-color/first-quarter-moon-face-1f31b.png",
+      "sourceHash": "e3ea533f47d414c5480bf556af5344e0170bde5e5324f1ac2d4aec71971751ff"
+    },
+    {
+      "file": "assets/food/openmoji-color/poultry-leg-1f357.png",
+      "sourceHash": "7ba54b89306052840345c332c078115fbfca975a738ec75a9e0444bc535fdc4b"
+    },
+    {
+      "file": "assets/objects/openmoji-color/ping-pong-1f3d3.png",
+      "sourceHash": "05a6c84d46965864aada4b4b043e7877a518c8d003457fed8efcd708f2f81c1a"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/bridge-at-night-1f309.png",
+      "sourceHash": "611f9d50ddd944e8e711ec0033fe16a8650c568e52d0409cbe37d149ffd93d54"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/construction-1f6a7.png",
+      "sourceHash": "9ad3429daa4865c13749b829a0eec55fd01c717b5ab6aa3821c84d1c44356cd3"
+    },
+    {
+      "file": "assets/people/openmoji-color/head-shaking-horizontally-1f642-200d-2194-fe0f.png",
+      "sourceHash": "826c20e71101867d770a6778eaa00fb791b4bf463453d9fe59cffe3897e25d7f"
+    },
+    {
+      "file": "assets/animals/openmoji-color/camel-1f42a.png",
+      "sourceHash": "b33da803c761c72fea0ecb7e73e2d546d28209915a8a9fb82d908952c8ae67db"
+    },
+    {
+      "file": "assets/effects/openmoji-color/pine-decoration-1f38d.png",
+      "sourceHash": "59a91588ea3cc74bf878eeedd90f3388f341bd9cf0b49249586fbcf908e3003d"
+    },
+    {
+      "file": "assets/nature/openmoji-color/last-quarter-moon-face-1f31c.png",
+      "sourceHash": "b9f4f32dabcfba7599a849b303f7aa78e9b1401aa7c6adc584d6d115804b135b"
+    },
+    {
+      "file": "assets/food/openmoji-color/cut-of-meat-1f969.png",
+      "sourceHash": "a42bcd49d09afc113c7b04307520ad68b7a481225dfe224c09d6e3af95b91554"
+    },
+    {
+      "file": "assets/objects/openmoji-color/badminton-1f3f8.png",
+      "sourceHash": "c3d4e812fd0c64a2451a276a9098f643eabda0bc990db0932daf2079726e264b"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/hot-springs-2668.png",
+      "sourceHash": "95215d948c2ea100d31d86ac768bddeece52451abd55bde778289427b8d09577"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/anchor-2693.png",
+      "sourceHash": "e531b74dbd64788cedc2dc270a7c64664ca29893a1ee209fd6bf3320fd37f575"
+    },
+    {
+      "file": "assets/people/openmoji-color/head-shaking-vertically-1f642-200d-2195-fe0f.png",
+      "sourceHash": "2762e87f68406231713418131598a79fe94092195712dc590dfae9575962873c"
+    },
+    {
+      "file": "assets/animals/openmoji-color/two-hump-camel-1f42b.png",
+      "sourceHash": "971dd8551bd945e24858a9d48c8ec5483188d3825a66ee7c6c731fa2abe2e29e"
+    },
+    {
+      "file": "assets/effects/openmoji-color/japanese-dolls-1f38e.png",
+      "sourceHash": "01966e9397d0adf8258d5bfad6413201d72c8febc45c747fee2d7d5ea0b26e74"
+    },
+    {
+      "file": "assets/nature/openmoji-color/thermometer-1f321.png",
+      "sourceHash": "1e6520edc456ffdbd45fd0bcac9c96c47229234844fc3d36d3534582836a7aee"
+    },
+    {
+      "file": "assets/food/openmoji-color/bacon-1f953.png",
+      "sourceHash": "16caa4bcb763768ba9ae1388e4e835af62eec88a538a2c2379e7cfd604ef98e7"
+    },
+    {
+      "file": "assets/objects/openmoji-color/boxing-glove-1f94a.png",
+      "sourceHash": "f6b7fb704d4e27040fbaaffd1d828ac5e451af6d304dcca9253d8c271ec41d59"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/carousel-horse-1f3a0.png",
+      "sourceHash": "05ef36f7bb6256d580fc6af6e0a4e60e48f34c0481884ea12d6fbf045112f2ed"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/ring-buoy-1f6df.png",
+      "sourceHash": "7b91c3be9898de503792f3152fb0924d7b613d3167237e7493347478dac2658c"
+    },
+    {
+      "file": "assets/people/openmoji-color/relieved-face-1f60c.png",
+      "sourceHash": "bbe4ff28dfaee5a052eaed9ab4edceab3bf5ccd22c86982a465feeffbc815d43"
+    },
+    {
+      "file": "assets/animals/openmoji-color/llama-1f999.png",
+      "sourceHash": "db851d712cbddad613e4b2c85ff596e7746c85840ee22a580c49a1a95c3cb05a"
+    },
+    {
+      "file": "assets/effects/openmoji-color/carp-streamer-1f38f.png",
+      "sourceHash": "9de3381ae5ed90bf6b4d7311912a1760cbfddfdbdc39a704747b9d11e600a285"
+    },
+    {
+      "file": "assets/nature/openmoji-color/sun-2600.png",
+      "sourceHash": "95e8808f6e211704945b9fdeb70df31b0ef0e632f845c0e3bce37a4605a3f5ff"
+    },
+    {
+      "file": "assets/food/openmoji-color/hamburger-1f354.png",
+      "sourceHash": "0c7afd27bcb31c85ec5993d57a8a73838a140d62609b65106b4a2573c6cafa61"
+    },
+    {
+      "file": "assets/objects/openmoji-color/martial-arts-uniform-1f94b.png",
+      "sourceHash": "5691f1f1044b282316aa74aa3aae740c1df27556d33ad80832ec162237a3d2db"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/playground-slide-1f6dd.png",
+      "sourceHash": "cfaebc473b8c8577cad4c615344592a01248e07095852f110beb53b21e0f90a6"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/sailboat-26f5.png",
+      "sourceHash": "98f1ff57288e2d2081dd608b74baba3df9874aa7860fbcfd93e9f344ef80e9f8"
+    },
+    {
+      "file": "assets/people/openmoji-color/pensive-face-1f614.png",
+      "sourceHash": "b95792288dacadffdac1b2fc3a047d52842456377c86c89d9ec6388514251359"
+    },
+    {
+      "file": "assets/animals/openmoji-color/giraffe-1f992.png",
+      "sourceHash": "626e19bcbf83314220207f47bdd29ca909c311f29100a829d9606f5624f40409"
+    },
+    {
+      "file": "assets/effects/openmoji-color/wind-chime-1f390.png",
+      "sourceHash": "a585f216756dffdfd1a98bbcd58a8963529b41fb155dad6501894ba1829d57e9"
+    },
+    {
+      "file": "assets/nature/openmoji-color/full-moon-face-1f31d.png",
+      "sourceHash": "fe7b785d9d1996c25b0bd92b2df8aaeb748c27af853e34840a3e97a24d49edfb"
+    },
+    {
+      "file": "assets/food/openmoji-color/french-fries-1f35f.png",
+      "sourceHash": "fbbba03d3d0919cacc45651203baad5395c8a0e2222b651540b42c5530dc45d5"
+    },
+    {
+      "file": "assets/objects/openmoji-color/goal-net-1f945.png",
+      "sourceHash": "372bd64f52619bc9f18765cc88e59abc6fca4d38b2e4993f22368e617c266f4f"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/ferris-wheel-1f3a1.png",
+      "sourceHash": "d0cc0f79512f6be3c3cf69a2e725be190a2a1ecec4c22e8e3d0160c98a047e02"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/canoe-1f6f6.png",
+      "sourceHash": "733ff0a24668eb58095c13041acfba8b1bc049f5b1872a692652b9008718596c"
+    },
+    {
+      "file": "assets/people/openmoji-color/sleepy-face-1f62a.png",
+      "sourceHash": "9af09f3539a54d3964e85dd63f49229daa3808a1eb17b3970291810720942cb3"
+    },
+    {
+      "file": "assets/animals/openmoji-color/elephant-1f418.png",
+      "sourceHash": "61d7e5c2d217333211907e599f1ddcf9b16f644b9cd284cd7b050423cd820548"
+    },
+    {
+      "file": "assets/effects/openmoji-color/moon-viewing-ceremony-1f391.png",
+      "sourceHash": "ef5eda22aaf1b13ad012a9dc37d9ed3e0539199f9fecfd97da88a8d3ebfba83f"
+    },
+    {
+      "file": "assets/nature/openmoji-color/sun-with-face-1f31e.png",
+      "sourceHash": "7492f2a7e8bfd42e538c2eb9d654690923d5d7d484ab494eeace48a1d2ae5e0a"
+    },
+    {
+      "file": "assets/food/openmoji-color/pizza-1f355.png",
+      "sourceHash": "36beea286d028ba2ea621a893c3f205199284457edaece1d9807c9e68b345dd5"
+    },
+    {
+      "file": "assets/objects/openmoji-color/flag-in-hole-26f3.png",
+      "sourceHash": "d8850483666419297912810ae90c12380a155be8a8570d75efc7cffbe6223369"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/roller-coaster-1f3a2.png",
+      "sourceHash": "cc8d9d6943ad54cc09d5ad2d32c28a9ad297fb1e634095d5e38c983f9598423b"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/speedboat-1f6a4.png",
+      "sourceHash": "ac6c346be0992ea22a695b6c697cdef1a473556c1b41bbbf3a8c58bd9ddde019"
+    },
+    {
+      "file": "assets/people/openmoji-color/drooling-face-1f924.png",
+      "sourceHash": "8c52e04d53ab5c2e075429e7539a3e8b104f30c06d9ff99469b0c3089a3d7260"
+    },
+    {
+      "file": "assets/animals/openmoji-color/mammoth-1f9a3.png",
+      "sourceHash": "8505b229fe86ae31d1dac02f3a84ced61d419e822bd2831857c94045abdadf9f"
+    },
+    {
+      "file": "assets/effects/openmoji-color/red-envelope-1f9e7.png",
+      "sourceHash": "00c4fc1b41671593b841b2a1173a3dedd3563d8083a7d59e954400afdd32f370"
+    },
+    {
+      "file": "assets/nature/openmoji-color/ringed-planet-1fa90.png",
+      "sourceHash": "73d4510ca4e5ff096f483dea6889448912351064379e60ff088854234b8b8c3f"
+    },
+    {
+      "file": "assets/food/openmoji-color/hot-dog-1f32d.png",
+      "sourceHash": "2b6d42cb0d7f9f5207f109b1cc0244ecff26dd67e7ee1dc432a01aaeafee2e4e"
+    },
+    {
+      "file": "assets/objects/openmoji-color/ice-skate-26f8.png",
+      "sourceHash": "0c093a430316e44ecf659cbab459c6d90ca8713d5ab0d3a3e1a77a33e56fb4e5"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/barber-pole-1f488.png",
+      "sourceHash": "5339bea401a7a7b1058b2eb0ef3012745ae48af438f95ea9c5ee15e218109c45"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/passenger-ship-1f6f3.png",
+      "sourceHash": "5e250f3ca4207f19448ce84f8d753346e259fd0166cad6575dd2516672ff975b"
+    },
+    {
+      "file": "assets/people/openmoji-color/sleeping-face-1f634.png",
+      "sourceHash": "c6743584d5ae363586bed4350dd6726c7ad36b183a7c2de09496365b45b314bf"
+    },
+    {
+      "file": "assets/animals/openmoji-color/rhinoceros-1f98f.png",
+      "sourceHash": "0cc81fb54bfde9af1483254775c15cd409c86eb1d3068181c1e21aa0f1e1c457"
+    },
+    {
+      "file": "assets/effects/openmoji-color/ribbon-1f380.png",
+      "sourceHash": "f995e5c043ef5499c40a9725028a54e77fdbcbd459d2a127f1aa7fd72eb8525d"
+    },
+    {
+      "file": "assets/nature/openmoji-color/star-2b50.png",
+      "sourceHash": "d8303ca5eac30dd96cc6cff9ade3d1f177865e91777b132ac668c1b9f67c556d"
+    },
+    {
+      "file": "assets/food/openmoji-color/sandwich-1f96a.png",
+      "sourceHash": "3ba9e0246cd603c9346b0260ce474a01b0705bea625b205d5d81f36ef4042d1e"
+    },
+    {
+      "file": "assets/objects/openmoji-color/fishing-pole-1f3a3.png",
+      "sourceHash": "ec932ab896109fc33ed9cf23775b331c24548b1456db629daa209240d5c844c0"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/circus-tent-1f3aa.png",
+      "sourceHash": "110546490de15dcb229fab4720ddcb0d46968959a6e86605ce44ead9c443d3b7"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/ferry-26f4.png",
+      "sourceHash": "88d3a0a632a858b1926b709e00c412d80539bbd5a944ad6b165717c077131c3a"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-with-bags-under-eyes-1fae9.png",
+      "sourceHash": "435cd57adb5320b34a72cf9c10f05ff1b1b9c357d1d8c6fa8a3bf4393b3e7475"
+    },
+    {
+      "file": "assets/animals/openmoji-color/hippopotamus-1f99b.png",
+      "sourceHash": "14e004789b3efa66e1e0c40aa5227ba448da6b0d4aee6f8bbb90baca6dc45ba7"
+    },
+    {
+      "file": "assets/effects/openmoji-color/wrapped-gift-1f381.png",
+      "sourceHash": "b17186b02349f3b5a6eece0ead16a28a726506417d36d2cd97501ba86efd99ee"
+    },
+    {
+      "file": "assets/nature/openmoji-color/glowing-star-1f31f.png",
+      "sourceHash": "a2cdb5f8e4ee3e453fb3956f435ab9b59c33386318f2faa950e8980bffcd386f"
+    },
+    {
+      "file": "assets/food/openmoji-color/taco-1f32e.png",
+      "sourceHash": "84e91ccd0d8b9796a02d7affee1f3697f0e73edeb0d9a132bd655c845c5014b3"
+    },
+    {
+      "file": "assets/objects/openmoji-color/diving-mask-1f93f.png",
+      "sourceHash": "b48c52c424e3285df90d03fc056afd06970a743fbaf8e92683477f09638eec8d"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/bellhop-bell-1f6ce.png",
+      "sourceHash": "0997257ec5c69d1387f0e7abf2e3e3cbfa3d9ad7d949a83a772e5a6643590aa8"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/motor-boat-1f6e5.png",
+      "sourceHash": "5f3118cf2438e67ff615fb32790c17080d413d636c57f244668ce1dc5fe8300e"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-with-medical-mask-1f637.png",
+      "sourceHash": "80a1aa11a4720c3294520342ecc85b5a99d5346631add31e80a51a51dfdcbeb1"
+    },
+    {
+      "file": "assets/animals/openmoji-color/mouse-face-1f42d.png",
+      "sourceHash": "78537fa98de50f0d1ff847b7cb242a653fdbf518df25d078964b9a9702641a78"
+    },
+    {
+      "file": "assets/effects/openmoji-color/reminder-ribbon-1f397.png",
+      "sourceHash": "18d80c57e4d6b95ed47de6dd23b7f5a9247a1217ba63e8fd27de6d9aec77b40e"
+    },
+    {
+      "file": "assets/nature/openmoji-color/shooting-star-1f320.png",
+      "sourceHash": "4785bb7e6e41e5e00c19b9c9d168f7c1b1fd7fd4c05fe5d469be10b28449808b"
+    },
+    {
+      "file": "assets/food/openmoji-color/burrito-1f32f.png",
+      "sourceHash": "009bdbfec6b8ff85a995f25531f223e1c905f1a6aa5eeae1a11baf8c0ea0f429"
+    },
+    {
+      "file": "assets/objects/openmoji-color/running-shirt-1f3bd.png",
+      "sourceHash": "58e12a6fdc14999b4c6eed3fb2a5f6f9a548bdf612cd9ff5a9a4243f93873133"
+    },
+    {
+      "file": "assets/buildings/openmoji-color/luggage-1f9f3.png",
+      "sourceHash": "711d5ef8966339ba77b7b75689cc8f4a74acbc94ac2b76c981192b1883850252"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/ship-1f6a2.png",
+      "sourceHash": "842379eadd0dd816ca137773d367604e6327a84ede10185b7d20840d369f340a"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-with-thermometer-1f912.png",
+      "sourceHash": "cc9e0c37b5442e0d7aff19cd2d5cc9fdab53ef81a29b3e58565d061d6d55b22b"
+    },
+    {
+      "file": "assets/animals/openmoji-color/mouse-1f401.png",
+      "sourceHash": "88f6b19dd9f0596df1627234bd3bda0abd515c7678b6afc6073ec434a5cb8640"
+    },
+    {
+      "file": "assets/effects/openmoji-color/admission-tickets-1f39f.png",
+      "sourceHash": "dbf505ede02c16ab902635d9f648e717fd72ec3fd2e22f5e65b46120765b9253"
+    },
+    {
+      "file": "assets/nature/openmoji-color/milky-way-1f30c.png",
+      "sourceHash": "f0e43dd1d8b80a22db8061b03a71490a85882ab7dca977e228ad3f0b8364ab69"
+    },
+    {
+      "file": "assets/food/openmoji-color/tamale-1fad4.png",
+      "sourceHash": "6bd68fbed912bd3067e18a76d1f7ce8ea047375294d128f6cca08b57ef1a3c48"
+    },
+    {
+      "file": "assets/objects/openmoji-color/skis-1f3bf.png",
+      "sourceHash": "bfc10b53191c39ba525cecff293f92f24e4dc55c4472173b801ed71b0f7ee338"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/airplane-2708.png",
+      "sourceHash": "0b9be62336906b48496dda6baa7c82e0b55a5e0b3d3f1e54932ecb683138b58c"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-with-head-bandage-1f915.png",
+      "sourceHash": "9ac1c1e9bb6c0dca0a47d5d9827c327d1f53b6b8ed3da67de13bbbaf1c4a86de"
+    },
+    {
+      "file": "assets/animals/openmoji-color/rat-1f400.png",
+      "sourceHash": "0d5fa85a7039b2bf651daaa76b332cf4302281ce23891e9ac9edeae622c946db"
+    },
+    {
+      "file": "assets/effects/openmoji-color/ticket-1f3ab.png",
+      "sourceHash": "c3708c977215fad2b473e0cb1abd86329f50a74206ab22934821a384be44f4a3"
+    },
+    {
+      "file": "assets/nature/openmoji-color/cloud-2601.png",
+      "sourceHash": "6022fcfe4ccca41dce4c0488a3293096c7e902a40714d913be44576c765075e1"
+    },
+    {
+      "file": "assets/food/openmoji-color/stuffed-flatbread-1f959.png",
+      "sourceHash": "c8095205dc1dafbd879873556abb424b6c3aab3dd7e158c3d4ec841720178430"
+    },
+    {
+      "file": "assets/objects/openmoji-color/sled-1f6f7.png",
+      "sourceHash": "5ccfed9d150248a2d17cf81145de5b700c2ae1d9ca277b32f9fcfe8655fd6618"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/small-airplane-1f6e9.png",
+      "sourceHash": "3a9111d88848e2e3759c4ff2282352035fbd223d20ace8d5a900c2d7451f831f"
+    },
+    {
+      "file": "assets/people/openmoji-color/sneezing-face-1f927.png",
+      "sourceHash": "80fc1c7ac379a46062edba45ceb183791203da1c2cc52f048f4789465a014cdf"
+    },
+    {
+      "file": "assets/animals/openmoji-color/hamster-1f439.png",
+      "sourceHash": "c35fbd1bf34873735d2878d68553648491f1bfab548001b7bea6d5821bd893d0"
+    },
+    {
+      "file": "assets/effects/openmoji-color/military-medal-1f396.png",
+      "sourceHash": "b233914bcf117f062d73a7b81755d4a86134752d7b1afd0b69a66b26514c00c8"
+    },
+    {
+      "file": "assets/nature/openmoji-color/sun-behind-cloud-26c5.png",
+      "sourceHash": "578801254f650bc811c927494dd9a9c6d2e768dbb33d7341f01abf9cc46416f7"
+    },
+    {
+      "file": "assets/food/openmoji-color/falafel-1f9c6.png",
+      "sourceHash": "aecefd0f0cf776a3242c682f9c2179f3ae0d472d27c8211a40bfb1c2039da611"
+    },
+    {
+      "file": "assets/objects/openmoji-color/curling-stone-1f94c.png",
+      "sourceHash": "20dd21dcc2b3a196f8bea953a9b490635eeea74995ce568ac4a6ed456010f0fc"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/airplane-departure-1f6eb.png",
+      "sourceHash": "83707ad3eeb61cb60eee77cc3521998729cd456b6e46d0e09620e8c0b9caa366"
+    },
+    {
+      "file": "assets/people/openmoji-color/hot-face-1f975.png",
+      "sourceHash": "cf280959a764a19827c5c5966706174edc1e398bda87977314bb2e68c6bb64d3"
+    },
+    {
+      "file": "assets/animals/openmoji-color/rabbit-face-1f430.png",
+      "sourceHash": "a26166623d30dbbbd5cf83d76d3c962763cd3ad1b750ca22d6f117a767b69d23"
+    },
+    {
+      "file": "assets/effects/openmoji-color/trophy-1f3c6.png",
+      "sourceHash": "86dde21e4a73e3494420ab33c3ccb0fbe058dd142388559accf30cbeade151ed"
+    },
+    {
+      "file": "assets/nature/openmoji-color/cloud-with-lightning-and-rain-26c8.png",
+      "sourceHash": "20db44846b6d463cdb6d92892d38ce4214c86034bc55593f77c14afead8687d4"
+    },
+    {
+      "file": "assets/food/openmoji-color/egg-1f95a.png",
+      "sourceHash": "24c7f48c935d86e8f6efa8ec198779a62a8759434dc17ec5ef74b98fcec85d01"
+    },
+    {
+      "file": "assets/objects/openmoji-color/bullseye-1f3af.png",
+      "sourceHash": "f01bffddc3297b8dd2a8d20964ee9355673f41a11d0e891ddd452d1ed061ecaf"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/airplane-arrival-1f6ec.png",
+      "sourceHash": "1964a3d0a9f2d8d5f71fb58add1ddea83597aeaf7a0da58e0dfefe4b547ffd50"
+    },
+    {
+      "file": "assets/people/openmoji-color/cold-face-1f976.png",
+      "sourceHash": "4eaabdb3cb5f73f6299fd8c28c952e9e29277f46296d9c2cb540e2ade41db950"
+    },
+    {
+      "file": "assets/animals/openmoji-color/rabbit-1f407.png",
+      "sourceHash": "83385bcd6bbedb319f33ef73333b1dad5cd22dae32a785eb31621da4d8238cc2"
+    },
+    {
+      "file": "assets/effects/openmoji-color/sports-medal-1f3c5.png",
+      "sourceHash": "143986f2823c8f97b31d87ccabb8eae12d6e4732accc24e9fec36376d50e97c0"
+    },
+    {
+      "file": "assets/nature/openmoji-color/sun-behind-small-cloud-1f324.png",
+      "sourceHash": "5612ee31270e350c004737f4b6649ca1ddd8a29ea7a59a671db0cf99ae77f504"
+    },
+    {
+      "file": "assets/food/openmoji-color/cooking-1f373.png",
+      "sourceHash": "352ce79d9c5582005da5ba07af223e2b80dc12ad543a82e7c7de135757ecbc34"
+    },
+    {
+      "file": "assets/objects/openmoji-color/yo-yo-1fa80.png",
+      "sourceHash": "b027040e2a7b431f45af7420ec2bb80de4ead93a4b082865d9c9846e30d387f7"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/parachute-1fa82.png",
+      "sourceHash": "a341ff44d040164c0edf107b6d6f0fc70698509ba00a4eec9a3d68449b66fde9"
+    },
+    {
+      "file": "assets/people/openmoji-color/woozy-face-1f974.png",
+      "sourceHash": "821ce59bcfdcd725d0d83bb4d694b93cc292a9cb5bb43716e015cf2534302807"
+    },
+    {
+      "file": "assets/animals/openmoji-color/chipmunk-1f43f.png",
+      "sourceHash": "235000d225011f2f6bf821d5eb2632b540560b40dde0fbd8b129de84103bdfa9"
+    },
+    {
+      "file": "assets/effects/openmoji-color/1st-place-medal-1f947.png",
+      "sourceHash": "6b8bd56a1587f9213e9977c666da80b01223d1f2a6373d6256aee38ff87be20f"
+    },
+    {
+      "file": "assets/nature/openmoji-color/sun-behind-large-cloud-1f325.png",
+      "sourceHash": "fe4519fbe32e8dcf67288f215ca992fa8cdc1a421cfbe559eee8c26d75a155b2"
+    },
+    {
+      "file": "assets/food/openmoji-color/shallow-pan-of-food-1f958.png",
+      "sourceHash": "a1ca65b768c71f40d97e368acc7e776ef789a65b0336d575c107ccceccf9a843"
+    },
+    {
+      "file": "assets/objects/openmoji-color/kite-1fa81.png",
+      "sourceHash": "f047a02f88109e6bd44e7edcaa82498b1cde33519dff153d5ffaaa2c5280b20b"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/seat-1f4ba.png",
+      "sourceHash": "fceb0e9f82289acb1118387f7cb45a0331ab67f983e7e3f03c175ca87d506ee2"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-with-crossed-out-eyes-1f635.png",
+      "sourceHash": "2869f88e213bc12f0e0c5009f8947c9176a29f4228ef310d8f90f372a1c9aa31"
+    },
+    {
+      "file": "assets/animals/openmoji-color/beaver-1f9ab.png",
+      "sourceHash": "b45e8439d6e61024d26e13772a6149d5df2e0efe793682a44d8b6aab81e43638"
+    },
+    {
+      "file": "assets/effects/openmoji-color/2nd-place-medal-1f948.png",
+      "sourceHash": "178db289c9c683d194ed6abe03ce5c3ba9c37392c7d00109559d3b47c5ed0b28"
+    },
+    {
+      "file": "assets/nature/openmoji-color/sun-behind-rain-cloud-1f326.png",
+      "sourceHash": "6f683d93221500a6bfa11df6e7eecbfa63acc8eef87af49c2201c6a9e6558e9b"
+    },
+    {
+      "file": "assets/food/openmoji-color/pot-of-food-1f372.png",
+      "sourceHash": "3fb7600fbf390134f4dc8ecd38cc35212a1b993c0aa46e15ede6ec06f0fef817"
+    },
+    {
+      "file": "assets/objects/openmoji-color/pool-8-ball-1f3b1.png",
+      "sourceHash": "0b8c26068233ec02c3bd3d08abec115d45db523e12c268a771644bbdfbb3e865"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/helicopter-1f681.png",
+      "sourceHash": "f5e58f2a67cb0866b5da8bbd966b63bbb66d4ea82712928b4d8d6ec135107e03"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-with-spiral-eyes-1f635-200d-1f4ab.png",
+      "sourceHash": "079d46dd26a2ac97d54ed24abf7bb45693f6339009f5b09b18aed18537efdfce"
+    },
+    {
+      "file": "assets/animals/openmoji-color/hedgehog-1f994.png",
+      "sourceHash": "6c88c44cf2ea2172499cf5994b39712d08956831c5f4bcdda0d66b9d915950aa"
+    },
+    {
+      "file": "assets/effects/openmoji-color/3rd-place-medal-1f949.png",
+      "sourceHash": "e9b44c5636d00f141dadebb03b13754b73b2a0836311550f2ccd2d01ffd7540b"
+    },
+    {
+      "file": "assets/nature/openmoji-color/cloud-with-rain-1f327.png",
+      "sourceHash": "33a874b42c75d71f3a5911219ddc9be76169200f2416a72cd9374c41072b5143"
+    },
+    {
+      "file": "assets/food/openmoji-color/fondue-1fad5.png",
+      "sourceHash": "34d6a1ce41818251ff3c792fef96b9fc06a68aec7f638722e3da8052e121d737"
+    },
+    {
+      "file": "assets/objects/openmoji-color/crystal-ball-1f52e.png",
+      "sourceHash": "95619dfd8f8379a40c28f4a0aedb1880bf0fde283ad922b1fd0a9e05a4378a2d"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/suspension-railway-1f69f.png",
+      "sourceHash": "5a0aa5a816522451bf7da62a4115fe80239af958da51b05723fae4c3a17e564d"
+    },
+    {
+      "file": "assets/people/openmoji-color/exploding-head-1f92f.png",
+      "sourceHash": "98f79e1b80081cdf267bcded8838f50883af19729abe1750cd420775e3e496e4"
+    },
+    {
+      "file": "assets/animals/openmoji-color/bat-1f987.png",
+      "sourceHash": "2692a9d5fb853adf8622ddac77e150cf4f48325e240b39a339708f14f8844b6f"
+    },
+    {
+      "file": "assets/nature/openmoji-color/cloud-with-snow-1f328.png",
+      "sourceHash": "932ff91ac7a8b9023059ea6a584a307cce8732053948f768ef65743d64758734"
+    },
+    {
+      "file": "assets/food/openmoji-color/bowl-with-spoon-1f963.png",
+      "sourceHash": "ff96fc45974ed0ae5c9f54894ccf9f4c839c81240b5b81fe1bb8d68214c61eb2"
+    },
+    {
+      "file": "assets/objects/openmoji-color/magic-wand-1fa84.png",
+      "sourceHash": "96377a89b830ab64a46239db60362b00991037c2bd39d7c497e319856f124f05"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/mountain-cableway-1f6a0.png",
+      "sourceHash": "62d38b8e22d04316cb07b9708aa13c3b114d1408d5b4135756044de93757d9f8"
+    },
+    {
+      "file": "assets/people/openmoji-color/cowboy-hat-face-1f920.png",
+      "sourceHash": "6fecdd624ad5b7019e7a2344dd5cc4f2b9c925718819245b683ae000e73c60b4"
+    },
+    {
+      "file": "assets/animals/openmoji-color/bear-1f43b.png",
+      "sourceHash": "cae4f4ef9fe808c4c3f1b9b3c4b31596a6fd5b8fd29fb84e6883759ede44572a"
+    },
+    {
+      "file": "assets/nature/openmoji-color/cloud-with-lightning-1f329.png",
+      "sourceHash": "7f4d25d1cfde987dbdfee6ae11ab87762efc89d3063f88bb1c9beb5651f61f3c"
+    },
+    {
+      "file": "assets/food/openmoji-color/green-salad-1f957.png",
+      "sourceHash": "14fb23094876b7e2695b7ecb3c9af90b6a8aaf1abacb21952a72b376db740531"
+    },
+    {
+      "file": "assets/objects/openmoji-color/video-game-1f3ae.png",
+      "sourceHash": "5fdcae50fcfac2f1d51860e15b4ee5986a33a4938e8b978618ab767c28a6d177"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/aerial-tramway-1f6a1.png",
+      "sourceHash": "deceb7a4875c8bf37fbcefb2caf4c59f5684d3c860329c756136d4dd257a643a"
+    },
+    {
+      "file": "assets/people/openmoji-color/partying-face-1f973.png",
+      "sourceHash": "934344f6bcfc7d58b36d6196d59066da82f3e899eaadefa9ad9e4e450d87cb3e"
+    },
+    {
+      "file": "assets/animals/openmoji-color/polar-bear-1f43b-200d-2744-fe0f.png",
+      "sourceHash": "494c544956a88c06c80384e58c22ddb9b83d1563e6096db02205772d22e7af3c"
+    },
+    {
+      "file": "assets/nature/openmoji-color/tornado-1f32a.png",
+      "sourceHash": "70d040eaf7016cd6fa102c916ad1f419d7f7063d7d11cbdc674454d14433cfb5"
+    },
+    {
+      "file": "assets/food/openmoji-color/popcorn-1f37f.png",
+      "sourceHash": "92bf49b511c028bd1edf062785f931ced2f439dfe84b74f04a7baf641f452302"
+    },
+    {
+      "file": "assets/objects/openmoji-color/joystick-1f579.png",
+      "sourceHash": "6ad51005086403aed4d3137145404e54995d1efedae97e76e0d6b188a40a2704"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/satellite-1f6f0.png",
+      "sourceHash": "086842c7b5e43a0f585456a1313c0c40088d5d4e98dba23afe90a65d1a444bcf"
+    },
+    {
+      "file": "assets/people/openmoji-color/disguised-face-1f978.png",
+      "sourceHash": "dc0d416186a19abb276e5e044ee4b5440b74112fd9729847479bd0ea8a0d6c05"
+    },
+    {
+      "file": "assets/animals/openmoji-color/koala-1f428.png",
+      "sourceHash": "bcf62172b5034b2c3aac283a362e5bf94c1480de51b57799756bbac57fff9c6c"
+    },
+    {
+      "file": "assets/nature/openmoji-color/fog-1f32b.png",
+      "sourceHash": "6b9e5488b213dc04ca1f0c3529d35394c3dab2c77ee7dc711121f20ba022a12f"
+    },
+    {
+      "file": "assets/food/openmoji-color/butter-1f9c8.png",
+      "sourceHash": "c93d011d27918e761f2d40cb8c526f670e541992aba20508d969f14edc4fdef7"
+    },
+    {
+      "file": "assets/objects/openmoji-color/game-die-1f3b2.png",
+      "sourceHash": "299c16c3937227769f8fd51e94b3c104f05965d47de1c6ee6c2023772193f015"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/rocket-1f680.png",
+      "sourceHash": "35c13f8c667410e9f6e7dde6eb96e84ee00bbe3e95287bab83e4fbea52807140"
+    },
+    {
+      "file": "assets/people/openmoji-color/smiling-face-with-sunglasses-1f60e.png",
+      "sourceHash": "a04627439215141b0e8f13a592f509f4259f9cbb49b7da17511e79dd88506b4b"
+    },
+    {
+      "file": "assets/animals/openmoji-color/panda-1f43c.png",
+      "sourceHash": "0735d0e783c7d920dd442441373c043707524832a806d5426eb21c28cafa6c1b"
+    },
+    {
+      "file": "assets/nature/openmoji-color/wind-face-1f32c.png",
+      "sourceHash": "088fb8776abe7948a21dd1b1b5bcf7820d06ac78a9ec33788eea4dd8ab5908cf"
+    },
+    {
+      "file": "assets/food/openmoji-color/salt-1f9c2.png",
+      "sourceHash": "7d1d5cb0905e8af2e9fc32bdd2539a6ece0a95a15db209f03554e1d27ed0e615"
+    },
+    {
+      "file": "assets/objects/openmoji-color/puzzle-piece-1f9e9.png",
+      "sourceHash": "4ebbb386f6723df717898386fddfaca443a74b7d11b9a976d9421626314bb0a5"
+    },
+    {
+      "file": "assets/vehicles/openmoji-color/flying-saucer-1f6f8.png",
+      "sourceHash": "db9f9178ecfaa35659f8a650ba783658ee6ed420edcf01c9de284b1bb1917505"
+    },
+    {
+      "file": "assets/people/openmoji-color/nerd-face-1f913.png",
+      "sourceHash": "994b98cfe4674f61d5798af3ef73037898d3d9d2c168349fd628543d75319bfa"
+    },
+    {
+      "file": "assets/animals/openmoji-color/sloth-1f9a5.png",
+      "sourceHash": "255a9ce5d0642e23f5b740c0acac461f8d28403c7e935ec8c46e118b47804067"
+    },
+    {
+      "file": "assets/nature/openmoji-color/cyclone-1f300.png",
+      "sourceHash": "481e3259dbf14593148623beb9d20dbb7263be7fbfeca1e7b8633168dfd243a8"
+    },
+    {
+      "file": "assets/food/openmoji-color/canned-food-1f96b.png",
+      "sourceHash": "c6efec13bc061372da820cf554febc7f020e43c9947e8d50c70c537a13d729d2"
+    },
+    {
+      "file": "assets/objects/openmoji-color/teddy-bear-1f9f8.png",
+      "sourceHash": "f7f9246376da9b2ba5e1fd052bdfc8f1b61b491cecde962a93a50fda0b833501"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-with-monocle-1f9d0.png",
+      "sourceHash": "2503c592d83bce8d0aa0f494478cb820d13446ef268cad1748ce9c0f61cca050"
+    },
+    {
+      "file": "assets/animals/openmoji-color/otter-1f9a6.png",
+      "sourceHash": "cdacfccb2065365e153d5be284a2e4b0ef71bbf50759c07bf195b9f3bcda6b45"
+    },
+    {
+      "file": "assets/nature/openmoji-color/rainbow-1f308.png",
+      "sourceHash": "e64d4d09858960c0b09e3c7c6568ddff14db3207bec2d9d1d41d8cbf250085f2"
+    },
+    {
+      "file": "assets/food/openmoji-color/bento-box-1f371.png",
+      "sourceHash": "84587e70249ded824fad6599372d3987505bda638e74a551819165031fcea8e8"
+    },
+    {
+      "file": "assets/objects/openmoji-color/pi-ata-1fa85.png",
+      "sourceHash": "075fa69720822594a4f52287cf16c13b27027fa35d79f04827938b827e1d13ce"
+    },
+    {
+      "file": "assets/people/openmoji-color/confused-face-1f615.png",
+      "sourceHash": "b75095d0fe4a0350a0cbd9e049664b0f8c007adb6d530805a7b31f29c5929eae"
+    },
+    {
+      "file": "assets/animals/openmoji-color/skunk-1f9a8.png",
+      "sourceHash": "ab968697cdba132691ea669c84458829a8a87f662d2672d05a54685e7502c08d"
+    },
+    {
+      "file": "assets/nature/openmoji-color/closed-umbrella-1f302.png",
+      "sourceHash": "7eba972d7138abf5fd9709ad5ca384bdefb2e5c43ba3d5de32e8f186ed37e284"
+    },
+    {
+      "file": "assets/food/openmoji-color/rice-cracker-1f358.png",
+      "sourceHash": "4741808926933289b7870bda65c2695ec4d95c049d3e16c51caa7b7bd9c25d4c"
+    },
+    {
+      "file": "assets/objects/openmoji-color/mirror-ball-1faa9.png",
+      "sourceHash": "0c67345d7bd2668a19b2643ad886a72da54d4b9bee0199efada6a9d058309f73"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-with-diagonal-mouth-1fae4.png",
+      "sourceHash": "4401c2ee1f40cefe489483df97bce95e9f763526e373f5bb4853ecbdb8d04d87"
+    },
+    {
+      "file": "assets/animals/openmoji-color/kangaroo-1f998.png",
+      "sourceHash": "7f8ee697834009d8cf4db963e66dff455b16ed7768b8ced9bb96297013365d24"
+    },
+    {
+      "file": "assets/nature/openmoji-color/umbrella-2602.png",
+      "sourceHash": "f45023bb4678581dffb8c08eb37140f35b8e68f9dc0b8249dc5864085952c1c7"
+    },
+    {
+      "file": "assets/food/openmoji-color/rice-ball-1f359.png",
+      "sourceHash": "995b8ce6891a8be0b543bce44ae5263d5c26fd7471aba2c721b564a643251f8a"
+    },
+    {
+      "file": "assets/objects/openmoji-color/nesting-dolls-1fa86.png",
+      "sourceHash": "ce32f9a31b0b79e1d9447adcc96810f24a260d41f18776fac02f31083edf2f9b"
+    },
+    {
+      "file": "assets/people/openmoji-color/worried-face-1f61f.png",
+      "sourceHash": "21e76284ab25bd2a8fa36f17c9884ea2e73fa829ad0d388db8444c4704871aa2"
+    },
+    {
+      "file": "assets/animals/openmoji-color/badger-1f9a1.png",
+      "sourceHash": "2c0d76dd8c0f236a6fa5f627289fab7908ebf6676f6a46b343351d138b95b8a4"
+    },
+    {
+      "file": "assets/nature/openmoji-color/umbrella-with-rain-drops-2614.png",
+      "sourceHash": "195933c06650937b24ca3b62e2de8e3231025ddeeabf6f1ee2e6aef6f7088087"
+    },
+    {
+      "file": "assets/food/openmoji-color/cooked-rice-1f35a.png",
+      "sourceHash": "015cfa76a99eec6aad5ce3a3033c3980b49314f3674c7ca52ec3faba4b9c704e"
+    },
+    {
+      "file": "assets/objects/openmoji-color/spade-suit-2660.png",
+      "sourceHash": "da606dca03dbf75fd96e15584b99863b9eb075317a2f7f628e893565774d502a"
+    },
+    {
+      "file": "assets/people/openmoji-color/slightly-frowning-face-1f641.png",
+      "sourceHash": "f7f703247b9e7792180bddbecb8d1f1e9a397656421703e168492bd5d4f8099d"
+    },
+    {
+      "file": "assets/animals/openmoji-color/paw-prints-1f43e.png",
+      "sourceHash": "b1a024deb6157c1719a040d8de2846f9d77094fe2eaa7676b6f28a769445f3cf"
+    },
+    {
+      "file": "assets/nature/openmoji-color/umbrella-on-ground-26f1.png",
+      "sourceHash": "ccecc64e0153e40fd36054b38ba8b4d3fa6a4e28cdba85e76d70ef5fd8983eec"
+    },
+    {
+      "file": "assets/food/openmoji-color/curry-rice-1f35b.png",
+      "sourceHash": "19e208ef1f48a95c4267215fbe1544c3af1e8d9c7a2d9ae435da8f7707bd66f7"
+    },
+    {
+      "file": "assets/objects/openmoji-color/heart-suit-2665.png",
+      "sourceHash": "141fa61fd82e108f60cc911858e3bfd42d35ae0cf93eb160fd8e5fe3d8b702ff"
+    },
+    {
+      "file": "assets/people/openmoji-color/frowning-face-2639.png",
+      "sourceHash": "0694550a197463062e85547242f2dfba8821573603332f5a4eae993c29f211ef"
+    },
+    {
+      "file": "assets/animals/openmoji-color/turkey-1f983.png",
+      "sourceHash": "152a933a9bf106787aff1ca374cdf06535d326e853c634c12bb4cf30b0a011e9"
+    },
+    {
+      "file": "assets/nature/openmoji-color/high-voltage-26a1.png",
+      "sourceHash": "84a2134fe71902e980e8087865dc75990cf0e8bdb1177499b4ad37608ed76532"
+    },
+    {
+      "file": "assets/food/openmoji-color/steaming-bowl-1f35c.png",
+      "sourceHash": "dc00cc65c6b402d09cb07cef6454907689bbb615545c0b4d10aaa07091836968"
+    },
+    {
+      "file": "assets/objects/openmoji-color/diamond-suit-2666.png",
+      "sourceHash": "dbe0f99d0aeb5a6ce13e7997edae0ed175ebc2165044b6b76da9f549c8f3d697"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-with-open-mouth-1f62e.png",
+      "sourceHash": "609f3c66d202fe605b040fd22ee6b8178233cc96707618306b44399baffe6b72"
+    },
+    {
+      "file": "assets/animals/openmoji-color/chicken-1f414.png",
+      "sourceHash": "acecffc525a93997f8f0002469a241c1c273269836e84c66870a0f8f0e94d45e"
+    },
+    {
+      "file": "assets/nature/openmoji-color/snowflake-2744.png",
+      "sourceHash": "3c77229d03a1aa63138bb34bfda8bd9ffeac7fe726279c879d0bf6f69a6d2ef4"
+    },
+    {
+      "file": "assets/food/openmoji-color/spaghetti-1f35d.png",
+      "sourceHash": "0be3f64e68c2b24ec1327d3cc0b6093dee7c9bfa037b03c5a0d2c8b1612c4909"
+    },
+    {
+      "file": "assets/objects/openmoji-color/club-suit-2663.png",
+      "sourceHash": "6ceaa403a81df572d20e69cf297febf3d426c31f778fcb6b6b60f4e93f1717c1"
+    },
+    {
+      "file": "assets/people/openmoji-color/hushed-face-1f62f.png",
+      "sourceHash": "806618a00cc32442b0d334ebeb87c582257c11e371038c4027ebd4cd8d1aa31b"
+    },
+    {
+      "file": "assets/animals/openmoji-color/rooster-1f413.png",
+      "sourceHash": "9c2e055e31bda69b039498fccf3d41b0043f203c99ddab7fe1021f2a82c8fff6"
+    },
+    {
+      "file": "assets/nature/openmoji-color/snowman-2603.png",
+      "sourceHash": "85dba463b2fe9fc69d1205c033b158daed2c16aa509926b3770cb357ec5981f9"
+    },
+    {
+      "file": "assets/food/openmoji-color/roasted-sweet-potato-1f360.png",
+      "sourceHash": "0ca88b696efd5a0a2cc743e35e4c592c4edcd35e018cd9d7b777851e1181ea42"
+    },
+    {
+      "file": "assets/objects/openmoji-color/chess-pawn-265f.png",
+      "sourceHash": "74e6a6426430d42e2ae6709439cdee3a1a2878bb143645c161fe076438d575c0"
+    },
+    {
+      "file": "assets/people/openmoji-color/astonished-face-1f632.png",
+      "sourceHash": "925e7e3e00bcec8b368754557092a1e5bff21a53a07577d8c72c6f582f6a2566"
+    },
+    {
+      "file": "assets/animals/openmoji-color/hatching-chick-1f423.png",
+      "sourceHash": "c92517ef7ee60022830b0b7f8d5a457dada02414eddfbfea2aeafbdd0b8e2750"
+    },
+    {
+      "file": "assets/nature/openmoji-color/snowman-without-snow-26c4.png",
+      "sourceHash": "a34f11141394322283a608556765562f45cf22e96ef416042d95a441c91880b1"
+    },
+    {
+      "file": "assets/food/openmoji-color/oden-1f362.png",
+      "sourceHash": "e7c2d0c3b147036c4f6085f2d9e1d1260a0c9f911b885e696e53cda71a4baffa"
+    },
+    {
+      "file": "assets/objects/openmoji-color/joker-1f0cf.png",
+      "sourceHash": "3dcd4108285875bd4bb058f0c344ee5928e91408b77b40250a258bffb5536ede"
+    },
+    {
+      "file": "assets/people/openmoji-color/flushed-face-1f633.png",
+      "sourceHash": "e01253c2bc5fa26dca4d664d59f887a908d842f1fe2cf45e1db35091bbfb99c0"
+    },
+    {
+      "file": "assets/animals/openmoji-color/baby-chick-1f424.png",
+      "sourceHash": "edcbdabe0b8bf1a3ee6a7014a295659e17eb328c299609cd799004cb1e2bd3d7"
+    },
+    {
+      "file": "assets/nature/openmoji-color/comet-2604.png",
+      "sourceHash": "7c082cce082ef3105006f6ff6c009b0f977e53731334626c687ada58cd4d0543"
+    },
+    {
+      "file": "assets/food/openmoji-color/sushi-1f363.png",
+      "sourceHash": "6ca0e54ccad7b83a07d2fecac0a2133c5c55c9d52e2a3286b09e7eaf5f52e591"
+    },
+    {
+      "file": "assets/objects/openmoji-color/mahjong-red-dragon-1f004.png",
+      "sourceHash": "98faf2fffa57c48631eca339978afd524be8751258a9de932a7a4140b135ff95"
+    },
+    {
+      "file": "assets/people/openmoji-color/distorted-face-1faea.png",
+      "sourceHash": "823991f2fb34c946451db26c136e29e0b368f12e173cc127a2c387317eede05f"
+    },
+    {
+      "file": "assets/animals/openmoji-color/front-facing-baby-chick-1f425.png",
+      "sourceHash": "735a36ab6dade7708215374220b269aee18aa6550037eff16aebb2b6db7ba843"
+    },
+    {
+      "file": "assets/nature/openmoji-color/fire-1f525.png",
+      "sourceHash": "6e453c2798b7841089720f0d8a07d81a9439b22c9cd54cae4adf2b898ddadb43"
+    },
+    {
+      "file": "assets/food/openmoji-color/fried-shrimp-1f364.png",
+      "sourceHash": "4d8535bb2239843911879fadfc99bd81b10a71cedcd476b15ef95e4ee7a7f363"
+    },
+    {
+      "file": "assets/objects/openmoji-color/flower-playing-cards-1f3b4.png",
+      "sourceHash": "7eb1f054542facd4af99c027aeff876fd8dbba3555e6533a0f88722f20e63522"
+    },
+    {
+      "file": "assets/people/openmoji-color/pleading-face-1f97a.png",
+      "sourceHash": "958c6e7c49478e43777595cb0905f2a2912fab6211b612485bacefec9a4418bc"
+    },
+    {
+      "file": "assets/animals/openmoji-color/bird-1f426.png",
+      "sourceHash": "48e0e28f1457c74f187e6c9e2fcdd57c8e0c61c77a4d80f3c7a1e1965fad18c7"
+    },
+    {
+      "file": "assets/nature/openmoji-color/droplet-1f4a7.png",
+      "sourceHash": "8a366b0ef43705ba89699699b77c15285a47c8f0d350347d860cc46757b6213d"
+    },
+    {
+      "file": "assets/food/openmoji-color/fish-cake-with-swirl-1f365.png",
+      "sourceHash": "028a9335a734adf0f05e6c259955052457220b9b6d2f9f6d6d93545826509a4f"
+    },
+    {
+      "file": "assets/objects/openmoji-color/performing-arts-1f3ad.png",
+      "sourceHash": "3e0f554eea23f71e34753f59acb4323a3efeff83b30580ad488a3a1c8d17a961"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-holding-back-tears-1f979.png",
+      "sourceHash": "9ecf1131001bfec02032bd01bb27ff3b67e6392326102cefd3aabedf0cada608"
+    },
+    {
+      "file": "assets/animals/openmoji-color/penguin-1f427.png",
+      "sourceHash": "461825b5c8685213a0c4c1a480fdd6e5c30d2e1d0932b92a087fa60677991ad3"
+    },
+    {
+      "file": "assets/nature/openmoji-color/water-wave-1f30a.png",
+      "sourceHash": "609bbeeaefbd972e8460c0df4d7cce930ba07ba6535426d2f169b116742645f9"
+    },
+    {
+      "file": "assets/food/openmoji-color/moon-cake-1f96e.png",
+      "sourceHash": "32e93c3083f2940df0c495c70caabe88aba2e5df70134384c0e212bf084055de"
+    },
+    {
+      "file": "assets/objects/openmoji-color/framed-picture-1f5bc.png",
+      "sourceHash": "71f56da4cfb97b40ee5a9edb5f6961be51b3dfb45a8f81e075f5ea8a00ff6b53"
+    },
+    {
+      "file": "assets/people/openmoji-color/frowning-face-with-open-mouth-1f626.png",
+      "sourceHash": "2d88cb971dd1b59b13afa72a608c18b2a6879a09336c1ee0452ea81fc3d3a314"
+    },
+    {
+      "file": "assets/animals/openmoji-color/dove-1f54a.png",
+      "sourceHash": "8ddbaaeb2ce745e32f5dc18893132838bec0c39f87d9169870b2872886676c31"
+    },
+    {
+      "file": "assets/food/openmoji-color/dango-1f361.png",
+      "sourceHash": "b42443da2a795bb6bccd44df8f01401dcc19aa05a70f2ff054dfe83897925b28"
+    },
+    {
+      "file": "assets/objects/openmoji-color/artist-palette-1f3a8.png",
+      "sourceHash": "0cd9cad61d7496ed8bff5ada07af1fb34e8b76d3f3f00a74a897facc424a5d5d"
+    },
+    {
+      "file": "assets/people/openmoji-color/anguished-face-1f627.png",
+      "sourceHash": "99b3cd6b0b532baea116713552917af8f7c15835916b4cbf0a931ff29522dc68"
+    },
+    {
+      "file": "assets/animals/openmoji-color/eagle-1f985.png",
+      "sourceHash": "acd32521bda7e02a976ea1716e6da272fdd166ee751df8d61551c2397fc47f0e"
+    },
+    {
+      "file": "assets/food/openmoji-color/dumpling-1f95f.png",
+      "sourceHash": "a3a7cfc53113def0de419e3a2a88d5152847b59b657acac1a814af78b24f78fb"
+    },
+    {
+      "file": "assets/objects/openmoji-color/thread-1f9f5.png",
+      "sourceHash": "7d552bfe598a288fd1467dce000dcded5bfcc8750aff9db5ca6691fb39478628"
+    },
+    {
+      "file": "assets/people/openmoji-color/fearful-face-1f628.png",
+      "sourceHash": "a9d56484e0f37f7041c4cadc920a72231a358dbeddda49e2ff06d83a698ffd8b"
+    },
+    {
+      "file": "assets/animals/openmoji-color/duck-1f986.png",
+      "sourceHash": "ed4479df65668ed139e182eedf74d5b893d630eb642d936f95f70e01186cd160"
+    },
+    {
+      "file": "assets/food/openmoji-color/fortune-cookie-1f960.png",
+      "sourceHash": "9a84001a73a78c134bc7e2264faeeb16d85ea5217c1056cc47c8b774f0f67dd8"
+    },
+    {
+      "file": "assets/objects/openmoji-color/sewing-needle-1faa1.png",
+      "sourceHash": "26706fe3d7adaceac4df7965f3c149815965700b46b3bfc7a5d33bf331a5516d"
+    },
+    {
+      "file": "assets/people/openmoji-color/anxious-face-with-sweat-1f630.png",
+      "sourceHash": "10468f385b4892ff36bf92110196b73844a58638659ebe42ade5d610c05f628a"
+    },
+    {
+      "file": "assets/animals/openmoji-color/swan-1f9a2.png",
+      "sourceHash": "7f193ee3f78d0bdf87c767d8ea9450e4c0e944d75e8dab8d27547b579b791782"
+    },
+    {
+      "file": "assets/food/openmoji-color/takeout-box-1f961.png",
+      "sourceHash": "33283ab85b722f8ba79a3b21f4ddae7bbe7eed9172da47385dffdf52c2702332"
+    },
+    {
+      "file": "assets/objects/openmoji-color/yarn-1f9f6.png",
+      "sourceHash": "f22ec0fb6fe24bb0c865745b774f8596581bfe15f0c47c87e2b989e0f6fd1c5c"
+    },
+    {
+      "file": "assets/people/openmoji-color/sad-but-relieved-face-1f625.png",
+      "sourceHash": "f44ac6947c299765f7759962261bf44c535ff39322e1a95934eddc03a0eaae2e"
+    },
+    {
+      "file": "assets/animals/openmoji-color/owl-1f989.png",
+      "sourceHash": "4a79d990f4cdce71ee224d1e467b9f903d9a7ce9c0a1611d367167d3222d5f52"
+    },
+    {
+      "file": "assets/food/openmoji-color/soft-ice-cream-1f366.png",
+      "sourceHash": "1e6b7948a64612983e0aa17dfced00d739be7396ffb41f18a44c5857d42e174e"
+    },
+    {
+      "file": "assets/objects/openmoji-color/knot-1faa2.png",
+      "sourceHash": "80e90dad752eb5547a7d4248e2facfae3559b91387273b7b3ff3ba2edc7773f7"
+    },
+    {
+      "file": "assets/people/openmoji-color/crying-face-1f622.png",
+      "sourceHash": "5517ddb83be0e8e5c8db3b01011466a08cf7df08fbe86d3c61b246944ebdbf7e"
+    },
+    {
+      "file": "assets/animals/openmoji-color/dodo-1f9a4.png",
+      "sourceHash": "5011b32ad25946a797590f014fab5a77875c7d4daca52683027c2bd4d9bb3702"
+    },
+    {
+      "file": "assets/food/openmoji-color/shaved-ice-1f367.png",
+      "sourceHash": "3b924da52992d8dcbb8bc550a117b6bbbcabcf5c7c907e4e87fa074fbd0f7b9f"
+    },
+    {
+      "file": "assets/objects/openmoji-color/glasses-1f453.png",
+      "sourceHash": "7ea56c80ce5c706afa051f6feb7620040b7f58a6042077a9aadbd4a8be36194c"
+    },
+    {
+      "file": "assets/people/openmoji-color/loudly-crying-face-1f62d.png",
+      "sourceHash": "bc403528c3b82b779d99cd966867c8513bb454a7368113a88087bd2643f1bb5f"
+    },
+    {
+      "file": "assets/animals/openmoji-color/feather-1fab6.png",
+      "sourceHash": "e17930086de72c6c78e1362707672ac533dc91841af0ff1b714f8f9b955a55d2"
+    },
+    {
+      "file": "assets/food/openmoji-color/ice-cream-1f368.png",
+      "sourceHash": "a277f948ff22cfe749b64f812aa4e0929cfa2a3d58c62e725b239c5af9a6bdf0"
+    },
+    {
+      "file": "assets/objects/openmoji-color/sunglasses-1f576.png",
+      "sourceHash": "a32d561a46f0f4e6aa32afb8044bfad6b8715f623ff029d6c69743b976a99042"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-screaming-in-fear-1f631.png",
+      "sourceHash": "8d76183b0625f4e4f41c8e10f2e7a37982a6ba1e9d368db5412340bffa58e95a"
+    },
+    {
+      "file": "assets/animals/openmoji-color/flamingo-1f9a9.png",
+      "sourceHash": "a068d3c2ddfad4abda3a3efbc64c71ac671e6a531beba67a63a3426524d7c030"
+    },
+    {
+      "file": "assets/food/openmoji-color/doughnut-1f369.png",
+      "sourceHash": "0d26903b2b71231b7ece024e8737d92a92fa7ac17d6ac0a395c827ce7e121188"
+    },
+    {
+      "file": "assets/objects/openmoji-color/goggles-1f97d.png",
+      "sourceHash": "8c0617f5fbaff0a44e90423e836085988784b3f64a3d2110d064caba55762e14"
+    },
+    {
+      "file": "assets/people/openmoji-color/confounded-face-1f616.png",
+      "sourceHash": "a6e77a4509e3e5f4568402cbb021bf7d47c3787ed6760bf25127fc62d61b9c7f"
+    },
+    {
+      "file": "assets/animals/openmoji-color/peacock-1f99a.png",
+      "sourceHash": "31a316389fa02df7abc894389fe72effd267128659ec0f82271d6c0d26f72405"
+    },
+    {
+      "file": "assets/food/openmoji-color/cookie-1f36a.png",
+      "sourceHash": "9a9705a3af9a743d8befeb66446567be59b6188596d2ab81ff75a4540d300664"
+    },
+    {
+      "file": "assets/objects/openmoji-color/lab-coat-1f97c.png",
+      "sourceHash": "8ab0bd3a1d07a6a737a34139a8f0d5b434a0eb793d6bf8283a7ab692293de988"
+    },
+    {
+      "file": "assets/people/openmoji-color/persevering-face-1f623.png",
+      "sourceHash": "6cead4dd6822f0fe42e6836f3d6650d548a6b7eddf566614e9e7ca59fd2cae4e"
+    },
+    {
+      "file": "assets/animals/openmoji-color/parrot-1f99c.png",
+      "sourceHash": "93856c5d4c1869478540dd9dd11b9f161aca8e69ae49b9e102413412cea966b3"
+    },
+    {
+      "file": "assets/food/openmoji-color/birthday-cake-1f382.png",
+      "sourceHash": "6635f9d933fe19588311d1591a300cf488404d3bf81d51aaa16fc06eac902888"
+    },
+    {
+      "file": "assets/objects/openmoji-color/safety-vest-1f9ba.png",
+      "sourceHash": "b57e297eb56bf234831eb3b2567d4642237b2f144bf08ef4c4ea822c0272c4d0"
+    },
+    {
+      "file": "assets/people/openmoji-color/disappointed-face-1f61e.png",
+      "sourceHash": "870b4cde8ea1dbe99e01b8abac56df8a71c7beb8977d785bd4b5a398769a10df"
+    },
+    {
+      "file": "assets/animals/openmoji-color/wing-1fabd.png",
+      "sourceHash": "e5cf31dea7e1f0d6a7e5bfec416d90424b688785c0ad42f792b29798cfd56814"
+    },
+    {
+      "file": "assets/food/openmoji-color/shortcake-1f370.png",
+      "sourceHash": "09e6d5f31034717612e95ea8a1756bd39500a15eb37e979c6c634e62d77ca679"
+    },
+    {
+      "file": "assets/objects/openmoji-color/necktie-1f454.png",
+      "sourceHash": "c9533516ee450b3d60d4cb6a961b8e3c2d4c7c02f1db8341091bb23dbd2feec8"
+    },
+    {
+      "file": "assets/people/openmoji-color/downcast-face-with-sweat-1f613.png",
+      "sourceHash": "b8b1dfb0fe500f64c755ccfa6ab0a4fe6281b4021de2449b9eab7cbd1ff81a76"
+    },
+    {
+      "file": "assets/animals/openmoji-color/black-bird-1f426-200d-2b1b.png",
+      "sourceHash": "834cec4be12d305dc3b471ba3fcbb15c1722e1e7bcd140c53bb45645112d369b"
+    },
+    {
+      "file": "assets/food/openmoji-color/cupcake-1f9c1.png",
+      "sourceHash": "cd85c5a59276443673684527823e5039b8f004ae4d9f68ba06688ae46fa194fb"
+    },
+    {
+      "file": "assets/objects/openmoji-color/t-shirt-1f455.png",
+      "sourceHash": "3941927eb141c3cef882f483d39caa5340155d9c3b035b1babe5506aeb83c020"
+    },
+    {
+      "file": "assets/people/openmoji-color/weary-face-1f629.png",
+      "sourceHash": "00c13ba3b11b3060011ca078f5d934d294df0273c35940368cdd3f6775d94254"
+    },
+    {
+      "file": "assets/animals/openmoji-color/goose-1fabf.png",
+      "sourceHash": "452be2ec36fd5ed2c9129e826622acfc53174e216db13c7cc015916278b85aa2"
+    },
+    {
+      "file": "assets/food/openmoji-color/pie-1f967.png",
+      "sourceHash": "d62de753893e7f3aec0dfc7cd6aab3e544c577476dfce9adca99e4c15c4ca5f5"
+    },
+    {
+      "file": "assets/objects/openmoji-color/jeans-1f456.png",
+      "sourceHash": "6a869d9557b6e40ad6569e002c983d927687bae40ec91892ad2fdf7836a0d31a"
+    },
+    {
+      "file": "assets/people/openmoji-color/tired-face-1f62b.png",
+      "sourceHash": "36cfb78b10cbbe019b5c28716283ef22425fb6fd9a66c8092908be828cd8c11b"
+    },
+    {
+      "file": "assets/animals/openmoji-color/phoenix-1f426-200d-1f525.png",
+      "sourceHash": "25f4dff2970c59ac83bdbc6c3a74c719e9c596052f4b33baa4597e219b25f637"
+    },
+    {
+      "file": "assets/food/openmoji-color/chocolate-bar-1f36b.png",
+      "sourceHash": "bae045d038afa5421993873acfe14a1bc037f413272af280cac82662743f9dfa"
+    },
+    {
+      "file": "assets/objects/openmoji-color/scarf-1f9e3.png",
+      "sourceHash": "5a5c8f70b2454ddc1ce3d699b0429d8d91c9b043d8289ab3738de984cb7226e7"
+    },
+    {
+      "file": "assets/people/openmoji-color/yawning-face-1f971.png",
+      "sourceHash": "1de83c4832eab1b77f4fc42c7dfe585033f2fe9f06e8b7d771131303f36a13d1"
+    },
+    {
+      "file": "assets/animals/openmoji-color/frog-1f438.png",
+      "sourceHash": "572f49d25074c684c1aa0976e4951ee470258095d7554011621c5c490eff6fab"
+    },
+    {
+      "file": "assets/food/openmoji-color/candy-1f36c.png",
+      "sourceHash": "14bcc6d646fb4b19042e242d55e8ea290f99600367d4b8579372adbbe5264784"
+    },
+    {
+      "file": "assets/objects/openmoji-color/gloves-1f9e4.png",
+      "sourceHash": "8499057a39e1200da52b9f01b1675f5f698d73f10123e06651661a14247b2b48"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-with-steam-from-nose-1f624.png",
+      "sourceHash": "8ff158d64c8a651ca598036eed0a1b86f4a6d256f5765aba78ef8ff31e040ea5"
+    },
+    {
+      "file": "assets/animals/openmoji-color/crocodile-1f40a.png",
+      "sourceHash": "682cd23de7cc6f3f5ee974924568c381815dad99e91765fc1f04df840a6ecbab"
+    },
+    {
+      "file": "assets/food/openmoji-color/lollipop-1f36d.png",
+      "sourceHash": "d769b792d409914e570f01c6b21d3fa2aa1bde7b1535e73555d437c2a110169b"
+    },
+    {
+      "file": "assets/objects/openmoji-color/coat-1f9e5.png",
+      "sourceHash": "b3839ce6e318464142f41640d8fb50a33769a9b943f0b301e0189279e2a6b9b0"
+    },
+    {
+      "file": "assets/people/openmoji-color/enraged-face-1f621.png",
+      "sourceHash": "d4c5faa494d9be3e6fd3a8e82ba5d601501d47a2593f6f58327fa7301267249e"
+    },
+    {
+      "file": "assets/animals/openmoji-color/turtle-1f422.png",
+      "sourceHash": "9c5c2dfd0d52ebb310d0a5d935b2b94ddbcaf5a3c7e3ac57326dab8ca09baab2"
+    },
+    {
+      "file": "assets/food/openmoji-color/custard-1f36e.png",
+      "sourceHash": "0d6fb05bdccaf6733d3ac70bd8d3f7dc955d1d012cc3502fc2d11d777d691271"
+    },
+    {
+      "file": "assets/objects/openmoji-color/socks-1f9e6.png",
+      "sourceHash": "c119364d7e8ee3446477c77b8985bbf3f991f9c928cc6ee4730f7c87d64d57a2"
+    },
+    {
+      "file": "assets/people/openmoji-color/angry-face-1f620.png",
+      "sourceHash": "00dae9e1ce293494f504f6c52d37fe0d2f8194277e0fd3d80706194c14ecff98"
+    },
+    {
+      "file": "assets/animals/openmoji-color/lizard-1f98e.png",
+      "sourceHash": "07bcd49acc8e92afe148258edb87d0e7d50a8f70fd13dde6b4a972667d8a03d1"
+    },
+    {
+      "file": "assets/food/openmoji-color/honey-pot-1f36f.png",
+      "sourceHash": "43c91db0fb46e446947a992c3ed23aa6a28746bad62f5498bd6be6b40a938d11"
+    },
+    {
+      "file": "assets/objects/openmoji-color/dress-1f457.png",
+      "sourceHash": "5a4b5577a7db9680e5d11b23fa775c3a42bcfee60beec97c97696d7230e6e798"
+    },
+    {
+      "file": "assets/people/openmoji-color/face-with-symbols-on-mouth-1f92c.png",
+      "sourceHash": "9cd8aab5d17f22add015317a925c1d169844b815049aee78a07cb0dcc735b2f3"
+    },
+    {
+      "file": "assets/animals/openmoji-color/snake-1f40d.png",
+      "sourceHash": "be85cd77b61a0c4b6399ed46e078ddc43dfde2048f00fc55571a38061b5fc495"
+    },
+    {
+      "file": "assets/food/openmoji-color/baby-bottle-1f37c.png",
+      "sourceHash": "cb97fcea4e9dab8db1687c7585ad2497cd0bff1cd5baa0e72f08bbdba10550d8"
+    },
+    {
+      "file": "assets/objects/openmoji-color/kimono-1f458.png",
+      "sourceHash": "8e94ab7ba98f7903389ef1559ab84ec4f7a7737d3a38954ec230114c2a76d77e"
+    },
+    {
+      "file": "assets/people/openmoji-color/clown-face-1f921.png",
+      "sourceHash": "83db1c6f5b30f3b27d354461c85f495182388fe75441594ec1bdef7bf07f6d9b"
+    },
+    {
+      "file": "assets/animals/openmoji-color/dragon-face-1f432.png",
+      "sourceHash": "fb28e595fa9d57dc57cf5972bf9a9de8086c5636a36b5f82b3c2f7209c33876b"
+    },
+    {
+      "file": "assets/food/openmoji-color/glass-of-milk-1f95b.png",
+      "sourceHash": "3472291c53ec62431193bd87be18e14aae2b5c5b242cb76c3cc32ff9d708a25a"
+    },
+    {
+      "file": "assets/objects/openmoji-color/sari-1f97b.png",
+      "sourceHash": "c6a33ca75e50c1e7c5fcf178b03ddc11d9a6bd0463ff807a39dd05b78fc804a4"
+    },
+    {
+      "file": "assets/people/openmoji-color/ghost-1f47b.png",
+      "sourceHash": "737d361de8487149a0207c06b8ae844146ed0e26d52028bd4e61fe055fc4bb82"
+    },
+    {
+      "file": "assets/animals/openmoji-color/dragon-1f409.png",
+      "sourceHash": "59c010b5611fbe8e369c7dcba8cc69cbb356023edffd830e2308b111e967591c"
+    },
+    {
+      "file": "assets/food/openmoji-color/hot-beverage-2615.png",
+      "sourceHash": "9641a86ca68b2a37b2138fd3f679557560e6764d728eb7bf4f6955c37b299ff4"
+    },
+    {
+      "file": "assets/objects/openmoji-color/one-piece-swimsuit-1fa71.png",
+      "sourceHash": "ab18c9725ac05ae6c8d12ed6ab9df76559f429184212bbff105990f657f7a413"
+    },
+    {
+      "file": "assets/people/openmoji-color/alien-1f47d.png",
+      "sourceHash": "44ba604eb783453e0fcca15b837230be7d3b8f4c074e0711d610f0c2659b027d"
+    },
+    {
+      "file": "assets/animals/openmoji-color/sauropod-1f995.png",
+      "sourceHash": "3bc431789cb7a875b0dbcd3cd671eaf3cf5d0482dfc385696126ffcb29d88f93"
+    },
+    {
+      "file": "assets/food/openmoji-color/teapot-1fad6.png",
+      "sourceHash": "ff8ddb1ce9cff507a75dc3b83931fc792e6f3045b6d5710c09b5f380fd090ac9"
+    },
+    {
+      "file": "assets/objects/openmoji-color/briefs-1fa72.png",
+      "sourceHash": "99dbc0528a1bbaee342bb6f68b252b0d40ef839dfdb122f94f0c7d4610ad3b88"
+    },
+    {
+      "file": "assets/people/openmoji-color/alien-monster-1f47e.png",
+      "sourceHash": "486828b2e7f27b9ce3df01b4e9cd90161ae643b4161b9066e5233a8dbe3096d7"
+    },
+    {
+      "file": "assets/animals/openmoji-color/t-rex-1f996.png",
+      "sourceHash": "a3933c63b008d38d6ae47ba84a7fafc9419e8e16e1d24de9f324517d5cce2aeb"
+    },
+    {
+      "file": "assets/food/openmoji-color/teacup-without-handle-1f375.png",
+      "sourceHash": "35ad59bec63de90484daa7ae7d4a77d3443961f72fc805117ca389c384085880"
+    },
+    {
+      "file": "assets/objects/openmoji-color/shorts-1fa73.png",
+      "sourceHash": "87932c35d6f6ba99b9d5c25c88db37810c465aaa093acc4d84f338e5ce0ff672"
+    },
+    {
+      "file": "assets/people/openmoji-color/robot-1f916.png",
+      "sourceHash": "64ac345b8acc15cdcfcccf62a24b9f2163bbab6c1602ecccac1d514d5f0dc449"
+    },
+    {
+      "file": "assets/animals/openmoji-color/spouting-whale-1f433.png",
+      "sourceHash": "062e0dbfa2b9ded731f97260ee08c24ef54c86bb5aeea9b96cff9b198bbdbf4d"
+    },
+    {
+      "file": "assets/food/openmoji-color/bottle-with-popping-cork-1f37e.png",
+      "sourceHash": "ad96044ba9d2b2b12837636e8c7f6c45a3bb28a44db74af7458a1c404ff5564e"
+    },
+    {
+      "file": "assets/objects/openmoji-color/bikini-1f459.png",
+      "sourceHash": "4f84b7f847df67be5ba057808470138a542b4a4502a701fce3e1cacaaa2379fd"
+    },
+    {
+      "file": "assets/people/openmoji-color/mechanical-arm-1f9be.png",
+      "sourceHash": "fcd6ddc10e150d189aaf9c6a2b95615cd94ba3c273245990c7c0b6b636b3704b"
+    },
+    {
+      "file": "assets/animals/openmoji-color/whale-1f40b.png",
+      "sourceHash": "e6249bf1701e4a0db60a22de3fd02f3de34ce9f5c1ddcbac270fd83ca4d26efa"
+    },
+    {
+      "file": "assets/food/openmoji-color/tropical-drink-1f379.png",
+      "sourceHash": "c861f4288cc7e58ffbf564173d85b823839a7b73798221c1d8f12561754530cd"
+    },
+    {
+      "file": "assets/objects/openmoji-color/woman-s-clothes-1f45a.png",
+      "sourceHash": "883ecd1543f9e9a1f997b314119da1d54f5f76a9b0dd8f10feb7e5da42c298e5"
+    },
+    {
+      "file": "assets/people/openmoji-color/mechanical-leg-1f9bf.png",
+      "sourceHash": "39892a3b6d078eb88f5fc871ae88f4f0ca8263579b64165cb51eda7cf6cb5989"
+    },
+    {
+      "file": "assets/animals/openmoji-color/dolphin-1f42c.png",
+      "sourceHash": "2a0d5f06cf8eb38baea491d924558da4b1e237a3b8694512567d29ac7a024c04"
+    },
+    {
+      "file": "assets/food/openmoji-color/clinking-glasses-1f942.png",
+      "sourceHash": "4cf7e0c7fa8f3847b105a787c31db4a21da51e7892c479328e7655b243fce781"
+    },
+    {
+      "file": "assets/objects/openmoji-color/folding-hand-fan-1faad.png",
+      "sourceHash": "1690af3bba86b169fe8178a2500212e16d9778875caa2e416bdbdd067c2cb772"
+    },
+    {
+      "file": "assets/people/openmoji-color/brain-1f9e0.png",
+      "sourceHash": "3ccf81f37a4e2f5a070ff54104698f9a06061c8d210dc441f5f756d579eb333f"
+    },
+    {
+      "file": "assets/animals/openmoji-color/orca-1facd.png",
+      "sourceHash": "d51d9abcc2f82cb45810b68cf53beecbab818f34416c713f1ed4d56af5984157"
+    },
+    {
+      "file": "assets/food/openmoji-color/pouring-liquid-1fad7.png",
+      "sourceHash": "cd9c19915d3158197aecf4f32dee7e35e849e0f81d0bb97aab33fc22ae1900ea"
+    },
+    {
+      "file": "assets/objects/openmoji-color/purse-1f45b.png",
+      "sourceHash": "7de024c88f04e8f692049f1c2b0e7de52d1c167a057a0ed69a3201972d32dc49"
+    },
+    {
+      "file": "assets/people/openmoji-color/anatomical-heart-1fac0.png",
+      "sourceHash": "14f761d48091e89a553543c37493de443d347a1810e77a1febc12ee9dd5dc640"
+    },
+    {
+      "file": "assets/animals/openmoji-color/seal-1f9ad.png",
+      "sourceHash": "36a406d928b9c9220d71e146006358cec0267396b887bb77cf47e32608e6fbdb"
+    },
+    {
+      "file": "assets/food/openmoji-color/cup-with-straw-1f964.png",
+      "sourceHash": "f4d294ff9912b73d39b5443755a99d0f9eb33b466fec6eb3a2f2cb14520edb71"
+    },
+    {
+      "file": "assets/objects/openmoji-color/handbag-1f45c.png",
+      "sourceHash": "ed199bbb45c34339ad507eb00e70119a6755e9e1ea3b458345063435a037f4d5"
+    },
+    {
+      "file": "assets/people/openmoji-color/lungs-1fac1.png",
+      "sourceHash": "48d8379f737f55071e01e7c2a30493df7eaea9d43643bddd314e791969951a40"
+    },
+    {
+      "file": "assets/animals/openmoji-color/fish-1f41f.png",
+      "sourceHash": "acc0c7d2069c80320bb2aca68e432463fadf2df357cb3a05dc74ecb9fac129ff"
+    },
+    {
+      "file": "assets/food/openmoji-color/bubble-tea-1f9cb.png",
+      "sourceHash": "9ef86a335d8a47b2bbd8546fb6315402031334ba216ccf1cdb88edde2b04a1a3"
+    },
+    {
+      "file": "assets/objects/openmoji-color/clutch-bag-1f45d.png",
+      "sourceHash": "539880fc8c90302673432c1e1cd1e3a421df99d020e945a4d7291706f1098948"
+    },
+    {
+      "file": "assets/people/openmoji-color/tooth-1f9b7.png",
+      "sourceHash": "9e546b069da79b61cf1db2c2d3b2780ef2532666bb359bfedd72eca074ba7bec"
+    },
+    {
+      "file": "assets/animals/openmoji-color/tropical-fish-1f420.png",
+      "sourceHash": "18f08e75c2decd8591e98abd194fa538599b939276c96fc87e4c774af931454d"
+    },
+    {
+      "file": "assets/food/openmoji-color/beverage-box-1f9c3.png",
+      "sourceHash": "a8ca748fb0db0d9fe4af1745faddf46c600421d5a8d2733f30fe23a27e05b511"
+    },
+    {
+      "file": "assets/objects/openmoji-color/shopping-bags-1f6cd.png",
+      "sourceHash": "9c4d4e170d053da9bae0ed616c87deeef3a8de12c0f18bd65280b47a382c454f"
+    },
+    {
+      "file": "assets/people/openmoji-color/bone-1f9b4.png",
+      "sourceHash": "5d5c622727f7bc02c63e35474c6cf29218c19596f0e2fd2ec354c53073b29881"
+    },
+    {
+      "file": "assets/animals/openmoji-color/blowfish-1f421.png",
+      "sourceHash": "53c87d1e46b6bdec2f68f72d01ae17a19032dd5466c37bb8872c66380a2080c0"
+    },
+    {
+      "file": "assets/food/openmoji-color/mate-1f9c9.png",
+      "sourceHash": "ff9fafc63d9cdb36fb12b6a9cc6729f0de0011d27bd451a2fbd51dbfde10a219"
+    },
+    {
+      "file": "assets/objects/openmoji-color/backpack-1f392.png",
+      "sourceHash": "e54e39d409dc30bee5383be539e226a9708fab815e3af4ba578f0c6bc0b62521"
+    },
+    {
+      "file": "assets/people/openmoji-color/eyes-1f440.png",
+      "sourceHash": "c50f50432c477b35c522eaad098d8e8f1709a3cab775cbf88804aa68132e6287"
+    },
+    {
+      "file": "assets/animals/openmoji-color/shark-1f988.png",
+      "sourceHash": "aa12bfe90dc70d91b23f1c213d9d429a3df7ddfa225a0452cf688785b4d6c782"
+    },
+    {
+      "file": "assets/food/openmoji-color/ice-1f9ca.png",
+      "sourceHash": "71b0db462cdc6cf52ebbfe78a64fa1e27c6ede3a2c88e28d141b68225220ab68"
+    },
+    {
+      "file": "assets/objects/openmoji-color/thong-sandal-1fa74.png",
+      "sourceHash": "0b13d3cc6b9e14b0fadcbb6d675d2917cb1ae148592e69d4f168f4aa7643f1d3"
+    },
+    {
+      "file": "assets/people/openmoji-color/eye-1f441.png",
+      "sourceHash": "30422d4b55554d4cd9b921ac239c0779587331146341a0bb464df6955e4a87a2"
+    },
+    {
+      "file": "assets/animals/openmoji-color/octopus-1f419.png",
+      "sourceHash": "d222b453acff5c560fd61b99a69a1156afe756c4f5abbd4b44474ba31727759e"
+    },
+    {
+      "file": "assets/objects/openmoji-color/man-s-shoe-1f45e.png",
+      "sourceHash": "8589e8514ca2f2980adfdc8e296808061ed8000dbc514e7172e54e8933c4fbbd"
+    },
+    {
+      "file": "assets/people/openmoji-color/tongue-1f445.png",
+      "sourceHash": "dbf1cb7c03ffd75038377ae77629da3f574dbb552ebc3deaa83e911fbce6219a"
+    },
+    {
+      "file": "assets/animals/openmoji-color/spiral-shell-1f41a.png",
+      "sourceHash": "6fedf1af91d5a7a24eb4d9ac6e4ff5c9c66c8e444026e924438952792291f473"
+    },
+    {
+      "file": "assets/objects/openmoji-color/running-shoe-1f45f.png",
+      "sourceHash": "51945afc01d7f0fe5d53b527ea3359195d5f479eb82b3b9df81725bbcc263a6a"
+    },
+    {
+      "file": "assets/people/openmoji-color/mouth-1f444.png",
+      "sourceHash": "e08e5d3d4366531e971c492e7cf8ec262055420da7b23cb153e26071243ecfa6"
+    },
+    {
+      "file": "assets/animals/openmoji-color/coral-1fab8.png",
+      "sourceHash": "7093616e648d1f528c320e3bc3155c250774f2890e748d6f781e7f8dd5b1332f"
+    },
+    {
+      "file": "assets/objects/openmoji-color/hiking-boot-1f97e.png",
+      "sourceHash": "b8de72c1085bb304789331a29a7199325ff1e458aff314cef7673b68e1647c82"
+    },
+    {
+      "file": "assets/people/openmoji-color/biting-lip-1fae6.png",
+      "sourceHash": "fe69fbdb73e22f671b8e5462f361fb24f7b2004e140608ad5704412973898532"
+    },
+    {
+      "file": "assets/animals/openmoji-color/jellyfish-1fabc.png",
+      "sourceHash": "da7dccfe70cea90ca3631120c50b9e3043245b1dc1b951e7cded0852227bc8f7"
+    },
+    {
+      "file": "assets/objects/openmoji-color/flat-shoe-1f97f.png",
+      "sourceHash": "a0e5fd00fa71e326bb0ab8a7c46c0f65df62b9de5da05acf2b8aa4f4165e0dc3"
+    },
+    {
+      "file": "assets/animals/openmoji-color/crab-1f980.png",
+      "sourceHash": "52dc1ac75c70b01d150f0ea8bac24c782335d2dad33e4aced4c446379812b0fe"
+    },
+    {
+      "file": "assets/objects/openmoji-color/high-heeled-shoe-1f460.png",
+      "sourceHash": "4f4883a6f930cd8973250ef80abd70a96626ab0edc2d793e5a39a37cb016c36a"
+    },
+    {
+      "file": "assets/animals/openmoji-color/lobster-1f99e.png",
+      "sourceHash": "b5bccfeb6a7615e6ff3deb66d99d8922fc0779597791182979368fa0aba151d4"
+    },
+    {
+      "file": "assets/objects/openmoji-color/woman-s-sandal-1f461.png",
+      "sourceHash": "5289ab5d6a973e575b12e24d65870c4216d5f86671957153290579ffe1f4ab3c"
+    },
+    {
+      "file": "assets/animals/openmoji-color/shrimp-1f990.png",
+      "sourceHash": "fe2477c7e35e87572d09b13dbbc1e55d8f330e6f64a918662bd148038c64acd8"
+    },
+    {
+      "file": "assets/objects/openmoji-color/ballet-shoes-1fa70.png",
+      "sourceHash": "c2d49c02d94b93604203368e1b738af71d1f16baf3b821ab8d945ce976c4eb5c"
+    },
+    {
+      "file": "assets/animals/openmoji-color/squid-1f991.png",
+      "sourceHash": "b058a11ef7182d1cadfc43e007a8236d5a76dca533350879dc146973951344ba"
+    },
+    {
+      "file": "assets/objects/openmoji-color/woman-s-boot-1f462.png",
+      "sourceHash": "d7c843fe6f9fe1e109e33e7c9ecc83b6d9a0108d45796ee88e6ea6250f6ce768"
+    },
+    {
+      "file": "assets/animals/openmoji-color/oyster-1f9aa.png",
+      "sourceHash": "f69a002347f1d0867b6ebb822f98bb6a9c83d46ea9f97a9e0fdfddd156d98236"
+    },
+    {
+      "file": "assets/objects/openmoji-color/hair-pick-1faae.png",
+      "sourceHash": "e06ecacd8cb2fbb82694e8b0758f6a40e44380c3b0ea4db0c83c83c29a4767e5"
+    },
+    {
+      "file": "assets/animals/openmoji-color/snail-1f40c.png",
+      "sourceHash": "b71d5c36c017854f3f7d51436133a1a332631429c58c298349e116bf62957e15"
+    },
+    {
+      "file": "assets/objects/openmoji-color/crown-1f451.png",
+      "sourceHash": "422dfad3b39e2f66f1aff2c950e7b83a9fd7b835dae5beca1f5ddf486fa3e136"
+    },
+    {
+      "file": "assets/animals/openmoji-color/butterfly-1f98b.png",
+      "sourceHash": "e39f9a559798544beda6015dbef6b3d03353367d6d9aa8c334b03c9b99d9f563"
+    },
+    {
+      "file": "assets/objects/openmoji-color/woman-s-hat-1f452.png",
+      "sourceHash": "0270f1632cc3ecbf62fc8219d0d46c032a32585daa20908762d4e6b1946b6efc"
+    },
+    {
+      "file": "assets/animals/openmoji-color/bug-1f41b.png",
+      "sourceHash": "6fdca8678d0ddca21f131320bfbbb9a37bf978b24e2dcf02b4acf018b36820b4"
+    },
+    {
+      "file": "assets/objects/openmoji-color/top-hat-1f3a9.png",
+      "sourceHash": "f2e9bca510d68ed487f34a5ec757d36266c392d8687dabb213e929350c0c4cb2"
+    },
+    {
+      "file": "assets/animals/openmoji-color/ant-1f41c.png",
+      "sourceHash": "cf22f3d1f45ef5bd2c53eb07f81f6eaad16256c853e93bf07e5938993e1b5367"
+    },
+    {
+      "file": "assets/objects/openmoji-color/graduation-cap-1f393.png",
+      "sourceHash": "b8bfed719430e93ad0f0f16dc43eb2359b2b0b509bc894903952fd9fa331f1d9"
+    },
+    {
+      "file": "assets/animals/openmoji-color/honeybee-1f41d.png",
+      "sourceHash": "b7dcc930cca754aabacb4a7e4b3eec9866133fab6a325ce819d2cfde07b625f0"
+    },
+    {
+      "file": "assets/objects/openmoji-color/billed-cap-1f9e2.png",
+      "sourceHash": "9b71fc04ead928bed7e75bd21e4570262111fc69cd80ad6f242b1d4f1822ac64"
+    },
+    {
+      "file": "assets/animals/openmoji-color/beetle-1fab2.png",
+      "sourceHash": "c57a05db7a3bd9fc816388c791dcfef27fcc995becc3f3cda6e89a474459cce1"
+    },
+    {
+      "file": "assets/objects/openmoji-color/military-helmet-1fa96.png",
+      "sourceHash": "7d0e870d2288bac9574ec5ac28ec955b2c5bd91818d4f95d0b04416b5779da2a"
+    },
+    {
+      "file": "assets/animals/openmoji-color/lady-beetle-1f41e.png",
+      "sourceHash": "20113c72be68df26ecdd2d978d201e4162bfb1f52113cf0ae8e7eef98d4da183"
+    },
+    {
+      "file": "assets/objects/openmoji-color/rescue-worker-s-helmet-26d1.png",
+      "sourceHash": "c4f4b40327ede7b7917002e52ed964c208303679535ece04e0db7aca78374c58"
+    },
+    {
+      "file": "assets/animals/openmoji-color/cricket-1f997.png",
+      "sourceHash": "92bf8a76fdb71b16c7ac4fc53d4e00a41ecf49d054955982a2d33b077112d278"
+    },
+    {
+      "file": "assets/objects/openmoji-color/prayer-beads-1f4ff.png",
+      "sourceHash": "fad633b45cde6f51a48f441706a706d58057e3fbdafe3e18c374a577fa4a1039"
+    },
+    {
+      "file": "assets/animals/openmoji-color/cockroach-1fab3.png",
+      "sourceHash": "b5c36027d694f2e123b8f42ebc42b8a6440322a82959f6c1a22a3e9f8dd0108e"
+    },
+    {
+      "file": "assets/objects/openmoji-color/lipstick-1f484.png",
+      "sourceHash": "2405b88c12fac1871591f0e023560774d5d2236352d6c46bbb039e39f58738f8"
+    },
+    {
+      "file": "assets/animals/openmoji-color/spider-1f577.png",
+      "sourceHash": "2296a971a1a8797e6a0ce41616c621b95c6a7600c088141c15c97e716fdc30e1"
+    },
+    {
+      "file": "assets/objects/openmoji-color/ring-1f48d.png",
+      "sourceHash": "9731629d148e1ab507433851491a1de87bfade55c982f78ab3e82b7af3819792"
+    },
+    {
+      "file": "assets/animals/openmoji-color/spider-web-1f578.png",
+      "sourceHash": "c88a44e50408c0e5a2a2bec43f1c5d6005d0749e5b0846bafa0553b5f0a64cf9"
+    },
+    {
+      "file": "assets/objects/openmoji-color/gem-stone-1f48e.png",
+      "sourceHash": "f7a3950601dacb9efab88227b476327feaa4d7dc5d891232f056918e87af2156"
+    },
+    {
+      "file": "assets/animals/openmoji-color/scorpion-1f982.png",
+      "sourceHash": "fec4004a2f176c8850747ed7fbf23716759313f4575378291516b90f076dae54"
+    },
+    {
+      "file": "assets/objects/openmoji-color/muted-speaker-1f507.png",
+      "sourceHash": "99dcac44bff4230213046dd72218eb9ba26ac3bd8bfddace2ad8ad91447eff50"
+    },
+    {
+      "file": "assets/animals/openmoji-color/mosquito-1f99f.png",
+      "sourceHash": "4c51827e41f33d598136ed4e08ed7c7a3fbc44b64407af40b4c9daffc6469923"
+    },
+    {
+      "file": "assets/objects/openmoji-color/speaker-low-volume-1f508.png",
+      "sourceHash": "5a3528ba07d8445f956a313e2113aed054da66a641691cf1899f505b5807e5cc"
+    },
+    {
+      "file": "assets/animals/openmoji-color/fly-1fab0.png",
+      "sourceHash": "d5f277774da75febdda59a6568225e1730d05b4995f40e250bf8e1eedd0e3a40"
+    },
+    {
+      "file": "assets/objects/openmoji-color/speaker-medium-volume-1f509.png",
+      "sourceHash": "a9edba9db6477a7e0f6d9a1da4266224e5375d623da36d2eddb7233df25070dc"
+    },
+    {
+      "file": "assets/animals/openmoji-color/worm-1fab1.png",
+      "sourceHash": "e4f71f52b7ec5c7f656be892cf37c265bc3e32843e4304db938c8189d6044ae4"
+    },
+    {
+      "file": "assets/objects/openmoji-color/speaker-high-volume-1f50a.png",
+      "sourceHash": "3c8e989843be02ae44db09b8763a38b02ab356670a58dca3afdac50a9c32cf9c"
+    },
+    {
+      "file": "assets/animals/openmoji-color/microbe-1f9a0.png",
+      "sourceHash": "8dc2e1c8cd609e749c7cf6ce95db9a493b7d7560de92c7b937d12a44af6b49af"
+    },
+    {
+      "file": "assets/objects/openmoji-color/loudspeaker-1f4e2.png",
+      "sourceHash": "0cd29b3b43ca7922418040b8ad39bc24e361b9ea97d03e2042200fcfa42d2bad"
+    },
+    {
+      "file": "assets/objects/openmoji-color/megaphone-1f4e3.png",
+      "sourceHash": "cd1a0b49b5d2407be657b522f2f4b769151eb3a9d91b45e729edd2c4f8f5c834"
+    },
+    {
+      "file": "assets/objects/openmoji-color/postal-horn-1f4ef.png",
+      "sourceHash": "4feb93efecd0757ecb73abfb04e5c057271a37c5c5e9e70191c6d987b1429eeb"
+    },
+    {
+      "file": "assets/objects/openmoji-color/bell-1f514.png",
+      "sourceHash": "255b0e114c6b0278fbe861da4343ebf7befa7f9bdc1da68a23b1cd35a5fd91f4"
+    },
+    {
+      "file": "assets/objects/openmoji-color/bell-with-slash-1f515.png",
+      "sourceHash": "c8aa0d75c2187f5bd2fb19d9c1e9496b3a090d93000f9baafde536d8748786d4"
+    },
+    {
+      "file": "assets/objects/openmoji-color/musical-score-1f3bc.png",
+      "sourceHash": "ca6a94a344c2b42c28be138e3b62bf026f8d226a20637a4782fa5b2dc29b5ee4"
+    },
+    {
+      "file": "assets/objects/openmoji-color/musical-note-1f3b5.png",
+      "sourceHash": "c3cf99a4600446a932deacdbb391aeb78d155fa61d2d124412d77e1e13222517"
+    },
+    {
+      "file": "assets/objects/openmoji-color/musical-notes-1f3b6.png",
+      "sourceHash": "4c758a42259f043d85cddd7afd62dad6733c0b81b7945be867d4192463a9fe4a"
+    },
+    {
+      "file": "assets/objects/openmoji-color/studio-microphone-1f399.png",
+      "sourceHash": "d0b6570492bb08c18fe707c20331d08d0c31d7a969c6260f6cb8c0dfd1cee6dc"
+    },
+    {
+      "file": "assets/objects/openmoji-color/level-slider-1f39a.png",
+      "sourceHash": "42c0a565c705365ed605cc3e3f6cd1a746fe3116baa0ffbe5bf04ac1ab5cbc53"
+    },
+    {
+      "file": "assets/objects/openmoji-color/control-knobs-1f39b.png",
+      "sourceHash": "c2401abe99ae83031cd90ccb77ff81a9e104f263e8e3795f503e69db98f07684"
+    },
+    {
+      "file": "assets/objects/openmoji-color/microphone-1f3a4.png",
+      "sourceHash": "a846035d57bd77527319f52e05a0c306309ce6ff709b302051d7b6fd9badf906"
+    },
+    {
+      "file": "assets/objects/openmoji-color/headphone-1f3a7.png",
+      "sourceHash": "ab99e799cc495f046b25d681b6bf063b0762376513516f6be8ab35061a315a05"
+    },
+    {
+      "file": "assets/objects/openmoji-color/radio-1f4fb.png",
+      "sourceHash": "577de1157c46787cbf0566a91b07071ec96e22a278e2c6bebc1261fe71bb44a1"
+    },
+    {
+      "file": "assets/objects/openmoji-color/saxophone-1f3b7.png",
+      "sourceHash": "7a1d8be59616f9ac7a8c88f11125ed1979ac000d9b7233c75ffd889c8a82adfb"
+    },
+    {
+      "file": "assets/objects/openmoji-color/trumpet-1f3ba.png",
+      "sourceHash": "77394fe6f5df5b7915c19ecb0037e5d67c92a89d037861996759f6aabc0ba42d"
+    },
+    {
+      "file": "assets/objects/openmoji-color/trombone-1fa8a.png",
+      "sourceHash": "58486f0506a3b41de78da9477bfe3c2e74d9c10a77d820f31fd326e5832cab79"
+    },
+    {
+      "file": "assets/objects/openmoji-color/accordion-1fa97.png",
+      "sourceHash": "ddb8b733ebcedfa4e9d37be5bc3485561d6d504f40ad0b14198d4f05dc650925"
+    },
+    {
+      "file": "assets/objects/openmoji-color/guitar-1f3b8.png",
+      "sourceHash": "1e891ba56941ead277457918ae8ee62429ac7626e2b18b6e4c104491211e0ae8"
+    },
+    {
+      "file": "assets/objects/openmoji-color/musical-keyboard-1f3b9.png",
+      "sourceHash": "074969a2af4df36f885378106007bb803dd9b2e01236ff9fed084a1e3f1a0e84"
+    },
+    {
+      "file": "assets/objects/openmoji-color/violin-1f3bb.png",
+      "sourceHash": "1f154fe08336cb979f1411fc418777c090cf15c4e91008b2c2dd2efc2ef72931"
+    },
+    {
+      "file": "assets/objects/openmoji-color/banjo-1fa95.png",
+      "sourceHash": "e4a0b01d314b6b5dcbc295a597bf984df0933d7cbfc7ba78261af1e74a6d849d"
+    },
+    {
+      "file": "assets/objects/openmoji-color/drum-1f941.png",
+      "sourceHash": "3d43dd0d6dee22b62de214bfee93081a1d08179a7b3d529a54f92b361a4b7524"
+    },
+    {
+      "file": "assets/objects/openmoji-color/long-drum-1fa98.png",
+      "sourceHash": "6d28c96c0c7f9a9e8e87c33572f4246db7f9f48df65f1b144d9ae11aaa23cac0"
+    },
+    {
+      "file": "assets/objects/openmoji-color/maracas-1fa87.png",
+      "sourceHash": "2868ebe7101d54f1d7a9453feab48e58b69e847a5ce680e3609ac146d5527715"
+    },
+    {
+      "file": "assets/objects/openmoji-color/flute-1fa88.png",
+      "sourceHash": "687a5872f5c2dbe4734b36da5ebece6a72c577eddda7bd1e42ae15c8059c37a0"
+    },
+    {
+      "file": "assets/objects/openmoji-color/harp-1fa89.png",
+      "sourceHash": "9b61c83a14e9f68d3672b21afe352585e322b42efa5a8ceca94925f622ea80f0"
+    },
+    {
+      "file": "assets/objects/openmoji-color/mobile-phone-1f4f1.png",
+      "sourceHash": "37d9bd5a84301cdadf3696f13ad02d5a6cbbc921157739ee462c01117dd641e0"
+    },
+    {
+      "file": "assets/objects/openmoji-color/mobile-phone-with-arrow-1f4f2.png",
+      "sourceHash": "0b4abb5d32a927e5426d0427dbb9d20f3a33c42ad61a08c77a4990b88fd95d3c"
+    },
+    {
+      "file": "assets/objects/openmoji-color/telephone-260e.png",
+      "sourceHash": "49e279c6761e7f9fb53a5bf7865857af298edd7cc972ad58a5f8f7515187befa"
+    },
+    {
+      "file": "assets/objects/openmoji-color/telephone-receiver-1f4de.png",
+      "sourceHash": "babc41fe4ae6f5804e8ed0e607c494a4254fbf1edd7c53bf70fb7a04711f3520"
+    },
+    {
+      "file": "assets/objects/openmoji-color/pager-1f4df.png",
+      "sourceHash": "b7578945d800ba3a65d79874cb157e1ab4a4b8c694e35317bca363ba0dc4f75b"
+    },
+    {
+      "file": "assets/objects/openmoji-color/fax-machine-1f4e0.png",
+      "sourceHash": "8bf3850e36aa24df1ea9b766cd239b7b693d4b2e05f8b7f7c7982cb320809aca"
+    },
+    {
+      "file": "assets/objects/openmoji-color/battery-1f50b.png",
+      "sourceHash": "2ec589b9000d0e82e2b9dc51789126b8209984f8e3b3c88edfe2ad1ebe5d32d8"
+    },
+    {
+      "file": "assets/objects/openmoji-color/low-battery-1faab.png",
+      "sourceHash": "75eac6c2ed1a584e424c8ea5bf54572dd3d9ea861c0ecb1a7cd6a9babfac0b28"
+    },
+    {
+      "file": "assets/objects/openmoji-color/electric-plug-1f50c.png",
+      "sourceHash": "153858f96d16ecdacdb4f683770982fe74f525c6222cbab4ce03786d9532a564"
+    },
+    {
+      "file": "assets/objects/openmoji-color/laptop-1f4bb.png",
+      "sourceHash": "d9490be20a74d40b35c4ca40499a2ff836a4359066c815658440e39b55158528"
+    },
+    {
+      "file": "assets/objects/openmoji-color/desktop-computer-1f5a5.png",
+      "sourceHash": "eeb1c98280f904b389a90ee9d7241ca36ba0ae0b1462a6d16cf616e6bc05ff36"
+    },
+    {
+      "file": "assets/objects/openmoji-color/printer-1f5a8.png",
+      "sourceHash": "4d07e76280d9ee4635aed3ec541888226683c85111c3c672a31348f8a463c777"
+    },
+    {
+      "file": "assets/objects/openmoji-color/keyboard-2328.png",
+      "sourceHash": "01a0290ce6da3e3e6e478b67970201946a48c72fc687bd6f2712c56d02addcbc"
+    },
+    {
+      "file": "assets/objects/openmoji-color/computer-mouse-1f5b1.png",
+      "sourceHash": "7134a8bdb062358047130f8190109b31f85ae47165b9bd4bf9b4e7a1f30fc9dd"
+    },
+    {
+      "file": "assets/objects/openmoji-color/trackball-1f5b2.png",
+      "sourceHash": "bac680a39dc528baffe1d87798771ff3baa848d1b71b3dec4107cc2ab0482e9c"
+    },
+    {
+      "file": "assets/objects/openmoji-color/computer-disk-1f4bd.png",
+      "sourceHash": "51a3894fe445dc941fe6584350202f12d750acc2b096a1874ad4f4a20d9e19b8"
+    },
+    {
+      "file": "assets/objects/openmoji-color/floppy-disk-1f4be.png",
+      "sourceHash": "d49f99aa47f46426b5f8bac3d6c8b778e5404497111a80acc411e646b333cd7d"
+    },
+    {
+      "file": "assets/objects/openmoji-color/optical-disk-1f4bf.png",
+      "sourceHash": "821b2d217ecb938f5c104acee33303263bbadbb966e40b4162babfbbf5b3dcd9"
+    },
+    {
+      "file": "assets/objects/openmoji-color/dvd-1f4c0.png",
+      "sourceHash": "83c9933fb03eab2ec05b361ff45f13a7bdb2abe7c03f6bce0fde2cf31e7fbfbf"
+    },
+    {
+      "file": "assets/objects/openmoji-color/abacus-1f9ee.png",
+      "sourceHash": "2055fbfaed36d186db4f26c6ea086a0d6fa84a9a5da7de1d9af80238061fc43b"
+    },
+    {
+      "file": "assets/objects/openmoji-color/movie-camera-1f3a5.png",
+      "sourceHash": "9c1847a00b205f94193b70df73e2d7dffb85e242dc84e2395704bca81bb389cb"
+    },
+    {
+      "file": "assets/objects/openmoji-color/film-frames-1f39e.png",
+      "sourceHash": "e791e95e684efaec0f5c19f2b80e5c81f323f80b7968c0138a9668b1d44b4dd7"
+    },
+    {
+      "file": "assets/objects/openmoji-color/film-projector-1f4fd.png",
+      "sourceHash": "580fecae5f99ab3771131708ae4844becb89b2c285cd905093651da53166f7b2"
+    },
+    {
+      "file": "assets/objects/openmoji-color/clapper-board-1f3ac.png",
+      "sourceHash": "f58aca41ef1eaacffe28906abc2dccff7cd38f28d82efe4d8349290cb6b88f1f"
+    },
+    {
+      "file": "assets/objects/openmoji-color/television-1f4fa.png",
+      "sourceHash": "927f904ba170c5860c3a703bbac258e9bcf1b9dfe93844d6baf8b00ed584bf42"
+    },
+    {
+      "file": "assets/objects/openmoji-color/camera-1f4f7.png",
+      "sourceHash": "ee17ba0331b70ff4f52d3392f9bc1ee600032fc450e7773eb0561f7780f566da"
+    },
+    {
+      "file": "assets/objects/openmoji-color/camera-with-flash-1f4f8.png",
+      "sourceHash": "a8554ebdade042ab8c2eb378cfb2de0b370ae59f3cfc27e3a528835f673fe1ca"
+    },
+    {
+      "file": "assets/objects/openmoji-color/video-camera-1f4f9.png",
+      "sourceHash": "84fffd2f73b0826cdd531e8703d48d50d69cf28c1cba855231de4459be2997f1"
+    },
+    {
+      "file": "assets/objects/openmoji-color/videocassette-1f4fc.png",
+      "sourceHash": "7b691a0fd975ad5e97591df15b625182d4300050fddd2857e5a2eeb880e28c66"
+    },
+    {
+      "file": "assets/objects/openmoji-color/magnifying-glass-tilted-left-1f50d.png",
+      "sourceHash": "43bf966ca7dedf3e6847bc7b2ebb3089aa85691a93a401b10c029b333989b6b0"
+    },
+    {
+      "file": "assets/objects/openmoji-color/magnifying-glass-tilted-right-1f50e.png",
+      "sourceHash": "ec97a89e1ca4edb531ee3371fc2fc43301ab6bed54431c5cce4e3bab0b94c8b6"
+    },
+    {
+      "file": "assets/objects/openmoji-color/candle-1f56f.png",
+      "sourceHash": "7af38cb8245172c73e4e4d3afcd1335e30205c176905cf1f86dd8f6f74821249"
+    },
+    {
+      "file": "assets/objects/openmoji-color/light-bulb-1f4a1.png",
+      "sourceHash": "6751fa6b5b1bfbe5ca7b604b74e0b22be3f61f00ee63dfd5f64d72f237ed7c8a"
+    },
+    {
+      "file": "assets/objects/openmoji-color/flashlight-1f526.png",
+      "sourceHash": "f32ef1ede596a88908a5eaadff1118409b93689f4b9b56906c7daa6609616bc0"
+    },
+    {
+      "file": "assets/objects/openmoji-color/red-paper-lantern-1f3ee.png",
+      "sourceHash": "237f32eaf7fb9b4d0ff1a83ca0ebfdcca15fbcb65e869d2a425a3d44ddea5bb2"
+    },
+    {
+      "file": "assets/objects/openmoji-color/diya-lamp-1fa94.png",
+      "sourceHash": "e15e57c672141812ab7cdf91b7b89908c27e0a1c1972c96cc5714723f8ca9632"
+    },
+    {
+      "file": "assets/objects/openmoji-color/notebook-with-decorative-cover-1f4d4.png",
+      "sourceHash": "d3dd90696879838939cbfa9f6597275c87ccbfe839f804ad3f353f87f9cc7368"
+    },
+    {
+      "file": "assets/objects/openmoji-color/closed-book-1f4d5.png",
+      "sourceHash": "34ccbb28924c3c533a5e9319e7f58385a630ac7344befd6a35aea3d9b5061cd8"
+    },
+    {
+      "file": "assets/objects/openmoji-color/open-book-1f4d6.png",
+      "sourceHash": "1c2ea5590075e2b4d39435bcf4020a487c6c2474e40d746cf7afc12cafd80d5c"
+    },
+    {
+      "file": "assets/objects/openmoji-color/green-book-1f4d7.png",
+      "sourceHash": "139a12da6dcba520673fb85861109ba7a2653426feeadde0ac351831f51db416"
+    },
+    {
+      "file": "assets/objects/openmoji-color/blue-book-1f4d8.png",
+      "sourceHash": "655037223b3c255cd5ea9732f5d74de7009c3b248f862b4b1ea77fac8b173dd9"
+    },
+    {
+      "file": "assets/objects/openmoji-color/orange-book-1f4d9.png",
+      "sourceHash": "3a6423afbee899d8cbe67dd77a1f68b3aa646e0fb5711e003200a143062ed00a"
+    },
+    {
+      "file": "assets/objects/openmoji-color/books-1f4da.png",
+      "sourceHash": "c786acdb6c137260de25f4fe6a32cba15b4b0ed7819d56e481416a09127784d7"
+    },
+    {
+      "file": "assets/objects/openmoji-color/notebook-1f4d3.png",
+      "sourceHash": "866b6500a93c13681252f9a1ddd9cb67e97d711cb124c48ab0855469e112e17d"
+    },
+    {
+      "file": "assets/objects/openmoji-color/ledger-1f4d2.png",
+      "sourceHash": "e6dc838f4082b6beeb1ca745ae6f233e18ad4a668a1fee5912a76acfba9b21aa"
+    },
+    {
+      "file": "assets/objects/openmoji-color/page-with-curl-1f4c3.png",
+      "sourceHash": "56fe9ce390fe1446743d7a06a192876ddacbaeaeedbe85cdefcf223348b62dce"
+    },
+    {
+      "file": "assets/objects/openmoji-color/scroll-1f4dc.png",
+      "sourceHash": "929dc3c8c99e006468ec74df1ffcc80e4097dce4a6b5fd01e7031d948194f84f"
+    },
+    {
+      "file": "assets/objects/openmoji-color/page-facing-up-1f4c4.png",
+      "sourceHash": "dc979a0611ae1acc7898c567dc84e9071d091fe76a63d9071777ee1a592a605e"
+    },
+    {
+      "file": "assets/objects/openmoji-color/newspaper-1f4f0.png",
+      "sourceHash": "f287bec02fa321a7aad7de290754be1e3c48ab125845dee1dcfb8d0577ffee9c"
+    },
+    {
+      "file": "assets/objects/openmoji-color/rolled-up-newspaper-1f5de.png",
+      "sourceHash": "0413a9b02d9a8e6cfda483d8872c402fd9e61a36c6759b3eeb6404f006940694"
+    },
+    {
+      "file": "assets/objects/openmoji-color/bookmark-tabs-1f4d1.png",
+      "sourceHash": "4708347e041233873ec8c7e3c3ffc962063a13095b293e6f6476839075157edf"
+    },
+    {
+      "file": "assets/objects/openmoji-color/bookmark-1f516.png",
+      "sourceHash": "db07b43309eb45470234fda478f85e0736c12336389c8ce068463881f8daa2d0"
+    },
+    {
+      "file": "assets/objects/openmoji-color/label-1f3f7.png",
+      "sourceHash": "4120859b544da3675676d4c08e7b5539a1c3c19a241fcdb74f21857bb30da73f"
+    },
+    {
+      "file": "assets/objects/openmoji-color/coin-1fa99.png",
+      "sourceHash": "1301c0f42d83824e36b8ce8f50118308fa89699d59fa21093fb6e9892728dd6e"
+    },
+    {
+      "file": "assets/objects/openmoji-color/money-bag-1f4b0.png",
+      "sourceHash": "5d6cf88954a012c576e4416aa5932ea52b70218e75bc35ad8e4d58903c5686c9"
+    },
+    {
+      "file": "assets/objects/openmoji-color/treasure-chest-1fa8e.png",
+      "sourceHash": "0b32318da39d1d3ffd31df0fc42a94cf39810df3057eca1ca9e2823925fd1981"
+    },
+    {
+      "file": "assets/objects/openmoji-color/yen-banknote-1f4b4.png",
+      "sourceHash": "6427804d62a67a16a2a8e2d101ccdb6b1436adcb29ad579862549d71fc9b6203"
+    },
+    {
+      "file": "assets/objects/openmoji-color/dollar-banknote-1f4b5.png",
+      "sourceHash": "6a013eb3d29ede11bc89531242499e87c13e60938e30f1d9e654dd198245f8ac"
+    },
+    {
+      "file": "assets/objects/openmoji-color/euro-banknote-1f4b6.png",
+      "sourceHash": "4370a8b41a0d439f332618b2c830e4598d384006e9a5b87556012f7a3308abc5"
+    },
+    {
+      "file": "assets/objects/openmoji-color/pound-banknote-1f4b7.png",
+      "sourceHash": "8e8faea70f2af8f2dd974f5c48b65ca65de18da47ec3c38f01eae1c1c0915fcf"
+    },
+    {
+      "file": "assets/objects/openmoji-color/money-with-wings-1f4b8.png",
+      "sourceHash": "552c19df0455398ea843fd5a0e4b44f996a6f99be7e47f3c665929a7939a3f27"
+    },
+    {
+      "file": "assets/objects/openmoji-color/credit-card-1f4b3.png",
+      "sourceHash": "6026823bf0160b1e2d344076c6a7411c4c6cc9f733df68051927a8f7a8865dc5"
+    },
+    {
+      "file": "assets/objects/openmoji-color/receipt-1f9fe.png",
+      "sourceHash": "21dbffe39634b5ae13a8af8750e45c76c81e71323f6778eaaf2601a2c75564de"
+    },
+    {
+      "file": "assets/objects/openmoji-color/chart-increasing-with-yen-1f4b9.png",
+      "sourceHash": "b97cf6997e1e1544f55075ff522058928af42dda6e7a6eb1d168b9e9ab942094"
+    },
+    {
+      "file": "assets/objects/openmoji-color/envelope-2709.png",
+      "sourceHash": "fca043cb04687e9d22a32f60da59bde4596a9e5254a8b81c3020e325879d2071"
+    },
+    {
+      "file": "assets/objects/openmoji-color/e-mail-1f4e7.png",
+      "sourceHash": "95b476fb1909430b6c9e01b7f34a46b82d80b18d393b022b699faf085ebb05ed"
+    },
+    {
+      "file": "assets/objects/openmoji-color/incoming-envelope-1f4e8.png",
+      "sourceHash": "be601b566e65b1399d4b9739039a5b15d55254a70db9951dbf1148619057d6ab"
+    },
+    {
+      "file": "assets/objects/openmoji-color/envelope-with-arrow-1f4e9.png",
+      "sourceHash": "2c304684192cecb7ef49b85ef11afc69b7ea70f91cc3bcacad0c20343ca0fb9a"
+    },
+    {
+      "file": "assets/objects/openmoji-color/outbox-tray-1f4e4.png",
+      "sourceHash": "e368f9a7fcb1bc7b39772daf76d74f83cd4ada7870441d19c365666498fa7956"
+    },
+    {
+      "file": "assets/objects/openmoji-color/inbox-tray-1f4e5.png",
+      "sourceHash": "bf0662c05739340406ced4275016890cb1f600bc32d42c9254f1eb97c55c13d0"
+    },
+    {
+      "file": "assets/objects/openmoji-color/package-1f4e6.png",
+      "sourceHash": "e5a8dc52e9e52a4a9540a54c6b474ca62d9a024dbcad4cb31adf4ef018d3c972"
+    },
+    {
+      "file": "assets/objects/openmoji-color/closed-mailbox-with-raised-flag-1f4eb.png",
+      "sourceHash": "2cb809cd19a197ecc9b49f943ca3efa42e3d4418fe0b4fd814c81329372b2dd0"
+    },
+    {
+      "file": "assets/objects/openmoji-color/closed-mailbox-with-lowered-flag-1f4ea.png",
+      "sourceHash": "167d9a7de068e6d2e0afcd84ef77d53e317c069383edd9a240b554f377f70841"
+    },
+    {
+      "file": "assets/objects/openmoji-color/open-mailbox-with-raised-flag-1f4ec.png",
+      "sourceHash": "a724ebfc5bdd1bfbe3da1fb278d52e69d594ebc4c50f751b4d7baa5303c74236"
+    },
+    {
+      "file": "assets/objects/openmoji-color/open-mailbox-with-lowered-flag-1f4ed.png",
+      "sourceHash": "646d8455ff4fe04d7d24d070a23fdf118ed3a39bac8d7eafd9ae887c684f9e19"
+    },
+    {
+      "file": "assets/objects/openmoji-color/postbox-1f4ee.png",
+      "sourceHash": "1e0727816a4396562878e85057e55c11e03f9fcf092ef650709e582c85008698"
+    },
+    {
+      "file": "assets/objects/openmoji-color/ballot-box-with-ballot-1f5f3.png",
+      "sourceHash": "d952b431d42fc91c0f687bf2e878e787f580e7a0793f6422254a699378e1d666"
+    },
+    {
+      "file": "assets/objects/openmoji-color/pencil-270f.png",
+      "sourceHash": "c4c22a4e1e054a855af88d58164d0b491eda1acc26f303e45ca27dfd2bf89aef"
+    },
+    {
+      "file": "assets/objects/openmoji-color/black-nib-2712.png",
+      "sourceHash": "3fdb24f47f6a8f2483738b8966cab9ee1d29697e8d6908e4f4854a0f3a721c95"
+    },
+    {
+      "file": "assets/objects/openmoji-color/fountain-pen-1f58b.png",
+      "sourceHash": "fa58d043c30f1183ad146d82d07c7f12f46ef6252df014d2a4a40ddb201e5272"
+    },
+    {
+      "file": "assets/objects/openmoji-color/pen-1f58a.png",
+      "sourceHash": "879b38a2dbe7e2b90ccedd1432da544cdd3a4b565b74024d889086893f9189f2"
+    },
+    {
+      "file": "assets/objects/openmoji-color/paintbrush-1f58c.png",
+      "sourceHash": "b2985bda9e3add18943d26f283e2aecc57d4c0345e38e0cd342ba9aa25fba756"
+    },
+    {
+      "file": "assets/objects/openmoji-color/crayon-1f58d.png",
+      "sourceHash": "8e507b8cb5eb12f91e85c69df3c47e3927db800af508952f4472cd642a859f36"
+    },
+    {
+      "file": "assets/objects/openmoji-color/memo-1f4dd.png",
+      "sourceHash": "47a40fb4dd9156f4d3f34465bffd501951678f51eb2396862130b3178658f392"
+    },
+    {
+      "file": "assets/objects/openmoji-color/briefcase-1f4bc.png",
+      "sourceHash": "3c9a46ff28119d1fcd71845fbf88b3855dd443d3c60b4204350e1a1c6f553c86"
+    },
+    {
+      "file": "assets/objects/openmoji-color/file-folder-1f4c1.png",
+      "sourceHash": "83e05588adb4146db656a2fd04de48e2c67e5d1a7dd01deaa7d9050e13ba4a04"
+    },
+    {
+      "file": "assets/objects/openmoji-color/open-file-folder-1f4c2.png",
+      "sourceHash": "73354e55b8aaba2c6b08c1888fc7243277d6cccc373ea3c3df032b36a2815ff7"
+    },
+    {
+      "file": "assets/objects/openmoji-color/card-index-dividers-1f5c2.png",
+      "sourceHash": "134bd7b37f73ce9ee6ebcbc583d9c8c50cab1250defc1d8826b81362dbac9817"
+    },
+    {
+      "file": "assets/objects/openmoji-color/calendar-1f4c5.png",
+      "sourceHash": "642487fa554d65832b3fb1bd82ed296354c24b2fc0f1dd4bc6d4e1f0d6e9c099"
+    },
+    {
+      "file": "assets/objects/openmoji-color/tear-off-calendar-1f4c6.png",
+      "sourceHash": "2e282fab0900703ed9f3e3627c1a40b132f62954ebb80ad61366c74bb999ee37"
+    },
+    {
+      "file": "assets/objects/openmoji-color/spiral-notepad-1f5d2.png",
+      "sourceHash": "c472f8a8d5b8b15810d618f5208219b5a733df5aa9e7339c418cd5ff6e031118"
+    },
+    {
+      "file": "assets/objects/openmoji-color/spiral-calendar-1f5d3.png",
+      "sourceHash": "4b50e2712b8568f1fb3081752e343da154e6e9b437b4a97bb1e60665e8926d1a"
+    },
+    {
+      "file": "assets/objects/openmoji-color/card-index-1f4c7.png",
+      "sourceHash": "38c31bde6d2b65337340d0df522e2995e4bcfc856e634f06fa3cf6c00e5e9e72"
+    },
+    {
+      "file": "assets/objects/openmoji-color/chart-increasing-1f4c8.png",
+      "sourceHash": "9e240fd001f0753b738c1e30bb2594a7cd95f05526321524359e172c2bc6b96c"
+    },
+    {
+      "file": "assets/objects/openmoji-color/chart-decreasing-1f4c9.png",
+      "sourceHash": "0a00903e4683d6757aef568f270de355dea55b96a8f1a968c6165911fdef5085"
+    },
+    {
+      "file": "assets/objects/openmoji-color/bar-chart-1f4ca.png",
+      "sourceHash": "b7e91e23cbb42811e588bbcde347ce8e48799bd88024e7713949e5ee779f2854"
+    },
+    {
+      "file": "assets/objects/openmoji-color/clipboard-1f4cb.png",
+      "sourceHash": "5f50b3d406da6890a15078a6cb0b3db212e57160e9aa3fa716e05fe6ab0d15b9"
+    },
+    {
+      "file": "assets/objects/openmoji-color/pushpin-1f4cc.png",
+      "sourceHash": "9ea9df430feceee8deb845fda7ea4a24198a3dfbf60cb2c96df12ccc4bb58045"
+    },
+    {
+      "file": "assets/objects/openmoji-color/round-pushpin-1f4cd.png",
+      "sourceHash": "2c40670a7352931bb6c14f1cb25fdada754193bf324334f263098368166c18c2"
+    },
+    {
+      "file": "assets/objects/openmoji-color/paperclip-1f4ce.png",
+      "sourceHash": "46eb1bc3b48bfabdc5b1639762591c37abd4bae4b386121d405429e59fd0bae7"
+    },
+    {
+      "file": "assets/objects/openmoji-color/linked-paperclips-1f587.png",
+      "sourceHash": "72e85bd353370fd6903b8fad086d5b3061f9ab33793d8f7025def165af5e78fa"
+    },
+    {
+      "file": "assets/objects/openmoji-color/straight-ruler-1f4cf.png",
+      "sourceHash": "3c51fc244aaabe553599dd8f2f12269f112a62dbbaefd46fb1e9c1681c2b5baa"
+    },
+    {
+      "file": "assets/objects/openmoji-color/triangular-ruler-1f4d0.png",
+      "sourceHash": "abefbcc5604bef53bf3ac3175e0939b8272d3284faeb49c89579226cde490d78"
+    },
+    {
+      "file": "assets/objects/openmoji-color/scissors-2702.png",
+      "sourceHash": "0623ab4ad252f9208c898dc65e417a1a6e757758c0e2e3723bdc87bc35aa5548"
+    },
+    {
+      "file": "assets/objects/openmoji-color/card-file-box-1f5c3.png",
+      "sourceHash": "1a2d7af148461c4eeef74ad4a23f740a9c06b8164e574a726af62246477561e5"
+    },
+    {
+      "file": "assets/objects/openmoji-color/file-cabinet-1f5c4.png",
+      "sourceHash": "9cbf5036f6b69bfafcf7ea419e08b16814362433623c47f3b64e6484c2c3c1e0"
+    },
+    {
+      "file": "assets/objects/openmoji-color/wastebasket-1f5d1.png",
+      "sourceHash": "e15de125aafa98eaf64914e0ae5c4536abe3c542bbfec23ab5e324aca99cb17d"
+    },
+    {
+      "file": "assets/objects/openmoji-color/locked-1f512.png",
+      "sourceHash": "ef4559c0240a65b67a46761e745aa0071bfe13a10ef2936873851b504676d9eb"
+    },
+    {
+      "file": "assets/objects/openmoji-color/unlocked-1f513.png",
+      "sourceHash": "077bf3ec76fd7b547f844a71ba419daf0dc234800f904ae3fa4def16e34b95a8"
+    },
+    {
+      "file": "assets/objects/openmoji-color/locked-with-pen-1f50f.png",
+      "sourceHash": "d4b8b405808a30b4d476b5a8d1584f2ade84e720bba4214c001344fb8a195126"
+    },
+    {
+      "file": "assets/objects/openmoji-color/locked-with-key-1f510.png",
+      "sourceHash": "b2b724a9d4e9f0c2c5223d058685fffc32f79e4808c598a05face5ab1ee28128"
+    },
+    {
+      "file": "assets/objects/openmoji-color/key-1f511.png",
+      "sourceHash": "33eb430f2263b9aedd4ea2cc618c4af9c064b00a12b9680ed249291e95fd3e22"
+    },
+    {
+      "file": "assets/objects/openmoji-color/old-key-1f5dd.png",
+      "sourceHash": "dece10fb24421e6dd91eb2f531a055ea02c46847fd5d73d798936c68fab1d9cb"
+    },
+    {
+      "file": "assets/objects/openmoji-color/hammer-1f528.png",
+      "sourceHash": "1c50c61edf8003f058837eec1837ac8955709e95a23157d9262cf89d66a0146b"
+    },
+    {
+      "file": "assets/objects/openmoji-color/pick-26cf.png",
+      "sourceHash": "fa679637a013c571cb7049bc622e0f2e558ef06fe540f7f7851a646cfe830b6a"
+    },
+    {
+      "file": "assets/objects/openmoji-color/hammer-and-pick-2692.png",
+      "sourceHash": "dfbd239b4593b28b7021e004eba046d3d65b598fd307e5e648d5a8da4d6b0c1e"
+    },
+    {
+      "file": "assets/objects/openmoji-color/hammer-and-wrench-1f6e0.png",
+      "sourceHash": "2351297308e6cfa86e79b002da447d662586ab6699e35718abcac26cc9b0c48f"
+    },
+    {
+      "file": "assets/objects/openmoji-color/boomerang-1fa83.png",
+      "sourceHash": "ab3de896821cbac34c42e6ae157d1fd6b056526219071c35c5dd9d047668f961"
+    },
+    {
+      "file": "assets/objects/openmoji-color/bow-and-arrow-1f3f9.png",
+      "sourceHash": "cf2e74b8ce7349f1a973f4645ceea48eeb27c77d1ecfdc3d469150eb08cb1ea6"
+    },
+    {
+      "file": "assets/objects/openmoji-color/shield-1f6e1.png",
+      "sourceHash": "02796038c13b546105b37d141eb2cefddc4323fd1afbf51dae0fdf4a4252f490"
+    },
+    {
+      "file": "assets/objects/openmoji-color/carpentry-saw-1fa9a.png",
+      "sourceHash": "d1608c131b9e7828882e650f89a979c4f0f360b2f030dbbc657e8de6a3c348f2"
+    },
+    {
+      "file": "assets/objects/openmoji-color/wrench-1f527.png",
+      "sourceHash": "7567c6655984b79f7ebd190582ff3737f034c9beb771a91c4dc2a56260f270e1"
+    },
+    {
+      "file": "assets/objects/openmoji-color/screwdriver-1fa9b.png",
+      "sourceHash": "2085569743d25f4fc40c7f80b6cfd350d88fd03ccbf4ce6d3909233411bd2ef6"
+    },
+    {
+      "file": "assets/objects/openmoji-color/nut-and-bolt-1f529.png",
+      "sourceHash": "15861eab8239a41b2db227e70344ad8bd96d90ba4569789a5ff8f9e038ca8e03"
+    },
+    {
+      "file": "assets/objects/openmoji-color/gear-2699.png",
+      "sourceHash": "d9ad53a96415ff9cedcfe64f4cd4547316ecf95e10981bafdd9d5214a97e8a04"
+    },
+    {
+      "file": "assets/objects/openmoji-color/clamp-1f5dc.png",
+      "sourceHash": "80c4992bef39e325aa915495dfd90199601d3f08a2384615275b6bb918f73671"
+    },
+    {
+      "file": "assets/objects/openmoji-color/balance-scale-2696.png",
+      "sourceHash": "7f000f991cef87811fdaca313dc6f927a66a5baa38f2f177c841f4e40a8be6c5"
+    },
+    {
+      "file": "assets/objects/openmoji-color/white-cane-1f9af.png",
+      "sourceHash": "537d85497597bc86c89b4c57a0e1c6591ec70717b625446f62f07bc0a11f3d9c"
+    },
+    {
+      "file": "assets/objects/openmoji-color/link-1f517.png",
+      "sourceHash": "313c303005350b30744a61e21fd4d05ef7a112f483326fc6a2e9c6c967aba77d"
+    },
+    {
+      "file": "assets/objects/openmoji-color/broken-chain-26d3-fe0f-200d-1f4a5.png",
+      "sourceHash": "6e24ed3464a848b71567bf1d25bd7d43b0ca3e05bff6989ca69de1fa490f0d2a"
+    },
+    {
+      "file": "assets/objects/openmoji-color/hook-1fa9d.png",
+      "sourceHash": "dd4806eb0ede170c8347c07b8191bb986fe9c9289cef5ecb0c4e0a46551b6448"
+    },
+    {
+      "file": "assets/objects/openmoji-color/toolbox-1f9f0.png",
+      "sourceHash": "693507404b5ed4fcc9886b06d498325fc7e0bee7db6b798e6b27219c79e466c2"
+    },
+    {
+      "file": "assets/objects/openmoji-color/magnet-1f9f2.png",
+      "sourceHash": "eb53f2cfdc3119ce795b6ae836a0d209cc8be8a6f1006689d3e292fb2dbc9c19"
+    },
+    {
+      "file": "assets/objects/openmoji-color/ladder-1fa9c.png",
+      "sourceHash": "ff26308989648b37138a532cc81df5d4e5e9757f687d17a3a64be9a10a0f220b"
+    },
+    {
+      "file": "assets/objects/openmoji-color/shovel-1fa8f.png",
+      "sourceHash": "04b37291526f19829e22f62309acc5ddc267686e3c7652392df86e7996ee7622"
+    },
+    {
+      "file": "assets/objects/openmoji-color/alembic-2697.png",
+      "sourceHash": "8ec93a7a3d9a9b201dd3cf2ebff2e85ddf8df1ab2027a16b5d3eeef6e2f065c0"
+    },
+    {
+      "file": "assets/objects/openmoji-color/test-tube-1f9ea.png",
+      "sourceHash": "ebe89f6af3826e626875b8a2414851bb65c9b871829b9cfc5456cc98b644bce8"
+    },
+    {
+      "file": "assets/objects/openmoji-color/petri-dish-1f9eb.png",
+      "sourceHash": "39fdae66d9f9d0217a049f67447e79339b1c8ea0efe2dac893fd21a65365185d"
+    },
+    {
+      "file": "assets/objects/openmoji-color/dna-1f9ec.png",
+      "sourceHash": "3cb8532c635db8ac154f50262c96e9872c474063437211ca09f9e5fe8e8969a6"
+    },
+    {
+      "file": "assets/objects/openmoji-color/microscope-1f52c.png",
+      "sourceHash": "2ad3cd999df3c0068003e41c548f4a0f9441eca662ad2fd279428eb5ebbb9a04"
+    },
+    {
+      "file": "assets/objects/openmoji-color/telescope-1f52d.png",
+      "sourceHash": "2deb91678540f63587b213a0176f28d5c35b607dfeb1de76b65712a54cb79229"
+    },
+    {
+      "file": "assets/objects/openmoji-color/satellite-antenna-1f4e1.png",
+      "sourceHash": "6696474839131a6264b5f67fe1f081165f036a8015fad47ce1c0a3588f823e22"
+    },
+    {
+      "file": "assets/objects/openmoji-color/pill-1f48a.png",
+      "sourceHash": "7b3fa5b2d8721b77ccbc9b52147882944c05f6caa82db1a36ea86821edc2718c"
+    },
+    {
+      "file": "assets/objects/openmoji-color/adhesive-bandage-1fa79.png",
+      "sourceHash": "f1c6c9a4444df6edc51e2acf02997d041b1b89bf83294de3a5a79146f5d621cc"
+    },
+    {
+      "file": "assets/objects/openmoji-color/crutch-1fa7c.png",
+      "sourceHash": "97817541e8693f1d19663e0c9dcf74afce05311b00d15250204fccb92a69e695"
+    },
+    {
+      "file": "assets/objects/openmoji-color/stethoscope-1fa7a.png",
+      "sourceHash": "fd5ddd49cb2463aab0fcc7b78004a58490426107d74b8563d9238ac4214c14ea"
+    },
+    {
+      "file": "assets/objects/openmoji-color/x-ray-1fa7b.png",
+      "sourceHash": "d70ea71b5ef701699dc1323659b2bba9b674c55eb4692ec05c6a6e7c5c359a15"
+    },
+    {
+      "file": "assets/objects/openmoji-color/door-1f6aa.png",
+      "sourceHash": "4db56a33a362a325f919dbf6b817f2a5607f234b0eb4a826d38a0012ee21930f"
+    },
+    {
+      "file": "assets/objects/openmoji-color/elevator-1f6d7.png",
+      "sourceHash": "6c83e11bb96769a4d5af76d24b9230b6d5491deee604b767cacd5c801627f60f"
+    },
+    {
+      "file": "assets/objects/openmoji-color/mirror-1fa9e.png",
+      "sourceHash": "8d6ed9b7ef145438d5f5de214d06dd245d00fb41f6ac0046017d40796e0a9554"
+    },
+    {
+      "file": "assets/objects/openmoji-color/window-1fa9f.png",
+      "sourceHash": "20bac729d9bb1b02db66a5eab8638019c38eecfee5b7402656306e4c6e8f1ce7"
+    },
+    {
+      "file": "assets/objects/openmoji-color/bed-1f6cf.png",
+      "sourceHash": "becdece392f1e9b65d0a6add7393eb72e77cae187e9e517ce7b0f26f42dfcade"
+    },
+    {
+      "file": "assets/objects/openmoji-color/couch-and-lamp-1f6cb.png",
+      "sourceHash": "5000e2cf48c76008bac30b9b11b6d6ec763a91c0abf33ec9b40b0902d958629e"
+    },
+    {
+      "file": "assets/objects/openmoji-color/chair-1fa91.png",
+      "sourceHash": "244f8362b50ce0b225b9a8c25c824b116bc63add97b2e92c707b2ffd5079aab4"
+    },
+    {
+      "file": "assets/objects/openmoji-color/toilet-1f6bd.png",
+      "sourceHash": "aa4cfd78bcb66ca2cd6f20c47dfd1f20fe8f583c6ceac9dd3c73539958aea84f"
+    },
+    {
+      "file": "assets/objects/openmoji-color/plunger-1faa0.png",
+      "sourceHash": "7209ed9c21d95228f65b65c25db061674cb2073c211118187547438c9cbda2c2"
+    },
+    {
+      "file": "assets/objects/openmoji-color/shower-1f6bf.png",
+      "sourceHash": "69a099bf85d3cd0424d5f76cee9c478d6bc27b5a82eac7f72f593580c3391742"
+    },
+    {
+      "file": "assets/objects/openmoji-color/bathtub-1f6c1.png",
+      "sourceHash": "b4d8d5da286d5d938e40b7a4902d0f88f3eb33b83633a369abaa68b6fbb6a1a4"
+    },
+    {
+      "file": "assets/objects/openmoji-color/mouse-trap-1faa4.png",
+      "sourceHash": "d697625c935b537676d74cb6f572273f59b9adb01ec0005b040c1f1db5b5daac"
+    },
+    {
+      "file": "assets/objects/openmoji-color/lotion-bottle-1f9f4.png",
+      "sourceHash": "dfb6fb5658ccb5c25b3c666b89ba0ad1eda717566b6a103e946ee27cb0092eca"
+    },
+    {
+      "file": "assets/objects/openmoji-color/safety-pin-1f9f7.png",
+      "sourceHash": "e7deea2035452f973e58004df8492a2ab6de4387878dcbf400ccdf3a7f6be8fe"
+    },
+    {
+      "file": "assets/objects/openmoji-color/broom-1f9f9.png",
+      "sourceHash": "bf4034ff412cb4584b00a9aeefbf0e8ff049b37fb3a5a31f394ff0cd88179d65"
+    },
+    {
+      "file": "assets/objects/openmoji-color/basket-1f9fa.png",
+      "sourceHash": "6963454abf1e38804b0ad90e3bed42e2d8d94c22357bfc6bb94775b10292ab54"
+    },
+    {
+      "file": "assets/objects/openmoji-color/roll-of-paper-1f9fb.png",
+      "sourceHash": "1e66423514e5d9b9535352f96469f81e3d004d4b78b3043824cfc1180e353e32"
+    }
+  ]
+}

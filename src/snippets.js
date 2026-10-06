@@ -4,6 +4,7 @@ export const assetUrl = a => new URL(encodePath(a.file), config.baseUrl.endsWith
 const htmlEscape = value => value.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 export function snippet(asset, kind) {
  const url = assetUrl(asset), u = JSON.stringify(url), key = JSON.stringify(asset.name);
+ if(kind === 'attribution') return [asset.title || asset.name,asset.collectionTitle,asset.author,asset.attribution,asset.licenseUrl,asset.source].filter(Boolean).join('\n');
  if(kind === 'url') return url;
  if(kind === 'path') return `/${asset.file}`;
  if(kind === 'html') return `<img src="${htmlEscape(url)}" alt="${htmlEscape(asset.name)}" />`;

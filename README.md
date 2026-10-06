@@ -143,3 +143,47 @@ PIXVAULT v1.0 は GitHub の無料利用範囲を前提とした個人向け構�
 ## 拡張方針
 
 UI、検索、コード生成、画像スキャン、タグ生成を分離しています。追加フォーマット・ローカル AI・類似検索・登録 UI は将来の拡張であり、v1 は実装しません。JSON の追加プロパティを保持するため、license や source などを段階的に追加できます。3D や音声は別プロジェクトとして扱います。
+
+## naka-asobi 向けの画像セット（OpenMoji カラー）
+
+4〜7歳向けの遊び、図鑑、発見カード、景品に使えるよう、OpenMoji 17.0.0 のカラー PNG を **1,000点**取り込みました。写真や質感付きの絵ではなく、輪郭線とフラットな色を使った同じ画風のアイコン素材です。元 PNG は618×618、透明背景です。元のオリジナルサンプル5点は別セットとして残しています。
+
+|カテゴリ|点数|
+|---|---:|
+|動物|143|
+|自然・植物|86|
+|食べ物|118|
+|生活用品・道具|333|
+|乗り物|72|
+|建物・場所|59|
+|表情・からだ|122|
+|気持ち・お祝い|67|
+
+一覧は「動物 · OpenMoji カラー」のように **カテゴリ＋画風／素材セット**でまとめます。SET でセットを絞り込み、GROUP でグループ表示を切り替えられます。カードと詳細には配布元の英語タイトルを表示します。日本語でのカテゴリ検索にも対応しますが、個々のタイトルを日本語へ翻訳したわけではありません。
+
+```text
+public/assets/animals/openmoji-color/cat-1f408.png
+public/thumbnails/animals/openmoji-color/cat-1f408.png.webp
+```
+
+再取得・更新:
+
+```bash
+npm run import:openmoji
+npm run assets
+npm test
+python3 -m unittest discover -s tests -p '*_test.py'
+npm run build
+```
+
+Python 3 と curl が必要です。公式リリースのアーカイブを1回だけ取得し、GitHubが公開する SHA-256 と照合してから取り込みます。アーカイブは `.asset-cache/` にキャッシュし、Gitには含めません。既存画像が異なる内容なら上書きせず停止します。再実行しても同じパスと ID になり、手動タグ・説明は保持します。追加ダウンロードや API キーは不要です。武器・酒・喫煙などの題材と肌色違いを選定対象から除きます。この題材フィルターは年齢適合性を保証する自動判定ではありません。採用する画像は各遊びの内容に合わせて選んでください。
+
+取得記録は `public/data/imports/openmoji-17.0.0.json` に保存しています。版、コミット、アーカイブのハッシュ、採用した各画像のパス／ハッシュ、カテゴリ別件数を確認できます。`assets.json` の `title`、`collection`、`collectionTitle`、`style` で他アプリ側もグループ化できます。
+
+### 利用時のクレジット
+
+OpenMoji は **CC BY-SA 4.0** です。出典・作者・ライセンスを各画像に記録し、詳細の **COPY CREDIT** でコピーできます。利用先の naka-asobi にも見えるクレジット画面や README など、適切な場所に表示してください。例:
+
+> Icons by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0. https://openmoji.org/ / https://creativecommons.org/licenses/by-sa/4.0/
+
+PNGを改変して配布する場合は、変更内容を示し、その改変画像も同じライセンスで提供します。この条件をアプリ全体のソースコードのライセンスと混同しないでください。`license` と `licenseUrl`、`author`、`source` は消費側へ引き継いでください。WebP サムネイルにも同じ素材ライセンスが適用されます。ライセンス本文は `public/licenses/OpenMoji-CC-BY-SA-4.0.txt` で配信します。今回 naka-asobi のコードやUI自体は変更していません。
