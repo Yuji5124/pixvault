@@ -20,7 +20,7 @@ REPO = 'https://github.com/hfg-gmuend/openmoji'
 LICENSE_URL = 'https://creativecommons.org/licenses/by-sa/4.0/'
 CORE_GROUPS = {'animals-nature', 'food-drink', 'objects', 'travel-places', 'activities', 'smileys-emotion'}
 # Curated topic exclusions for a young-child learning/prize catalog; not an automated safety classifier.
-EXCLUDE = re.compile(r'\b(gun|pistol|rifle|firearm|dagger|knife|bomb|coffin|headstone|funeral|skull|cigarette|smoking|beer|wine|cocktail|sake|champagne|tumbler|alcohol|slot machine|casino|gambling|middle finger|poo|vomiting|nauseated|syringe|blood|razor|chains|axe|crossed swords|angry face with horns|smiling face with horns|ogre|goblin)\b', re.I)
+EXCLUDE = re.compile(r'\b(gun|pistol|rifle|firearm|dagger|knife|bomb|coffin|headstone|funeral|skull|cigarette|smoking|beer|wine|cocktail|sake|champagne|tumbler|alcohol|love hotel|bottle with popping cork|clinking glasses|tropical drink|sex|booze|slot machine|casino|gambling|middle finger|poo|vomiting|nauseated|syringe|blood|razor|chains|axe|crossed swords|angry face with horns|smiling face with horns|ogre|goblin)\b', re.I)
 CATEGORY_LABELS = {'animals':'動物','nature':'自然・植物','food':'食べ物','objects':'生活用品・道具','vehicles':'乗り物','buildings':'建物・場所','people':'表情・からだ','effects':'気持ち・お祝い'}
 
 
@@ -44,9 +44,9 @@ def select_items(data, limit):
     core, hands = [], []
     for item in sorted(data, key=lambda i: (int(i.get('order') or 0),i['hexcode'])):
         if item.get('skintone') or item.get('skintone_combination'): continue
-        if EXCLUDE.search(item['annotation']): continue
+        if EXCLUDE.search(' '.join([item['annotation'],item.get('tags',''),item.get('openmoji_tags','')])): continue
         if item['group'] in CORE_GROUPS: core.append(item)
-        elif item['group'] == 'people-body' and (item['subgroups'].startswith('hand-') or item['subgroups'] == 'body-parts'):
+        elif item['group'] == 'people-body' and (item['subgroups'].startswith('hand-') or item['subgroups'] in ('body-parts','person-activity','person-sport','person-role')):
             hands.append(item)
     candidates = core + hands
     if limit > len(candidates): raise ValueError(f'Only {len(candidates)} curated candidates available, requested {limit}')
