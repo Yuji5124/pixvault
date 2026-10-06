@@ -187,3 +187,61 @@ OpenMoji は **CC BY-SA 4.0** です。出典・作者・ライセンスを各�
 > Icons by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0. https://openmoji.org/ / https://creativecommons.org/licenses/by-sa/4.0/
 
 PNGを改変して配布する場合は、変更内容を示し、その改変画像も同じライセンスで提供します。この条件をアプリ全体のソースコードのライセンスと混同しないでください。`license` と `licenseUrl`、`author`、`source` は消費側へ引き継いでください。WebP サムネイルにも同じ素材ライセンスが適用されます。ライセンス本文は `public/licenses/OpenMoji-CC-BY-SA-4.0.txt` で配信します。今回 naka-asobi のコードやUI自体は変更していません。
+
+## 桃太郎動画用・出典表示不要の5,000 PNG
+
+**CC0-1.0 のPNGを5,000枚追加**しました。既存の教育用・サンプル素材と合わせた全体は6,005枚です。今回の5,000枚には出典表示が必要なOpenMojiを含めません。
+
+最初は PROJECT「桃太郎動画用」、出典表示不要（CC0）、SORT BY「高解像度順」で表示します。TYPEで人物／身体パーツ／アニメ用ポーズ／動物／背景／背景パーツ／小道具／演出／地形を選べます。RESOLUTIONでは元画像の長辺256・512・1024・2048px以上に絞れます。
+
+これは**桃太郎専用の日本アニメ風キャラクターを5,000枚揃えたものではありません**。CC0のカートゥーン／ゲーム調の背景・人物ポーズ・パーツ・小道具を動画に組み合わせて使う構成素材庫です。和装の桃太郎、統一された犬・猿・キジ・鬼の専用キャラクターセットは未確保です。イラストの画風・衣装はセットごとに異なるので、GROUPとSETで同じパックを選んでください。人物は一般的な冒険者・キャラクターで、すべてが物語の登場人物の代用になるわけではありません。
+
+|種別|枚数|
+|---|---:|
+|背景|34|
+|背景パーツ|1,120|
+|人物・キャラクター|28|
+|身体パーツ|482|
+|アニメ用ポーズ|483|
+|動物|296|
+|小道具|594|
+|演出・エフェクト|324|
+|地形・組み立てパーツ|1,639|
+
+|元画像の長辺|枚数|
+|---|---:|
+|1024px以上|138|
+|512〜1023px|345|
+|256〜511px|1,332|
+|256px未満|3,185|
+
+高解像度順は**元の幅×高さ（画素数）**で並べます。長辺のフィルターとは指標が異なります。グループ表示でも大きな画像を含むグループが先頭になります。人工的な拡大やコピー、左右反転だけで枚数・画質を増やしていません。解像度は画質の目安で、絵の細かさや美術品質の保証ではありません。全画面の1080p背景として使える画像ばかりではありません。小さな画像は小道具・パーツとして使ってください。
+
+### 保存先と名前
+
+```text
+public/assets/backgrounds/momotaro/kenney-<pack>/03-1k_background_<pack>_<original>_1024x1024_<id>.png
+public/assets/characters/momotaro/kenney-<pack>/05-256_animation-frame_<pack>_<pose>_192x256_<id>.png
+public/assets/props/momotaro/kenney-<pack>/...
+public/assets/effects/momotaro/kenney-<pack>/...
+public/assets/animals/momotaro/kenney-<pack>/...
+public/assets/tiles/momotaro/kenney-<pack>/...
+```
+
+名前は「解像度帯 → 種別 → 素材セット → 元の名前 → 実寸 → 固有ID」です。`01-4k`、`02-2k`、`03-1k`、`04-512`、`05-256`、`06-small`の順に分類しますが、未取得の帯には画像を作りません。JSONに `project`、`kind`、`sourceWidth/Height`、`upscaled: false`、`storyRoles`、`animationGroup`、`frameIndex`を保持します。ポーズの連番は動画ではないので、アニメーションは利用先でフレームの順序・速度を設定してください。`storyRoles`は元のファイル名から判断できた題材のみで、桃太郎関連をすべて画像認識したタグではありません。
+
+### 再取得と出典確認
+
+```bash
+npm run import:momotaro
+npm run assets
+npm test
+python3 -m unittest discover -s tests -p '*_test.py'
+npm run build
+```
+
+作者はKenneyです。PNGは公開ミラー `shorepine/kenney` の固定コミットから取得し、各ファイルをそのコミットのGit blob hashと照合。対応するパックごとのCC0・出典表示任意の原文を `eturner58/game-assets` の固定コミットにあるカタログで確認し、`public/licenses/kenney/`に保存します。Kenney公式サイトから直接ダウンロードした素材と偽っていません。必要なpackのライセンスが確認できない場合は取得対象から外します。
+
+取得記録は `public/data/imports/momotaro-kenney.json`。素材・ライセンスの参照コミット、アーカイブとライセンスメタデータのSHA-256、全ファイルのSHA-256/Git blob、種別と解像度帯の実数を記録しています。同一バイト109件とHD/通常版などの解像度違い395件を除外してから5,000枚を選定しました。取り込みは削除・自動同期ではなく追加型です。
+
+CC0素材では動画や説明欄への出典表示は必須ではありません。既存のOpenMojiはCC BY-SA 4.0なので、この条件とは別です。「出典表示不要（CC0）」フィルターを有効にして選んでください。既存のサンプルやユーザーが追加する画像にも、実際のライセンス情報を残すことをおすすめします。

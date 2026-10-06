@@ -13,7 +13,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "test": "node --test",
-    "import:openmoji": "python3 scripts/import-openmoji.py"
+    "import:openmoji": "python3 scripts/import-openmoji.py",
+    "import:momotaro": "python3 scripts/import-momotaro.py"
   },
   "dependencies": {
     "sharp": "^0.34.5"

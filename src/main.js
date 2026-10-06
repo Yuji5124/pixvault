@@ -1,10 +1,11 @@
 import './style.css';
+import {kindLabels,resolutionLabel,nativeDimensions} from './quality.js';
 import { groupAssets } from './collections.js';
 import { config } from './config.js';
 import { indexAssets, filterAssets, sortAssets } from './search.js';
 import { snippet, encodePath } from './snippets.js';
 const app = document.querySelector('#app');
-app.innerHTML = `<header><div class="brand"><span class="logo">▧</span><div><h1>PIXVAULT<span> / 01</span></h1><p>2D ASSET SERVER</p></div></div><div class="header-actions"><span class="mode">● FREE MODE</span><button id="random">⚄ RANDOM ASSET</button></div></header><main><section class="intro"><div><p class="eyebrow">YOUR CREATIVE INVENTORY</p><h2>A home for every pixel.</h2><p class="muted">Find it. Copy it. Build something.</p></div><div class="total"><strong id="total">—</strong><span>ASSETS IN VAULT</span></div></section><section class="tools"><label class="search"><span>⌕</span><input id="search" type="search" placeholder="Search assets, tags, or a little inspiration…" aria-label="Search assets"><kbd>/</kbd></label><label class="sort-label">SET <select id="collection"><option value="all">All sets</option></select></label><label class="sort-label">GROUP <select id="group"><option value="collection">カテゴリ＋タッチ</option><option value="none">グループなし</option></select></label><label class="sort-label">SORT BY <select id="sort"><option value="name">Name</option><option value="newest">Newest</option><option value="width">Width</option><option value="height">Height</option><option value="random">Random</option></select></label></section><nav id="categories" aria-label="Asset categories"></nav><section class="filterbar"><span id="count" role="status">Loading assets…</span><div><label><input id="transparent" type="checkbox"> Transparent only</label><label><input id="favorites" type="checkbox"> ☆ Favorites</label></div></section><section id="grid" aria-label="Assets"></section><p id="empty" hidden>No assets match. Try another search or clear the filters.</p><button id="more" hidden>LOAD MORE</button><footer><span>PIXVAULT v1.0 · Local-first. Yours to build with.</span><a id="json-link">OPEN ASSETS.JSON ↗</a></footer></main><dialog id="detail"><button class="close" aria-label="Close asset details">✕</button><div class="detail-layout"><div class="detail-image checker"><img id="original" alt=""></div><div class="detail-info"><p class="eyebrow" id="detail-category"></p><h2 id="detail-name"></h2><p id="metadata"></p><p id="description"></p><div id="provenance"><p id="credit"></p><a id="source-link" target="_blank" rel="noopener noreferrer">SOURCE ↗</a> · <a id="license-link" target="_blank" rel="noopener noreferrer">LICENSE ↗</a><button data-copy="attribution">COPY CREDIT</button></div><p class="eyebrow">TAGS</p><div id="tags"></div><button id="favorite">☆ FAVORITE</button><div class="copy-grid"><button data-copy="url">COPY URL</button><button data-copy="path">COPY PATH</button><button data-copy="html">COPY HTML</button><button data-copy="three">COPY THREE.JS</button><button data-copy="sprite">COPY SPRITE</button><button data-copy="phaser">COPY PHASER</button></div><a id="download" class="button" download>↓ DOWNLOAD ORIGINAL PNG</a><textarea id="code" readonly aria-label="Integration code"></textarea></div></div></dialog><div id="toast" role="status"></div>`;
+app.innerHTML = `<header><div class="brand"><span class="logo">▧</span><div><h1>PIXVAULT<span> / 01</span></h1><p>2D ASSET SERVER</p></div></div><div class="header-actions"><span class="mode">● FREE MODE</span><button id="random">⚄ RANDOM ASSET</button></div></header><main><section class="intro"><div><p class="eyebrow">YOUR CREATIVE INVENTORY</p><h2>A home for every pixel.</h2><p id="intro-description" class="muted">Find it. Copy it. Build something.</p></div><div class="total"><strong id="total">—</strong><span>ASSETS IN VAULT</span></div></section><section class="tools"><label class="search"><span>⌕</span><input id="search" type="search" placeholder="Search assets, tags, or a little inspiration…" aria-label="Search assets"><kbd>/</kbd></label><label class="sort-label">PROJECT <select id="project"><option value="all">すべて</option><option value="momotaro" selected>桃太郎動画用</option></select></label><label class="sort-label">TYPE <select id="kind"><option value="all">すべての種別</option></select></label><label class="sort-label">RESOLUTION <select id="resolution"><option value="0">すべての解像度</option><option value="256">長辺256px以上</option><option value="512">長辺512px以上</option><option value="1024">長辺1024px以上</option><option value="2048">長辺2048px以上</option></select></label><label class="sort-label">SET <select id="collection"><option value="all">All sets</option></select></label><label class="sort-label">GROUP <select id="group"><option value="collection">カテゴリ＋タッチ</option><option value="none">グループなし</option></select></label><label class="sort-label">SORT BY <select id="sort"><option value="quality" selected>高解像度順</option><option value="name">Name</option><option value="newest">Newest</option><option value="width">Width</option><option value="height">Height</option><option value="random">Random</option></select></label></section><nav id="categories" aria-label="Asset categories"></nav><section class="filterbar"><span id="count" role="status">Loading assets…</span><div><label><input id="attribution-free" type="checkbox" checked> 出典表示不要（CC0）</label><label><input id="transparent" type="checkbox"> Transparent only</label><label><input id="favorites" type="checkbox"> ☆ Favorites</label></div></section><section id="grid" aria-label="Assets"></section><p id="empty" hidden>No assets match. Try another search or clear the filters.</p><button id="more" hidden>LOAD MORE</button><footer><span>PIXVAULT v1.0 · Local-first. Yours to build with.</span><a id="json-link">OPEN ASSETS.JSON ↗</a></footer></main><dialog id="detail"><button class="close" aria-label="Close asset details">✕</button><div class="detail-layout"><div class="detail-image checker"><img id="original" alt=""></div><div class="detail-info"><p class="eyebrow" id="detail-category"></p><h2 id="detail-name"></h2><p id="metadata"></p><p id="description"></p><div id="provenance"><p id="credit"></p><a id="source-link" target="_blank" rel="noopener noreferrer">SOURCE ↗</a> · <a id="license-link" target="_blank" rel="noopener noreferrer">LICENSE ↗</a><button data-copy="attribution">COPY CREDIT</button></div><p class="eyebrow">TAGS</p><div id="tags"></div><button id="favorite">☆ FAVORITE</button><div class="copy-grid"><button data-copy="url">COPY URL</button><button data-copy="path">COPY PATH</button><button data-copy="html">COPY HTML</button><button data-copy="three">COPY THREE.JS</button><button data-copy="sprite">COPY SPRITE</button><button data-copy="phaser">COPY PHASER</button></div><a id="download" class="button" download>↓ DOWNLOAD ORIGINAL PNG</a><textarea id="code" readonly aria-label="Integration code"></textarea></div></div></dialog><div id="toast" role="status"></div>`;
 const $ = s => document.querySelector(s);
 const base = import.meta.env.BASE_URL;
 const localUrl = p => base + encodePath(p);
@@ -25,8 +26,10 @@ function open(asset, source) {
  $('#original').src=localUrl(asset.file); $('#original').alt=asset.title || asset.name;
  $('#detail-category').textContent=asset.category; $('#detail-name').textContent=asset.title || asset.name;
  $('#metadata').textContent=`${asset.width} × ${asset.height} · PNG · ${(asset.fileSize/1024).toFixed(1)} KB · Transparent ${asset.transparent?'✓ YES':'× NO'}${asset.fileSize >= config.largeFileBytes?' · LARGE FILE':''}`;
- $('#description').textContent=asset.description || '';
- $('#credit').textContent=[asset.collectionTitle,asset.author,asset.license].filter(Boolean).join(' · ');
+ const native=nativeDimensions(asset);
+ $('#description').textContent=[asset.description || '',asset.kind ? `種別: ${kindLabels[asset.kind] || asset.kind}` : '',`解像度目安: ${resolutionLabel(asset)}（元画像 ${native.width}×${native.height}）`,asset.animationGroup ? `アニメグループ: ${asset.animationGroup} / フレーム ${asset.frameIndex}` : '',asset.storyRoles?.length ? `物語の題材: ${asset.storyRoles.join('・')}` : ''].filter(Boolean).join(' / ');
+
+ $('#credit').textContent=[asset.collectionTitle,asset.author,asset.license,asset.attributionRequired===false || asset.license==='CC0-1.0' ? '出典表示不要' : ''].filter(Boolean).join(' · ');
  for(const [selector,value] of [['#source-link',asset.source],['#license-link',asset.licenseUrl]]) {
   const link=$(selector); let valid=false;
   try { const url=new URL(value); valid=url.protocol==='https:'; if(valid) link.href=url.href; } catch {}
@@ -39,7 +42,8 @@ function open(asset, source) {
  $('#code').value=snippet(asset,'url'); updateFavorite(); $('#detail').showModal();
 }
 function render() {
- visible=sortAssets(filterAssets(assets,{query:$('#search').value,category,collection:$('#collection').value,transparent:$('#transparent').checked,favoritesOnly:$('#favorites').checked,favorites}),$('#sort').value);
+ $('#intro-description').textContent=$('#project').value==='momotaro' ? '動画に組み合わせて使うCC0の汎用素材。桃太郎専用のキャラクターセットではありません。' : 'Find it. Copy it. Build something.';
+ visible=sortAssets(filterAssets(assets,{query:$('#search').value,category,collection:$('#collection').value,project:$('#project').value,kind:$('#kind').value,minResolution:$('#resolution').value,attributionFree:$('#attribution-free').checked,transparent:$('#transparent').checked,favoritesOnly:$('#favorites').checked,favorites}),$('#sort').value);
  $('#count').textContent=`${visible.length} / ${assets.length} ASSETS`;
  $('#empty').hidden=visible.length!==0; $('#more').hidden=visible.length<=limit;
  $('#random').disabled=visible.length===0;
@@ -49,7 +53,7 @@ function render() {
  const image=document.createElement('img'); image.src=localUrl(asset.thumbnail); image.alt=asset.title || asset.name; image.loading='lazy'; image.width=256; image.height=256; imageButton.append(image); imageButton.onclick=()=>open(asset,imageButton);
  const info=document.createElement('div'); info.className='card-info';
  const title=document.createElement('button'); title.className='asset-title'; title.textContent=asset.title || asset.name; title.onclick=()=>open(asset,title);
- const row=document.createElement('div'); row.className='card-meta'; const dimensions=document.createElement('span'); dimensions.textContent=`${asset.width} × ${asset.height}`;
+ const row=document.createElement('div'); row.className='card-meta'; const dimensions=document.createElement('span'); dimensions.textContent=`${resolutionLabel(asset)} · ${asset.width} × ${asset.height}`;
  const star=document.createElement('button'); star.className='star'; star.textContent=favorites.has(asset.id)?'★':'☆'; star.setAttribute('aria-label',`Favorite ${asset.name}`); star.setAttribute('aria-pressed',String(favorites.has(asset.id))); star.onclick=()=>favorite(asset);
  row.append(dimensions,star); info.append(title,row); card.append(imageButton,info);
  if(asset.transparent) { const badge=document.createElement('span'); badge.className='badge'; badge.textContent='α'; card.append(badge); }
@@ -61,7 +65,7 @@ function render() {
  } else {
   $('#grid').className='';
   const cardMap=new Map(visible.slice(0,limit).map((a,i)=>[a.id,cards[i]]));
-  const sections=groupAssets(visible.slice(0,limit)).map(group=>{
+  const sections=groupAssets(visible.slice(0,limit),$('#sort').value).map(group=>{
    const section=document.createElement('section');section.className='asset-group';
    const heading=document.createElement('h3');heading.textContent=group.title;
    const count=document.createElement('span');count.textContent=`${group.assets.length} SHOWN`;heading.append(count);
@@ -74,7 +78,7 @@ function render() {
 }
 function refresh() { limit=config.pageSize; render(); }
 $('#search').addEventListener('input',refresh);
-for(const id of ['sort','transparent','favorites','collection','group']) $('#'+id).addEventListener('change',refresh);
+for(const id of ['sort','transparent','favorites','collection','group','project','kind','resolution','attribution-free']) $('#'+id).addEventListener('change',refresh);
 $('#more').onclick=()=> { limit+=config.pageSize; render(); };
 $('#random').onclick=()=> { if(visible.length) open(visible[Math.floor(Math.random()*visible.length)]); };
 $('#favorite').onclick=()=>favorite(selected);
@@ -91,6 +95,9 @@ async function load() {
  const response=await fetch(catalogUrl, { cache: 'no-cache' }); if(!response.ok) throw Error(`HTTP ${response.status}`);
  const data=await response.json(); if(!Array.isArray(data)) throw Error('Expected an assets array');
  assets=indexAssets(data); $('#total').textContent=assets.length;
+ for(const kind of [...new Set(assets.map(a=>a.kind || 'image'))]) {const option=document.createElement('option');option.value=kind;option.textContent=kindLabels[kind] || kind;$('#kind').append(option);}
+ if(!assets.some(a=>a.project==='momotaro')) $('#project').value='all';
+
  const sets=new Map(assets.map(a=>[a.collection || 'samples',a.collectionTitle || 'オリジナルサンプル']));
  for(const [value,title] of sets) {const option=document.createElement('option');option.value=value;option.textContent=title;$('#collection').append(option);}
 
