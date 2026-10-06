@@ -8,7 +8,8 @@ app.innerHTML = `<header><div class="brand"><span class="logo">▧</span><div><h
 const $ = s => document.querySelector(s);
 const base = import.meta.env.BASE_URL;
 const localUrl = p => base + encodePath(p);
-$('#json-link').href = localUrl('data/assets.json');
+const catalogUrl = `${localUrl('data/assets.json')}?v=${import.meta.env.VITE_CATALOG_VERSION}`;
+$('#json-link').href = catalogUrl;
 let assets = [], visible = [], category = 'all', limit = config.pageSize, selected, opener;
 let favorites;
 try { const saved=JSON.parse(localStorage.getItem('pixvault.favorites') || '[]'); favorites = new Set(Array.isArray(saved) ? saved : []); } catch { favorites = new Set(); }
@@ -87,7 +88,7 @@ for(const button of document.querySelectorAll('[data-copy]')) button.onclick=asy
 document.addEventListener('keydown',event=> { if(event.key==='/' && !$('#detail').open && !['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)) { event.preventDefault(); $('#search').focus(); } });
 async function load() {
  try {
- const response=await fetch(localUrl('data/assets.json')); if(!response.ok) throw Error(`HTTP ${response.status}`);
+ const response=await fetch(catalogUrl, { cache: 'no-cache' }); if(!response.ok) throw Error(`HTTP ${response.status}`);
  const data=await response.json(); if(!Array.isArray(data)) throw Error('Expected an assets array');
  assets=indexAssets(data); $('#total').textContent=assets.length;
  const sets=new Map(assets.map(a=>[a.collection || 'samples',a.collectionTitle || 'オリジナルサンプル']));
