@@ -5,6 +5,7 @@ import { createHash } from 'node:crypto';
 // A new catalog gets a new URL, independent of the site's HTML/JS cache.
 const catalogVersion = createHash('sha256')
   .update(readFileSync(new URL('./public/data/assets.json', import.meta.url)))
+  .update(readFileSync(new URL('./public/data/projects.json', import.meta.url)))
   .digest('hex').slice(0, 16);
 
 export default defineConfig({
