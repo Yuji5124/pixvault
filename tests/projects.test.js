@@ -20,3 +20,8 @@ test('Deleted projects are excluded even in all, and can be restored without del
  const restored=resolveProjects(assets,registry,{momotaro:{deleted:false}});
  assert.equal(projectAssets(assets,restored,{status:'all'}).length,3);
 });
+test('Shared projects removed from the catalog do not reappear from stale browser overrides',()=>{
+ assert.deepEqual(resolveProjects([],[],{momotaro:{name:'古い名前',deleted:true}}),[]);
+ const id='cf08283e-83eb-4f8d-951b-ffb8a1519f17';
+ assert.equal(resolveProjects([],[],{[id]:{name:'ブラウザだけの Project'}}).length,1);
+});

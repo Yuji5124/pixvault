@@ -253,3 +253,13 @@ Project 名をカードと詳細に表示します。Project の種類（アニ�
 「Project 管理」で追加・名称変更・種類変更・アーカイブ・一覧から削除・復元ができます。これらはブラウザの localStorage に保存されます。削除は Project に属する画像をこのブラウザの一覧から非表示にする操作で、PNG ファイルは削除しません。アーカイブした素材は Project Archive フィルターで表示できます。
 
 共有設定は「設定を JSON で保存」で書き出し、`public/data/projects.json` を更新して公開します。Project 用の新しい素材を取り込む際は `public/data/assets.json` の該当画像に `project`（projects.json の id）と `projectTitle` を設定してください。`npm run assets` はこれらの情報を保持します。新規 Project の追加だけでは画像の移動・自動取得は行いません。実ファイルを削除する場合は対象 PNG と対応サムネイルをリポジトリから削除し、`npm run assets` とビルドを実行して再公開します。
+
+### 完全削除
+
+Project 管理の「完全削除」は「一覧から削除」と別の操作です。ブラウザ内で追加した、画像のない Project は、Project 名を入力して確認すると登録を完全に削除します。
+
+公開素材がある Project は、同じ確認画面に Project ID・画像枚数・確認文字列が表示されます。「GitHub の完全削除画面へ」を押し、GitHub にログインして **Run workflow** を開き、branch は **main** のまま、その3項目を入力して実行してください。GitHub でそのリポジトリの Actions を実行できる権限が必要です。サイトやブラウザに GitHub のトークンを入力する必要はありません。
+
+`Delete Project permanently` ワークフローは Project に属する元の PNG と WebP サムネイル、カタログ項目、Project 登録、該当する取り込み記録を削除し、main にコミットして Pages を再公開します。他の Project が参照する画像ファイルは残します。確認文字列が違う、表示時から画像枚数が変わった、対象のパスが不正、main 以外で実行した場合は削除しません。保護されたブランチへの push が禁止されている場合は公開は更新されず、Actions のエラー確認が必要です。
+
+サイトの「復元」で完全削除を取り消すことはできません。Git の過去のコミットには素材が残るため、履歴からの完全な消去ではありません。ローカルで実行する場合は `node scripts/delete-project.js <Project ID> <画像枚数> 'DELETE <Project ID>'` を使います。これは実ファイルを削除するコマンドです。
